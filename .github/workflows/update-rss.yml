@@ -2,10 +2,7 @@ name: Update RSS feed
 
 on:
   schedule:
-    # Запуск каждые 30 минут. Время указывается в UTC.
     - cron: '*/30 * * * *'
-
-  # Позволяет запускать вручную из вкладки Actions
   workflow_dispatch:
 
 permissions:
@@ -19,7 +16,6 @@ jobs:
   update-rss:
     runs-on: ubuntu-latest
     timeout-minutes: 15
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -38,11 +34,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
           git add rss.xml
-
           if git diff --cached --quiet; then
-            echo "rss.xml не изменился, коммит не нужен"
+            echo "rss.xml не изменился"
           else
             git commit -m "Update RSS feed $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
