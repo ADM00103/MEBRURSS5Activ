@@ -2,8 +2,19 @@ name: Update RSS feed
 
 on:
   schedule:
+    # Автозапуск каждые 30 минут. Время — UTC.
     - cron: '*/30 * * * *'
+
+  # Ручной запуск кнопкой "Run workflow" во вкладке Actions
   workflow_dispatch:
+
+  # Мгновенная регенерация, когда ты меняешь сам скрипт или этот workflow.
+  # Коммиты rss.xml этот триггер НЕ зацикливают (paths их не содержит).
+  push:
+    branches: [main]
+    paths:
+      - 'rss-generator.php'
+      - '.github/workflows/update-rss.yml'
 
 permissions:
   contents: write
@@ -16,11 +27,12 @@ jobs:
   update-rss:
     runs-on: ubuntu-latest
     timeout-minutes: 15
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup PHP
+      - name: Setup PHP 8.3
         uses: shivammathur/setup-php@v2
         with:
           php-version: '8.3'
@@ -28,15 +40,28 @@ jobs:
           coverage: none
 
       - name: Generate rss.xml
-        run: php rss-generator.php
+        run: php rss-generator.php > /dev/null
 
-      - name: Commit and push rss.xml if changed
+      - name: Validate and commit rss.xml
         run: |
+          set -e
+          test -f rss.xml || { echo "::error::rss.xml не создан"; exit 1; }
+
+          COUNT=$(php -r '$x = @simplexml_load_file("rss.xml"); echo ($x === false) ? -1 : count($x->channel->item);')
+          echo "Новостей в ленте: $COUNT"
+          if [ "$COUNT" -le 0 ]; then
+            echo "::error::Лента пустая или битый XML - оставляю прошлую версию"
+            exit 1
+          fi
+
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add rss.xml
-          if git diff --cached --quiet; then
-            echo "rss.xml не изменился"
+
+          # Коммит только если реально изменились новости.
+          # Строку <lastBuildDate> игнорируем, чтобы не коммитить пустоту.
+          if git diff --cached -I '<lastBuildDate>.*</lastBuildDate>' --quiet; then
+            echo "Новости не изменились - коммит не нужен"
           else
             git commit -m "Update RSS feed $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
