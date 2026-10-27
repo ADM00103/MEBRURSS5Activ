@@ -1,1 +1,49 @@
+name: Update RSS feed
 
+on:
+  schedule:
+    # Запуск каждые 30 минут. Время указывается в UTC.
+    - cron: '*/30 * * * *'
+
+  # Позволяет запускать вручную из вкладки Actions
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-rss
+  cancel-in-progress: false
+
+jobs:
+  update-rss:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+          extensions: curl, mbstring, simplexml
+          coverage: none
+
+      - name: Generate rss.xml
+        run: php rss-generator.php
+
+      - name: Commit and push rss.xml if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add rss.xml
+
+          if git diff --cached --quiet; then
+            echo "rss.xml не изменился, коммит не нужен"
+          else
+            git commit -m "Update RSS feed $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
