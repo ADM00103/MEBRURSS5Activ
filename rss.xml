@@ -5,8 +5,57 @@
     <link>https://vk.ru/mebru</link>
     <description>Aggregated RSS feed</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 30 Oct 2026 02:51:24 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 08:03:01 +0300</lastBuildDate>
 
+    <item>
+        <title>Почему изображение в Phantom Blade Zero такое размытое? Графический трюк S-Game в анализе производительности.</title>
+        <link>https://ixbt.games/news/2026/10/30/pocemu-izobrazenie-v-phantom-blade-zero-takoe-razmytoe-graficeskii-triuk-s-game-v-analize-proizvoditelnosti.html</link>
+        <guid isPermaLink="true">https://ixbt.games/news/2026/10/30/pocemu-izobrazenie-v-phantom-blade-zero-takoe-razmytoe-graficeskii-triuk-s-game-v-analize-proizvoditelnosti.html</guid>
+        <pubDate>Fri, 30 Oct 2026 06:47:00 +0300</pubDate>
+        <description><![CDATA[<figure><img src="https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-data/1732835/e9079178-48ac-423a-9977-d9a3e98f8e68.jpg" width="1600" height="1200"></figure><p>Phantom Blade Zero намеренно снижает разрешение изображения по умолчанию, из-за чего картинка выглядит размытой.</p><p> Анализом технической стороны игры на Unreal Engine 5 занялся блогер Дэниел Оуэн. Несмотря на похвалы в адрес версии для PS5 за красивую графику и стабильные 60 FPS, у ПК-игроков возникли вопросы к качеству изображения. </p><p> Phantom Blade Zero при выборе разрешения 1440p по умолчанию устанавливает параметр Super Resolution Output Scale на 85%, фактически снижая разрешение рендеринга. На ПК с RTX 3060 Оуэн добился около 70 FPS при использовании DLSS Performance и 1440p с масштабированием до 100%. С DLSS Quality производительность составила примерно 60 FPS, а изображение стало заметно чётче. </p><figure> </figure><p> Все тесты проводились с выключенной трассировкой лучей: разработчики предусмотрели качественную систему статического освещения. </p> Если я устанавливаю 1440p, игра по умолчанию не рендерит изображение в 1440p. […] На мой взгляд, до отключения этой опции картинка была чрезмерно размытой». <br /><b>&nbsp;—&nbsp;</b><p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Bluesky блокирует ссылки на утекшие данные сотрудников DHS</title>
+        <link>https://techimo.ru/news/bluesky-blokiruet-ssylki-na-utekshie-dannye-sotrudnikov-dhs</link>
+        <guid isPermaLink="true">https://techimo.ru/news/bluesky-blokiruet-ssylki-na-utekshie-dannye-sotrudnikov-dhs</guid>
+        <pubDate>Fri, 30 Oct 2026 06:34:10 +0300</pubDate>
+        <description><![CDATA[Социальная сеть Bluesky ввела ограничения на распространение ссылок, ведущих на ресурс некоммерческой организации DDoSecrets. Данное решение связано с публикацией на платформе конфиденциальной информации, касающейся сотрудников Министерства внутренней безопасности США (DHS). При попытке перехода по ссылкам пользователи получают уведомление о том, что контент помечен как «вредоносный», что фактически блокирует доступ к материалам через интерфейс с...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
+    </item>
+    <item>
+        <title>ИИ исправил баги Unreal Engine, которые не могли победить десять лет. Epic Games в восторге</title>
+        <link>https://ixbt.games/news/2026/10/30/ii-ispravil-bagi-unreal-engine-kotorye-ne-mogli-pobedit-desiat-let-epic-games-v-vostorge.html</link>
+        <guid isPermaLink="true">https://ixbt.games/news/2026/10/30/ii-ispravil-bagi-unreal-engine-kotorye-ne-mogli-pobedit-desiat-let-epic-games-v-vostorge.html</guid>
+        <pubDate>Fri, 30 Oct 2026 06:30:00 +0300</pubDate>
+        <description><![CDATA[<figure><img src="https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-data/1732831/2b1293df-d59d-47d5-97c5-2a263a68a311.jpg" width="1600" height="1200"></figure><p>Epic Games активно внедряет ИИ в разработку Unreal Engine: нейросети уже помогли исправить баги, копившиеся десять лет, и ускорить оптимизацию движка.</p><p> Две недели назад глава Epic Games Тим Суини объявил о масштабном переходе к инструментам искусственного интеллекта. Теперь технический директор Unreal Engine 5 Маркус Вассмер рассказал в интервью, что сотрудники компании активно используют Claude Code и Codex. </p><p> По его словам, ИИ уже помог устранить ошибки, с которыми инженеры боролись десятилетие, ускорить сжатие шейдеров и уменьшить размер обновлений. Кроме того, с помощью нейросетей удалось переписать значительную часть слоя рендеринга D3D12. Работа, на которую одному инженеру потребовалось бы шесть недель, заняла всего неделю, одновременно улучшив нагрузку на процессор и сократив количество ошибок. </p><p> Вассмер также заявил, что программисты Epic Games практически полностью перешли на «вайб-кодинг»: вместо самостоятельного написания кода они преимущественно контролируют и исправляют результаты работы ИИ. </p><figure> </figure><p> Возможности нового подхода предстоит оценить на Unreal Engine 5.9 и особенно Unreal Engine 6. Сейчас UE5 регулярно критикуют за низкую производительность и нестабильное изображение. </p><p> </p><p> </p><p> </p><p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Google закрывает ИИ-ассистента Jules для интеграции в платформу Antigravity</title>
+        <link>https://techimo.ru/news/google-zakryvaet-ii-assistenta-jules-dlya-integracii-v-platformu-antigravity</link>
+        <guid isPermaLink="true">https://techimo.ru/news/google-zakryvaet-ii-assistenta-jules-dlya-integracii-v-platformu-antigravity</guid>
+        <pubDate>Fri, 30 Oct 2026 05:04:16 +0300</pubDate>
+        <description><![CDATA[Корпорация Google официально объявила о начале поэтапного прекращения работы своего специализированного сервиса для разработчиков — AI-ассистента Jules. Несмотря на завершение жизненного цикла отдельного продукта, технологические наработки проекта не будут аннулированы: накопленный опыт и архитектурные решения планируется полностью интегрировать в глобальную платформу Antigravity. Данный шаг направлен на создание более эффективной и унифицированн...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Google Gemini получил встроенный редактор и предпросмотр документов</title>
+        <link>https://techimo.ru/news/google-gemini-poluchil-vstroennyy-redaktor-i-predprosmotr-dokumentov</link>
+        <guid isPermaLink="true">https://techimo.ru/news/google-gemini-poluchil-vstroennyy-redaktor-i-predprosmotr-dokumentov</guid>
+        <pubDate>Fri, 30 Oct 2026 04:35:48 +0300</pubDate>
+        <description><![CDATA[Компания Google представила масштабное обновление для своего чат-бота, интегрировав функции предварительного просмотра и прямого редактирования файлов в интерфейс Gemini. Это нововведение значительно упрощает взаимодействие с документами, позволяя пользователям работать с контентом, не переключаясь между различными вкладками и сторонними приложениями. Теперь искусственный интеллект Gemini становится полноценной рабочей средой для управления текст...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Пентагон расследует кибератаки на системы охлаждения военных баз</title>
+        <link>https://techimo.ru/news/pentagon-rassleduet-kiberataki-na-sistemy-ohlazhdeniya-voennyh-baz</link>
+        <guid isPermaLink="true">https://techimo.ru/news/pentagon-rassleduet-kiberataki-na-sistemy-ohlazhdeniya-voennyh-baz</guid>
+        <pubDate>Fri, 30 Oct 2026 04:06:25 +0300</pubDate>
+        <description><![CDATA[Министерство обороны США инициировало масштабное расследование серии инцидентов, связанных с аномальной работой холодильных установок на американских военных объектах. В августе 2026 года на нескольких базах были зафиксированы критические сбои в работе оборудования, что привело к массовой порче продовольственных запасов. Специалисты по информационной безопасности рассматривают версию о целенаправленной кибератаке на системы жизнеобеспечения, что ...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
+    </item>
+    <item>
+        <title>США внесли биолого-технологический гигант BGI в торговый черный список</title>
+        <link>https://techimo.ru/news/ssha-vnesli-biologo-tehnologicheskiy-gigant-bgi-v-torgovyy-chernyy-spisok</link>
+        <guid isPermaLink="true">https://techimo.ru/news/ssha-vnesli-biologo-tehnologicheskiy-gigant-bgi-v-torgovyy-chernyy-spisok</guid>
+        <pubDate>Fri, 30 Oct 2026 03:05:59 +0300</pubDate>
+        <description><![CDATA[Администрация Соединенных Штатов приняла официальное решение о включении ведущей китайской геномной компании BGI Group в торговый черный список. Данная мера направлена на ограничение доступа организации к американскому рынку и технологиям в рамках усиления контроля над цепочками поставок. Основной причиной санкций названо стремление предотвратить импорт продукции, созданной с использованием принудительного труда, а также защита чувствительных дан...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
+    </item>
     <item>
         <title>США расследуют дело о шпионаже и незаконных поставках чипов Nvidia</title>
         <link>https://techimo.ru/news/ssha-rassleduyut-delo-o-shpionazhe-i-nezakonnyh-postavkah-chipov-nvidia</link>
@@ -14,6 +63,13 @@
         <pubDate>Fri, 30 Oct 2026 02:36:27 +0300</pubDate>
         <description><![CDATA[Американские спецслужбы инициировали масштабное расследование в отношении Алис Хуанг, главы сингапурской технологической компании, специализирующейся на облачных решениях для искусственного интеллекта. Предпринимательницу подозревают в промышленном шпионаже в пользу Китая и организации каналов незаконного сбыта высокопроизводительных графических процессоров Nvidia в обход действующих экспортных ограничений.
 Связи с руководством Nvidia и подозрени...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Цензоры присвоили возрастной рейтинг ПК-версии Death Stranding 2: On the Beach. Релиз не за горами</title>
+        <link>https://ixbt.games/news/2026/10/30/cenzory-prisvoili-vozrastnoi-reiting-pk-versii-death-stranding-2-on-the-beach-reliz-ne-za-gorami.html</link>
+        <guid isPermaLink="true">https://ixbt.games/news/2026/10/30/cenzory-prisvoili-vozrastnoi-reiting-pk-versii-death-stranding-2-on-the-beach-reliz-ne-za-gorami.html</guid>
+        <pubDate>Fri, 30 Oct 2026 02:10:00 +0300</pubDate>
+        <description><![CDATA[<figure><img src="https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-data/1732805/a05d7142-be41-48e0-b2d2-f56b943397e1.jpg" width="1600" height="1200"></figure><p>Изначально игра вышла на PlayStation 5 в июле 2025 года.</p><p> В базе рейтинговой организации ESRB засветилась ПК-версия Death Stranding 2: On the Beach. Вероятнее всего, игра потеряет эксклюзивность PlayStation в ближайшие месяцы. </p><p> В опубликованной записи не указаны ни издатель, ни предполагаемая дата выхода. В качестве разработчика фигурирует исключительно Kojima Productions. Кто именно занимается переносом игры на ПК, пока неизвестно. </p><figure> <img src="https://cdn.ixbt.site/ixbt-data/1732804/media-7b1aa9ca1d12171ab6dec1f39e102fe450a1ead735a4b33da71498feb19c0fe8.jpg" alt="ESRB"/> <figcaption>ESRB</figcaption> </figure><p> Первая Death Stranding добралась до компьютеров примерно через восемь месяцев после выхода на PS4. Впоследствии игра появилась и на других платформах, включая Xbox One, Xbox Series X|S, macOS и устройства Apple. </p><p> Пока также нет информации о продолжительности консольной эксклюзивности Death Stranding 2 и возможном появлении проекта на Xbox. </p><p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
     </item>
     <item>
         <title>Anthropic стала крупнейшим клиентом SpaceX, обеспечив треть квартальной выручки</title>
@@ -36,7 +92,7 @@
         <link>https://3dnews.ru/1150641/binance-vozmognobila-vzlomana-zayavil-osnovatel-kriptobirgi</link>
         <guid isPermaLink="true">https://3dnews.ru/1150641/binance-vozmognobila-vzlomana-zayavil-osnovatel-kriptobirgi</guid>
         <pubDate>Fri, 30 Oct 2026 01:22:00 +0300</pubDate>
-        <description><![CDATA[Крупнейшие криптовалюты резко подешевели на фоне сообщений о возможном взломе крупнейшей криптобиржи Binance. Tether и Circle заморозили связанные с предполагаемой атакой стейблкоины на общую сумму более $2,3 млрд. Binance заявила, что расследует сообщения об инциденте, но пока не подтвердила ущерб средствам пользователей.<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
+        <description><![CDATA[Крупнейшие криптовалюты резко подешевели на фоне сообщений о возможном взломе крупнейшей криптобиржи Binance. Tether и Circle заморозили связанные с предполагаемой атакой стейблкоины на общую сумму более $2,3 млрд. В общей сложности украдены могут быть активы на сумму более $5 млрд. Binance заявила, что расследует сообщения об инциденте, но пока не подтвердила ущерб средствам пользователей.<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
     </item>
     <item>
         <title>DeepSeek и Moonshot AI использовали GPT-6 Astra для обучения своих ИИ-моделей</title>
@@ -481,27 +537,6 @@
         <description><![CDATA[<figure><img src="https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-data/1732740/media-462bbcc8ffe9419512854dfe94db9ec452d316558665758d1c7b960fa7adb522.png" width="1600" height="1200"></figure><p>Разработчики хотят вернуть не только контент, но и доверие игроков.</p><p> В Bungie сделали выводы и спустя много лет решили начать возвращать в Destiny 2 контент, который в прошлом был удалён из игры. Недавний блог студии, посвящённый дальнейшим планам, вселил надежду в поклонников. </p><p> Руководитель отдела продуктов Джош Дин (Josh Deane) ещё раз подтвердил, что разработчики признают удаление контента ошибкой, которая привела к нарушению целостности Destiny 2 и к утрате доверия сообщества: </p> Удаление в архив важного контента Destiny 2, даже если оно было связано с реальными техническими сложностями, стало моментом, который раздробил наш опыт и подорвал доверие сообщества. И стратегически, пока мы готовим новое будущее для Destiny, нам нужно продолжать радовать вас всех значимыми обновлениями нашей вселенной. <br /><b>&nbsp;—&nbsp;</b> <figure> <img src="https://cdn.ixbt.site/ixbt-data/1732740/media-462bbcc8ffe9419512854dfe94db9ec452d316558665758d1c7b960fa7adb522.png" alt=""/> <figcaption>Источник изображения: Bungie</figcaption> </figure><p> Сначала авторы Destiny 2 хотят вернуть кампании Red War, Forsaken, Curse of Osiris и Warmind и связанные с этими DLC страйки, рейды-контент. Затем разработчики перейдут к открытым локациям, сезонным активностями (9 – 23 сезоны), PvP-картам. Помимо этого, собираются вернуть сюжетные миссии, карту Gambit, сезонные хабы. </p><p> В феврале расскажут про Destiny 2 «Celebration», также в феврале появится информация про Destiny «Legacy» (игроки предполагают, что речь о ремастере первой части. </p><p> Помимо этого, в работе третий секретный проект, который описывают словами We’re back (с англ. «мы вернулись»). Есть мнение, что в Bungie строят планы на новую игру. </p><p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
     </item>
     <item>
-        <title>В Gothic 1 Remake добавили официальные читы, кастомизацию Безымянного и фоторежим — вышло большое обновление</title>
-        <link>https://ixbt.games/news/2026/10/29/v-gothic-1-remake-dobavili-oficialnye-city-kastomizaciiu-bezymiannogo-i-fotorezim-vyslo-bolsoe-obnovlenie.html</link>
-        <guid isPermaLink="true">https://ixbt.games/news/2026/10/29/v-gothic-1-remake-dobavili-oficialnye-city-kastomizaciiu-bezymiannogo-i-fotorezim-vyslo-bolsoe-obnovlenie.html</guid>
-        <pubDate>Thu, 29 Oct 2026 20:13:00 +0300</pubDate>
-        <description><![CDATA[<figure><img src="https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-data/1732736/media-79e4a780b5f2050d2a9aec8b7c7075c051e64d08afde7a67ee3f0f470ddc672e.png" width="1600" height="1200"></figure><p>Теперь игроки смогут изменить образ героя и повеселиться в читерском режиме.</p><p> Фанаты Gothic 1 Remake правильно разгадали недавние тизеры студии Alkimia Interactive и издателя THQ Nordic. Разработчики выпустили для игры большое обновление «Feature Update 1», а также бета-версию набора инструментов Modkit для создания пользовательских модификаций. </p><p> Игрокам стал доступен режим Marvin Mode с официальными читами, а также появилась возможность делать эффектные скриншоты с помощью фоторежима. </p><p> Для активации читерского режима Marvin Mode необходимо нажать клавишу «ESC» (откроется меню), затем ввести «MARVIN» и снова нажать «ESC». Для отключения режима нужно будет открыть меню и ввести «42». </p><p> Помимо этого, появилась полноценная система кастомизации — можно будет настроить образ Безымянного: «герой теперь сможет сделать себе нормальную стрижку и татуировки». Для разблокировки этих возможностей нужно выполнить несколько заданий Йору и Идола Намиба. </p><p> В честь релиза апдейта разработчики представили специальный трейлер нововведений: </p><figure> </figure><figure> <img src="https://cdn.ixbt.site/ixbt-data/1732736/media-79e4a780b5f2050d2a9aec8b7c7075c051e64d08afde7a67ee3f0f470ddc672e.png" alt=""/> <figcaption>Источник изображения: Alkimia Interactive, THQ Nordic</figcaption> </figure><p> Разработчики также исправили различные баги в квестах в разных главах, которые могли помешать прохождению игры. Полное описание обновления Feature Update 1 для Gothic 1 Remake<a href="https://store.steampowered.com/news/app/1297900/view/678513764320936890?l=english"> доступно по следующей ссылке.</a> </p><p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Ради этого Никита Буянов «работал 24/7» — в Escape from Tarkov наступила осень и начался ивент Halloween</title>
-        <link>https://ixbt.games/news/2026/10/29/radi-etogo-nikita-buianov-rabotal-247-v-escape-from-tarkov-nastupila-osen-i-nacalsia-ivent-halloween.html</link>
-        <guid isPermaLink="true">https://ixbt.games/news/2026/10/29/radi-etogo-nikita-buianov-rabotal-247-v-escape-from-tarkov-nastupila-osen-i-nacalsia-ivent-halloween.html</guid>
-        <pubDate>Thu, 29 Oct 2026 19:52:00 +0300</pubDate>
-        <description><![CDATA[<figure><img src="https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-data/1732730/media-7715accc22633650f5149ec5044bbd16e7e7bf6bb689a3460a6a281081e27cad.png" width="1600" height="1200"></figure><p>Разработчики также приготовили новых ЧВК-ботов для PvE Zone.</p><p> В конце октября авторы Escape from Tarkov представили хэллоуинское обновление 1.3.0.0 с новым ивентом Halloween. Ранее босс Battlestate Games Никита Буянов отмечал, что подготовка праздничного события шла в режиме 24/7. </p><p> Помимо этого, в Тарков пришла осень — прошла смена внутриигрового сезона. А для ряда предметов из категорий «Деньги» и «Драгоценности» изменены коллайдеры для упрощения поиска и подбора в рейдах. </p><p> Разработчики также рассказали, что добавили в PvE ZONE ЧВК-ботов «повышенной сложности», которые могут встречаться на высокоуровневых локация. </p><figure> </figure><p> Некоторые другие изменения: </p><ul><li>Появились новые варианты кастомизации Убежища в Центре Расширений — «Своя Поднебесная» и «Однажды в Таркове».</li><li>Внесены исправления в прокачку навыка «Метаболизм». Теперь прокачка рассчитывается в зависимости от восстановленной энергии или гидратации;</li><li>Для сезонного режима значительно увеличена скорость прокачки всех навыков;</li><li>Сбалансировано влияние усталости при расчёте прокачки навыков;</li><li>Увеличено время жизни растяжек, установленных игроками.</li></ul><figure> <img src="https://cdn.ixbt.site/ixbt-data/1732730/media-7715accc22633650f5149ec5044bbd16e7e7bf6bb689a3460a6a281081e27cad.png" alt=""/> <figcaption>Источник изображения: Battlestate Games // https://youtu.be/vwxTdtLsf28</figcaption> </figure><p> Полное описание обновления 1.3.0.0 для Escape from Tarkov<a href="https://vk.ru/@-89771130-patch-1300?subtype=primary"> доступно по следующей ссылке.</a> </p><p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Скоро покажут The Elder Scrolls VI — инсайдер раскрыл подзаголовок и детали игры</title>
-        <link>https://ixbt.games/news/2026/10/29/skoro-pokazut-the-elder-scrolls-vi-insaider-raskryl-podzagolovok-i-detali-igry.html</link>
-        <guid isPermaLink="true">https://ixbt.games/news/2026/10/29/skoro-pokazut-the-elder-scrolls-vi-insaider-raskryl-podzagolovok-i-detali-igry.html</guid>
-        <pubDate>Thu, 29 Oct 2026 19:47:00 +0300</pubDate>
-        <description><![CDATA[<figure><img src="https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-data/1732728/media-aa521f3e024514efdab42432b6f206b94ab9d5ea46db6f6141f61d7dc364c85a.png" width="1600" height="1200"></figure><p>Предполагается, что полноценный анонс состоится в ближайшее время.</p><p> Тизер The Elder Scrolls VI показали в 2018 году и Bethesda не спешит раскрывать детали новой части франшизы. За минувшие годы игра обросла различными слухами и недавно у фанатов появился ещё один повод вспомнить про TES VI. </p><p> Журналист Том Уоррен (Tom Warren) из The Verge поделился информацией про The Elder Scrolls VI, которую получил от источников — якобы сейчас в Bethesda идёт подготовка к анонсу, могут раскрыть подзаголовок игры: </p> Источники, знакомые с планами Bethesda, сообщают мне, что она готовится объявить, что следующая игра серии получит название «The Elder Scrolls VI: Sentinel». <br /><b>&nbsp;—&nbsp;</b> <p> По словам Уоррена, этот анонс может состояться уже в следующем месяце (ноябре), т.е. «в период, который ознаменует 15 лет с момента выхода The Elder Scrolls V: Skyrim». </p><p> </p><figure> <img src="https://cdn.ixbt.site/ixbt-data/1732728/media-aa521f3e024514efdab42432b6f206b94ab9d5ea46db6f6141f61d7dc364c85a.png" alt=""/> <figcaption>Источник изображения: Bethesda Game Studios, Bethesda Softworks // janjohnson // https://steamcommunity.com/sharedfiles/filedetails/?id=3829177781</figcaption> </figure><p> Источники журналиста рассказали ему, что в последние месяцы Bethesda демонстрировала геймплей TES VI: Sentinel: </p> В августе генеральный директор Xbox Аша Шарма получила возможность увидеть живую демонстрацию TES VI и похвалила её масштаб, отметив: «история ещё грандиознее». <br /><b>&nbsp;—&nbsp;</b> <p> Лично сам Уоррен ожидает в ноябре «только раскрытие названия и ничего более». Однако он «слышал» и некоторые дополнительные подробности о TES VI: </p> Насколько я понимаю, действие Sentinel развернётся в Хаммерфелле — провинции вселенной The Elder Scrolls, которая уже появлялась в The Elder Scrolls Adventures: Redguard и The Elder Scrolls Online. TES VI: Sentinel станет первой игрой, посвящённой истории Древних Свитков (The Elder Scrolls), и поможет раскрыть тайны загадочных древних артефактов. <br /><b>&nbsp;—&nbsp;</b><p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
         <title>MMORPG Lost Ark готовится к крупным переменам после смены руководства</title>
         <link>https://mmo13.ru/news/post-36710</link>
         <guid isPermaLink="true">https://mmo13.ru/news/post-36710</guid>
@@ -871,13 +906,6 @@
         <description><![CDATA[Marvelous USA представила первые выпуски серии видеоматериалов Special Discussion, посвященных разработке японской ролевой игры Eternal Anima.<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
     </item>
     <item>
-        <title>Глава Instagram Адам Моссери прогнозирует рост общественного недовольства ИИ</title>
-        <link>https://techimo.ru/news/glava-instagram-adam-mosseri-prognoziruet-rost-obschestvennogo-nedovolstva-ii</link>
-        <guid isPermaLink="true">https://techimo.ru/news/glava-instagram-adam-mosseri-prognoziruet-rost-obschestvennogo-nedovolstva-ii</guid>
-        <pubDate>Thu, 29 Oct 2026 11:39:09 +0300</pubDate>
-        <description><![CDATA[Руководитель социальной сети Instagram Адам Моссери выступил с прогнозом относительно будущего развития технологий машинного обучения и их восприятия социумом. По мнению топ-менеджера, в ближайшие годы мировое сообщество столкнется с усилением общественного недовольства искусственным интеллектом, которое затронет различные возрастные группы и профессиональные сферы. Основной причиной грядущего напряжения станет стремительная интеграция нейросетей...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
         <title>На GitHub нашли троян, нацеленный на ИБ-специалистов</title>
         <link>https://xakep.ru/2026/10/29/github-malware-2/</link>
         <guid isPermaLink="true">https://xakep.ru/2026/10/29/github-malware-2/</guid>
@@ -892,13 +920,6 @@
         <description><![CDATA[Разработчики приключенческой игры с коллекционированием существ Aniimo выпустили обновление в рамках первого сезона Departure with the Wind.<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
     </item>
     <item>
-        <title>Российский бизнес масштабирует внедрение генеративного ИИ в 2026 году</title>
-        <link>https://techimo.ru/news/rossiyskiy-biznes-masshtabiruet-vnedrenie-generativnogo-ii-v-2026-godu</link>
-        <guid isPermaLink="true">https://techimo.ru/news/rossiyskiy-biznes-masshtabiruet-vnedrenie-generativnogo-ii-v-2026-godu</guid>
-        <pubDate>Thu, 29 Oct 2026 11:21:26 +0300</pubDate>
-        <description><![CDATA[Российский корпоративный сектор демонстрирует высокий интерес к технологиям на базе нейросетей: согласно свежим данным исследования «СберПро» и TAdviser, представленным к конференции SberPro Tech 2026, порядка 80 отечественных компаний планируют расширять использование генеративного искусственного интеллекта в своих бизнес-процессах. Несмотря на активное тестирование инноваций, процесс перехода от экспериментальных разработок к полноценному внедр...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
         <title>Великобритания готовится обязать застройщиков ЦОД инвестировать в регионы присутствия — чтобы предотвратить недовольство населения</title>
         <link>https://servernews.ru/1150593/</link>
         <guid isPermaLink="true">https://servernews.ru/1150593/</guid>
@@ -911,15 +932,6 @@
         <guid isPermaLink="true">https://mmo13.ru/news/post-36701</guid>
         <pubDate>Thu, 29 Oct 2026 11:14:35 +0300</pubDate>
         <description><![CDATA[Компания Smilegate выпустила в Steam популярную аниме-гачу Epic Seven, релиз которой состоялся еще в 2018 году. Новички могут присоединиться к новому серверу, чтобы начать вместе со всеми, либо выбрать старый.<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Edge of Tomorrow: Zero вышла в Steam: новый стандарт китайских экшн-игр</title>
-        <link>https://techimo.ru/news/edge-of-tomorrow-zero-vyshla-v-steam-novyy-standart-kitayskih-ekshn-igr</link>
-        <guid isPermaLink="true">https://techimo.ru/news/edge-of-tomorrow-zero-vyshla-v-steam-novyy-standart-kitayskih-ekshn-igr</guid>
-        <pubDate>Thu, 29 Oct 2026 11:12:15 +0300</pubDate>
-        <description><![CDATA[Состоялся официальный релиз ожидаемого китайского экшн-проекта Edge of Tomorrow: Zero на персональных компьютерах и консолях последнего поколения. Игра, сочетающая в себе элементы восточных единоборств и эстетику стимпанка, уже доступна пользователям сервиса Steam, предлагая игрокам погрузиться в детально проработанный мир боевых искусств.
-Технические особенности и стоимость издания
-Проект разработан студией Lingyoufang на базе современного графи...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
     </item>
     <item>
         <title>Anthropic научила Claude доносить начальству на сотрудников, которые зря тратят токены</title>
@@ -941,14 +953,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1150600</guid>
         <pubDate>Thu, 29 Oct 2026 11:12:00 +0300</pubDate>
         <description><![CDATA[Anthropic представила &laquo;умные отчёты&raquo; (smart reports) &mdash; функцию, которая даёт руководству компании возможность оценить, как и для чего сотрудники пользуются сервисами искусственного интеллекта Claude. &laquo;Умные отчёты&raquo; уже доступны пользователям платных корпоративных тарифных планов и могут активироваться в настройках организации. Источник изображений: claude.com<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
-        <title>В России создадут Совет главных конструкторов для достижения техлидерства</title>
-        <link>https://techimo.ru/news/v-rossii-sozdadut-sovet-glavnyh-konstruktorov-dlya-dostizheniya-tehliderstva</link>
-        <guid isPermaLink="true">https://techimo.ru/news/v-rossii-sozdadut-sovet-glavnyh-konstruktorov-dlya-dostizheniya-tehliderstva</guid>
-        <pubDate>Thu, 29 Oct 2026 11:11:08 +0300</pubDate>
-        <description><![CDATA[Председатель Правительства РФ Михаил Мишустин поручил сформировать Совет главных конструкторов, который станет ключевым звеном в системе управления технологической политикой страны. Деятельность нового органа будет направлена на создание эффективных механизмов взаимодействия между разработчиками и государством, а также на реализацию комплексных планов по импортозамещению и внедрению инноваций в промышленный сектор.
-Задачи нового ведомственного ор...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
     </item>
     <item>
         <title>ИИ-бум разогнал поиск Google до максимума за пять лет, а Gemini достиг 1 млрд пользователей — но цена ИИ-бума растёт</title>
@@ -977,15 +981,6 @@
         <guid isPermaLink="true">https://mmo13.ru/news/post-36700</guid>
         <pubDate>Thu, 29 Oct 2026 10:43:12 +0300</pubDate>
         <description><![CDATA[Qooland Games объявила о полном закрытии изометрического MMO-экшена Warborne Above Ashes. Игровые серверы будут отключены 29 апреля 2027 года в 06:00 по московскому времени. С момента релиза прошло чуть более одного года.<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Google Play изменит алгоритмы выдачи в пользу складных устройств</title>
-        <link>https://techimo.ru/news/google-play-izmenit-algoritmy-vydachi-v-polzu-skladnyh-ustroystv</link>
-        <guid isPermaLink="true">https://techimo.ru/news/google-play-izmenit-algoritmy-vydachi-v-polzu-skladnyh-ustroystv</guid>
-        <pubDate>Thu, 29 Oct 2026 10:40:11 +0300</pubDate>
-        <description><![CDATA[Компания Google официально анонсировала масштабное обновление магазина приложений Play Store, направленное на повышение качества программного обеспечения для устройств с гибкими экранами. Начиная с 2025 года, алгоритмы площадки начнут учитывать уровень оптимизации интерфейса, отдавая приоритет тем продуктам, которые наиболее эффективно используют возможности складных смартфонов и планшетов.
-Новые критерии ранжирования и видимости
-Согласно новой п...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
     </item>
     <item>
         <title>Китай решил продавать за рубеж доступ к ИИ, но не сами технологии — Пекин готовит новые экспортные ограничения</title>
