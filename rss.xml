@@ -5,22 +5,8 @@
     <link>https://vk.ru/mebru</link>
     <description>Aggregated RSS feed</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 03 Nov 2026 02:49:19 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 08:57:28 +0300</lastBuildDate>
 
-    <item>
-        <title>Эра орбитальных вычислений: прогноз Илона Маска на 2029 год</title>
-        <link>https://techimo.ru/news/era-orbitalnyh-vychisleniy-prognoz-ilona-maska-na-2029-god</link>
-        <guid isPermaLink="true">https://techimo.ru/news/era-orbitalnyh-vychisleniy-prognoz-ilona-maska-na-2029-god</guid>
-        <pubDate>Tue, 03 Nov 2026 02:33:16 +0300</pubDate>
-        <description><![CDATA[Глава SpaceX Илон Маск представил масштабный прогноз развития космических технологий, согласно которому вычислительная мощность на низкой околоземной орбите (НОО) превзойдет наземную инфраструктуру уже к концу текущего десятилетия. Согласно заявлению предпринимателя, значительный сдвиг в распределении ресурсов искусственного интеллекта и облачных платформ начнется в 2028 году, что ознаменует переход к новой архитектуре хранения и обработки данных...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
-        <title>OpenAI представила стратегию создания парков вычислительной мощности ИИ</title>
-        <link>https://techimo.ru/news/openai-predstavila-strategiyu-sozdaniya-parkov-vychislitelnoy-moschnosti-ii</link>
-        <guid isPermaLink="true">https://techimo.ru/news/openai-predstavila-strategiyu-sozdaniya-parkov-vychislitelnoy-moschnosti-ii</guid>
-        <pubDate>Tue, 03 Nov 2026 01:49:51 +0300</pubDate>
-        <description><![CDATA[Компания OpenAI объявила о масштабном ребрендинге своей инфраструктуры и пересмотре стратегии развития на фоне меняющегося политического ландшафта в США. Согласно официальному заявлению, разработчик переходит от концепции традиционных центров обработки данных к созданию «парков вычислительной мощности ИИ». Этот шаг направлен на адаптацию технологического гиганта к новым экономическим и регуляторным условиям, которые сформировались после проведени...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
     <item>
         <title>Календарь релизов 2 – 8 ноября: ремейк Zelda: Ocarina of Time, WoW: Forever и Hull Rupture</title>
         <link>https://3dnews.ru/1150769/kalendar-relizov-2-8-noyabrya-remeyk-zelda-ocarina-of-time-wow-forever-i-hull-rupture</link>
@@ -188,13 +174,6 @@
         <guid isPermaLink="true">https://www.ixbt.com/news/2026/11/02/vosem-let-obeshhanii-i-ni-odnogo-gotovogo-cipa-razrabotcik-universalnogo-1024-iadernogo-processora-prodigy-prizvannogo-zamenit-cpu-i-gpu-bankrot.html</guid>
         <pubDate>Mon, 02 Nov 2026 21:39:00 +0300</pubDate>
         <description><![CDATA[<h2>В кремнии проект так и не реализовался</h2><p> Словацкая компания Tachyum, разрабатывающая универсальный процессор Prodigy, подала заявление о банкротстве. Проект задумывался как попытка создать один чип, способный выполнять задачи центральных процессоров, графических ускорителей и специализированных вычислительных систем. Компания обещала высокую производительность при сравнительно низком энергопотреблении и позиционировала Prodigy как решение для центров обработки данных и искусственного интеллекта. </p><figure> <img src="https://cdn.ixbt.site/ixbt-images/1736305/media-9851c19d490fc96624d80ea360ab67f61b07544a0e075f55903c5eb6657c2cb8.webp" alt=""/> <figcaption>Источник изображения: Tachyum через Toms Hardware // https://www.tomshardware.com/pc-components/cpus/tachyum-developer-of-heavily-delayed-universal-prodigy-processor-voluntarily-files-for-bankruptcy-future-of-prodigy-ip-unknown-as-company-begins-bankruptcy-proceedings</figcaption> </figure><p> Разработку представили ещё в 2018 году, однако за прошедшие годы процессор так и не добрался до рынка. Теперь ситуация осложнилась финансовыми проблемами: словацкое подразделение Tachyum Slovakia подало заявление о собственной несостоятельности 22 октября 2026 года, не дожидаясь требований кредиторов о взыскании долгов. </p><p> Как сообщает Forbes Slovakia со ссылкой на судебные документы, муниципальный суд Братиславы III признал заявление соответствующим законодательным требованиям и начал процедуру банкротства. По словацкому законодательству добровольная подача такого заявления означает презумпцию неплатёжеспособности компании. </p><p> Tachyum Slovakia — это дочерняя структура американской Tachyum Inc. Именно в Словакии сосредоточена значительная часть разработки Prodigy. Поэтому ключевой вопрос сейчас — кому принадлежат права на процессор: американской материнской компании или её словацкому подразделению. </p><p> Если интеллектуальная собственность оформлена на американскую Tachyum Inc., она потенциально может сохранить технологии Prodigy, даже если словацкая структура прекратит существование вместе с частью долгов. Если же права принадлежат Tachyum Slovakia, их сможет получить новый владелец в рамках продажи активов банкротящейся компании. Впрочем, положение американской материнской структуры тоже непростое: некоторые её кредиторы добиваются ликвидации. </p><p> В случае признания Tachyum Slovakia банкротом её активами займётся назначенный судом управляющий. На продажу могут выставить оборудование, патенты, интеллектуальную собственность и другие разработки. Без новых инвестиций или покупателя, готового финансировать дальнейшую работу, создание Prodigy рискует остановиться окончательно. </p><p> Проект развивается с 2018 года, но за восемь лет компания так и не продемонстрировала работающий кремниевый образец процессора. Изначально Tachyum обещала начать производство в 2020 году, однако сроки неоднократно переносились — сначала на 2021-й, затем на 2022, 2023, 2024 и 2025 годы. </p><p> Одновременно постоянно менялись и характеристики чипа. Первоначальную 64-ядерную архитектуру сменили варианты на 128 и 192 ядра. В конце 2025 года Tachyum объявила о новой радикальной переработке: Prodigy должен был получить чиплетную архитектуру с 1024 ядрами, 24 каналами памяти DDR5 и энергопотреблением до 1600 Вт. Производить его планировалось по 2-нанометровому техпроцессу. Столь масштабная переработка потребовала бы дополнительных лет разработки и могла отодвинуть выход процессора до 2030 года (или ещё дальше). </p><p> </p><p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Российские ученые представили 7 новых методов дообучения LLM на EMNLP-2026</title>
-        <link>https://techimo.ru/news/rossiyskie-uchenye-predstavili-7-novyh-metodov-doobucheniya-llm-na-emnlp-2026</link>
-        <guid isPermaLink="true">https://techimo.ru/news/rossiyskie-uchenye-predstavili-7-novyh-metodov-doobucheniya-llm-na-emnlp-2026</guid>
-        <pubDate>Mon, 02 Nov 2026 21:27:09 +0300</pubDate>
-        <description><![CDATA[На престижной международной конференции по методам обработки естественного языка EMNLP-2026 в Будапеште российские исследователи из Т-Банка презентовали семь инновационных подходов к дообучению больших языковых моделей. Представленные технологии прошли строгий отбор в рамках слепого рецензирования, успешно конкурируя с разработками ведущих мировых технологических корпораций. Основное внимание экспертного сообщества привлекли решения, направленные...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
     </item>
     <item>
         <title>Выброшенные аккумуляторы электросамокатов превратили в систему хранения энергии на 70 кВт·ч</title>
@@ -414,13 +393,6 @@
         <description><![CDATA[Вдохновлённый MudRunner, Death Stranding и Disco Elysium душевный симулятор сельского водителя в постсоветском антураже &laquo;Заря&raquo; от независимой российской студии SBSR Games в преддверии выхода обрёл новый дом. Источник изображений: SBSR Games<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
     </item>
     <item>
-        <title>Массовые взломы Li Auto в России: злоумышленники блокируют доступ к авто</title>
-        <link>https://techimo.ru/news/massovye-vzlomy-li-auto-v-rossii-zloumyshlenniki-blokiruyut-dostup-k-avto</link>
-        <guid isPermaLink="true">https://techimo.ru/news/massovye-vzlomy-li-auto-v-rossii-zloumyshlenniki-blokiruyut-dostup-k-avto</guid>
-        <pubDate>Mon, 02 Nov 2026 19:21:13 +0300</pubDate>
-        <description><![CDATA[Владельцы премиальных электромобилей и гибридов китайского бренда Li Auto в России стали жертвами масштабной кибератаки. По сообщениям профильных изданий и официальных представителей рынка, неизвестные хакеры получают несанкционированный доступ к мастер-аккаунтам пользователей, что приводит к частичной или полной потере контроля над транспортным средством. Данный инцидент подчеркивает растущие риски информационной безопасности в эпоху цифровизаци...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
         <title>В России массово взламывают кроссоверы Li Auto — злоумышленники «угоняют» мастер-аккаунты и просят выкуп</title>
         <link>https://www.ixbt.com/news/2026/11/02/v-rossii-massovo-vzlamyvaiut-krossovery-li-auto-zloumyslenniki-ugoniaiut-master-akkaunty-i-prosiat-vykup.html</link>
         <guid isPermaLink="true">https://www.ixbt.com/news/2026/11/02/v-rossii-massovo-vzlamyvaiut-krossovery-li-auto-zloumyslenniki-ugoniaiut-master-akkaunty-i-prosiat-vykup.html</guid>
@@ -519,15 +491,6 @@
         <description><![CDATA[<figure><img src="https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1736246/media-0493be3f119750f80dfe487e47630e02a59c6b0534dd4c972ae204fb5f308703.jpg" width="1600" height="1200"></figure><p>Российским зрителям, похоже, не придётся выбирать, на какой блокбастер идти первым.</p><p> «Мстители: Доктор Дум» и «Дюна. Часть третья» разойдутся по датам в прокате СНГ. Фильм Дени Вильнёва выйдет 17 декабря 2026 года, а новые «Мстители» — 7 января 2027 года. Таким образом, местный «Дюнсдэй», как уже прозвали столкновение двух главных декабрьских блокбастеров, не состоится. </p><p> Учитывая, что после ухода голливудских студий крупные зарубежные новинки появляются в российских кинотеатрах неофициально, а одним из источников русскоязычных копий остаются страны СНГ, эти даты могут служить ориентиром и для отечественных зрителей. </p><p> Обычно такие фильмы добираются до российских экранов примерно через неделю после премьеры в СНГ. Если эта задержка сохранится, «Дюну» можно ожидать в кинотеатрах с 24 декабря, а «Мстителей» — с 14 января. Правда, новогодние праздники могут внести свои коррективы, поскольку в этот период кинотеатры отдают приоритет отечественным новинкам. Например, «Аватар: Пламя и пепел» стартовал в Казахстане 19 декабря 2025 года, но до российских экранов добрался лишь 15 января 2026 года. </p><figure> <img src="https://cdn.ixbt.site/ixbt-images/1736246/media-0493be3f119750f80dfe487e47630e02a59c6b0534dd4c972ae204fb5f308703.jpg" alt=""/> <figcaption>Источник изображения: Warner Bros. / Marvel Studios</figcaption> </figure><p> Более точные сроки станут известны ближе к премьерам. </p><h2>Читайте ещё материалы по теме:</h2> <ul> <li> <a href="https://ixbt.games/news/2026/10/26/tretei-diune-predrekaiut-razgromnoe-porazenie-v-bitve-s-mstiteliami-predprodazi-biletov-govoriat-v-polzu-marvel.html">Третьей «Дюне» предрекают разгромное поражение в битве с «Мстителями»: предпродажи билетов говорят в пользу Marvel</a> </li> <li> <a href="https://ixbt.games/news/2026/10/22/kitai-vstal-na-storonu-mstitelei-v-protivostoianii-s-diunoi-glavnaia-bitva-blokbasterov-goda-polucila-neozidannyi-povorot.html"> Китай встал на сторону «Мстителей» в противостоянии с «Дюной» — главная битва блокбастеров года получила неожиданный поворот</a> </li> </ul><p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
     </item>
     <item>
-        <title>Qianwen Office бьет рекорды: 100 000 абонементов продано за 30 минут</title>
-        <link>https://techimo.ru/news/qianwen-office-bet-rekordy-100-000-abonementov-prodano-za-30-minut</link>
-        <guid isPermaLink="true">https://techimo.ru/news/qianwen-office-bet-rekordy-100-000-abonementov-prodano-za-30-minut</guid>
-        <pubDate>Mon, 02 Nov 2026 18:22:56 +0300</pubDate>
-        <description><![CDATA[На китайском технологическом рынке зафиксирован беспрецедентный спрос на решения в области искусственного интеллекта для продуктивности. 2 ноября 2026 года в рамках крупнейшей ежегодной распродажи «11.11» индивидуальные подписки на сервис Qianwen Office продемонстрировали выдающиеся показатели продаж, подтверждая растущий интерес массового потребителя к интеграции нейросетевых помощников в рабочие процессы.
-Феноменальный успех в прямом эфире
-Реал...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
         <title>Suda51 хочет вернуться к мрачному стилю своих ранних игр</title>
         <link>https://ixbt.games/news/2026/11/02/suda51-xocet-vernutsia-k-mracnomu-stiliu-svoix-rannix-igr.html</link>
         <guid isPermaLink="true">https://ixbt.games/news/2026/11/02/suda51-xocet-vernutsia-k-mracnomu-stiliu-svoix-rannix-igr.html</guid>
@@ -547,13 +510,6 @@
         <guid isPermaLink="true">https://ixbt.games/news/2026/11/02/simuliator-selskogo-voditelia-zaria-obzavelsia-izdatelem.html</guid>
         <pubDate>Mon, 02 Nov 2026 17:55:00 +0300</pubDate>
         <description><![CDATA[<figure><img src="https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1736240/411afd61-ddb9-43e1-9310-9115f8f0a5db.jpg" width="1600" height="1200"></figure><p>Разработчики из студии SBSR называют партнерство со Spaghetti Cat новом этапом развития.</p><p> Независимая студия SBSR заключила соглашение с издательством Spaghetti Cat. Партнерство предусматривает поддержку и продвижение сюжетного симулятора сельского водителя, а также поможет разработчикам реализовать новые идеи и расширить возможности проекта. </p><p> Изначально SBSR задумывала небольшой проект с несколькими головоломками и мини-играми. Однако интерес аудитории повлиял на планы команды и разработчики решили расширить игру. </p><figure> </figure><p> В центре истории находится Василий, который пытается вдохнуть новую жизнь в свою деревню. Для этого ему придется заниматься перевозками, помогать соседям и браться за самые разные задания. </p><p> Разработчики обещают: </p><ul><li>Перевозку посылок и других товаров по сельским дорогам, полям и труднопроходимым тропам</li><li>Знакомство с историями людей, живущих вдали от больших городов</li><li>Рыбалку, приготовление шашлыка, поездки на рынок и буксировка чужих автомобилей</li></ul><p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
-        <title>В России ввели обязательное резервирование мощностей в дата-центрах</title>
-        <link>https://techimo.ru/news/v-rossii-vveli-obyazatelnoe-rezervirovanie-moschnostey-v-data-centrah</link>
-        <guid isPermaLink="true">https://techimo.ru/news/v-rossii-vveli-obyazatelnoe-rezervirovanie-moschnostey-v-data-centrah</guid>
-        <pubDate>Mon, 02 Nov 2026 17:53:51 +0300</pubDate>
-        <description><![CDATA[Президент России подписал новый указ, регулирующий работу отечественной ИТ-инфраструктуры и устанавливающий новые требования к операторам данных. Согласно документу, владельцы центров обработки данных (ЦОД) теперь обязаны резервировать 10% своих мощностей для обеспечения стабильного функционирования государственных и социально значимых информационных ресурсов. Данная мера направлена на повышение отказоустойчивости цифровой среды в условиях растущ...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
     </item>
     <item>
         <title>Sony ускорила выпуск обновлений для PS5, чтобы защитить GTA VI от пиратов</title>
@@ -605,14 +561,6 @@
         <description><![CDATA[Для файтинга MARVEL Tōkon: Fighting Souls вышло крупное обновление, которое сопровождается выпуском первого DLC с новым персонажем Циклопом в космическом облике Феникса.<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
     </item>
     <item>
-        <title>ByteDance меняет рынок контента: от субсидий для сериалов к AI-манхуа</title>
-        <link>https://techimo.ru/news/bytedance-menyaet-rynok-kontenta-ot-subsidiy-dlya-serialov-k-ai-manhua</link>
-        <guid isPermaLink="true">https://techimo.ru/news/bytedance-menyaet-rynok-kontenta-ot-subsidiy-dlya-serialov-k-ai-manhua</guid>
-        <pubDate>Mon, 02 Nov 2026 17:15:12 +0300</pubDate>
-        <description><![CDATA[Компания ByteDance через свою платформу Hongguo инициировала масштабную реструктуризацию системы финансирования производителей контента, что привело к значительному изменению ландшафта цифровых медиа. Изменение механизмов гарантированных субсидий для мини-сериалов малого и среднего формата вынуждает производственные компании искать более эффективные технологические решения, среди которых ключевое место заняло создание AI-манхуа.
-Корректировка фин...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
         <title>GeForce RTX 3060 снова стала самой популярной в Steam, а доля Linux почти вернулась к 4 %</title>
         <link>https://3dnews.ru/1150745</link>
         <guid isPermaLink="true">https://3dnews.ru/1150745</guid>
@@ -648,27 +596,11 @@
         <description><![CDATA[<a href="/tag/vybor-redaktora/">Для подписчиков</a><br/>Если внутренний сервис сохраняет текст в файл и не ограничивает расширение, его можно превратить в загрузчик шелла: сгенерировать изображение с коротким PHP-кодом так, чтобы распознаватель вернул его символ в символ. Результат выполним от имени сервиса.<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
     </item>
     <item>
-        <title>Московская биржа запускает торги цифровыми валютами с 1 декабря 2026 года</title>
-        <link>https://techimo.ru/news/moskovskaya-birzha-zapuskaet-torgi-cifrovymi-valyutami-s-1-dekabrya-2026-goda</link>
-        <guid isPermaLink="true">https://techimo.ru/news/moskovskaya-birzha-zapuskaet-torgi-cifrovymi-valyutami-s-1-dekabrya-2026-goda</guid>
-        <pubDate>Mon, 02 Nov 2026 16:02:20 +0300</pubDate>
-        <description><![CDATA[Московская биржа официально объявила о запуске нового сегмента — рынка цифровых валют, старт торгов на котором запланирован на 1 декабря текущего года. Данная инициатива знаменует собой важный этап интеграции децентрализованных активов в традиционную финансовую инфраструктуру, позволяя участникам проводить операции в рамках регулируемого биржевого пространства.
-Технологические особенности и доступные инструменты
-Процесс реализации торгов будет ба...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
         <title>ФБР: Binance взломали северокорейские хакеры</title>
         <link>https://xakep.ru/2026/11/02/binance-tradertraitor/</link>
         <guid isPermaLink="true">https://xakep.ru/2026/11/02/binance-tradertraitor/</guid>
         <pubDate>Mon, 02 Nov 2026 15:30:22 +0300</pubDate>
         <description><![CDATA[Представители ФБР официально подтвердили, что за взломом криптобиржи Binance стояла северокорейская хакерская группировка TraderTraitor, также известная как Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces и UNC4899. В результате атаки хакеры похитили у биржи криптовалюту на сумму более 6 млрд долларов США.<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
-        <title>МЧС устраняет уязвимость в мобильном приложении после кибератаки</title>
-        <link>https://techimo.ru/news/mchs-ustranyaet-uyazvimost-v-mobilnom-prilozhenii-posle-kiberataki</link>
-        <guid isPermaLink="true">https://techimo.ru/news/mchs-ustranyaet-uyazvimost-v-mobilnom-prilozhenii-posle-kiberataki</guid>
-        <pubDate>Mon, 02 Nov 2026 15:07:24 +0300</pubDate>
-        <description><![CDATA[Министерство чрезвычайных ситуаций России официально подтвердило факт обнаружения критической уязвимости в своем мобильном приложении после зафиксированной кибератаки. Инцидент привел к распространению недостоверной информации, однако специалисты ведомства уже приступили к локализации последствий и восстановлению штатного режима работы сервиса. Безопасность цифровой инфраструктуры остается приоритетной задачей для экстренных служб в условиях учас...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
     </item>
     <item>
         <title>DayOne и Blue Whale Energy изучат возможность создания распределённой виртуальной электростанции в Сингапуре для ЦОД SG1</title>
@@ -727,22 +659,6 @@
         <description><![CDATA[Компания Biostar представила индустриальный компьютер небольшого форм-фактора EdgeComp MT-U325, предназначенный для решения различных задач на периферии. Новинка, построенная на аппаратной платформе Intel Panther Lake, подходит в том числе для ИИ-приложений. <br />#hardware #biostar #промышленныйпк #intel #pantherlake<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
     </item>
     <item>
-        <title>Суд Нидерландов ввел динамическую блокировку Z-Library и OceanofPDF</title>
-        <link>https://techimo.ru/news/sud-niderlandov-vvel-dinamicheskuyu-blokirovku-z-library-i-oceanofpdf</link>
-        <guid isPermaLink="true">https://techimo.ru/news/sud-niderlandov-vvel-dinamicheskuyu-blokirovku-z-library-i-oceanofpdf</guid>
-        <pubDate>Mon, 02 Nov 2026 14:44:47 +0300</pubDate>
-        <description><![CDATA[Роттердамский суд вынес решение, обязывающее крупнейших интернет-провайдеров Нидерландов, включая компанию KPN, ограничить доступ к популярным ресурсам с электронными книгами Z-Library и OceanofPDF. Данная мера инициирована антипиратской организацией BREIN, которая последовательно борется с незаконным распространением защищенного авторским правом контента в европейском сегменте интернета.
-Механизм динамического запрета
-Ключевой особенностью судеб...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Турция начала антимонопольное расследование против ИИ-сервисов Google</title>
-        <link>https://techimo.ru/news/turciya-nachala-antimonopolnoe-rassledovanie-protiv-ii-servisov-google</link>
-        <guid isPermaLink="true">https://techimo.ru/news/turciya-nachala-antimonopolnoe-rassledovanie-protiv-ii-servisov-google</guid>
-        <pubDate>Mon, 02 Nov 2026 14:35:22 +0300</pubDate>
-        <description><![CDATA[Антимонопольное ведомство Турции официально инициировало расследование в отношении корпорации Google в связи с возможными нарушениями правил конкуренции при использовании технологий искусственного интеллекта. Регулятор проверяет, как алгоритмы американского техногиганта влияют на рынок цифрового контента, уделяя особое внимание защите прав местных производителей информации. Данное разбирательство подчеркивает растущую обеспокоенность мировых регу...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
         <title>Промышленный терминатор: в Китае создали четырёхметрового андроида, который способен поднять полтонны</title>
         <link>https://3dnews.ru/1150743</link>
         <guid isPermaLink="true">https://3dnews.ru/1150743</guid>
@@ -755,30 +671,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1150743</guid>
         <pubDate>Mon, 02 Nov 2026 14:30:00 +0300</pubDate>
         <description><![CDATA[Широкую популярность гигантским человекоподобным роботам обеспечила мультипликация, но к производству имеющих практические перспективы огромных роботов первыми приступили китайские компании. Такие роботы способны выполнять неподъёмные для человека операции в зоне повышенной опасности, в чём заключается двойная польза подобных машин. Источник изображений: NeodraDynamics<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Сбой в «Яндекс Пэй»: пользователи сообщают о проблемах с платежами</title>
-        <link>https://techimo.ru/news/sboy-v-yandeks-pey-polzovateli-soobschayut-o-problemah-s-platezhami</link>
-        <guid isPermaLink="true">https://techimo.ru/news/sboy-v-yandeks-pey-polzovateli-soobschayut-o-problemah-s-platezhami</guid>
-        <pubDate>Mon, 02 Nov 2026 14:06:06 +0300</pubDate>
-        <description><![CDATA[В работе финансового сервиса «Яндекс Пэй» зафиксирован масштабный технический сбой, затронувший ключевые функции платформы. Пользователи по всей стране начали массово сообщать о невозможности проведения стандартных транзакций, что привело к временным трудностям при использовании цифрового кошелька и связанных с ним услуг. По состоянию на 2 ноября 2026 года, официальные представители компании занимаются устранением возникших неполадок.
-Основные пр...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Кибератака на ритейл: взлом систем охлаждения в Бельгии и Швеции</title>
-        <link>https://techimo.ru/news/kiberataka-na-riteyl-vzlom-sistem-ohlazhdeniya-v-belgii-i-shvecii</link>
-        <guid isPermaLink="true">https://techimo.ru/news/kiberataka-na-riteyl-vzlom-sistem-ohlazhdeniya-v-belgii-i-shvecii</guid>
-        <pubDate>Mon, 02 Nov 2026 13:54:30 +0300</pubDate>
-        <description><![CDATA[Крупные европейские торговые сети столкнулись с масштабным сбоем в работе ИТ-инфраструктуры, отвечающей за хранение продуктов питания. В начале ноября 2026 года супермаркеты в Бельгии и Швеции зафиксировали аномальные перепады температур в холодильных установках, что эксперты по кибербезопасности связывают с целенаправленной хакерской атакой на системы управления жизнеобеспечением зданий.
-Масштабы инцидента в Бельгии
-В воскресенье вечером около 4...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Масштабный сбой в BelkaCar: авария у ИТ-провайдера парализовала каршеринг</title>
-        <link>https://techimo.ru/news/masshtabnyy-sboy-v-belkacar-avariya-u-it-provaydera-paralizovala-karshering</link>
-        <guid isPermaLink="true">https://techimo.ru/news/masshtabnyy-sboy-v-belkacar-avariya-u-it-provaydera-paralizovala-karshering</guid>
-        <pubDate>Mon, 02 Nov 2026 13:46:08 +0300</pubDate>
-        <description><![CDATA[Российский сервис краткосрочной аренды автомобилей BelkaCar столкнулся с техническими проблемами, приведшими к временной невозможности использования транспортных средств и мобильного приложения. Согласно официальному заявлению пресс-службы компании, инцидент зафиксирован сегодня, 2 ноября 2026 года, а основной причиной неполадок стала масштабная авария в инфраструктуре внешнего ИТ-провайдера, обеспечивающего работоспособность цифровых систем опер...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
     </item>
     <item>
         <title>Gang of Dragon можно не ждать: новая студия создателя Yakuza официально закрыта</title>
@@ -844,13 +736,6 @@
         <description><![CDATA[Beget, один из крупнейших хостинг-провайдеров России, сообщил о крупном инциденте, нарушившем стабильность работы систем компании, который произошёл в ночь на 2 ноября. Услугами компании пользуются сотни тысяч российских сайтов, часть из которых стали работать нестабильно. Специалисты Beget задействовали все имеющиеся в наличии ресурсы для разбора причин сбоя и их устранения. Источник изображения: Domaintechnik/unsplash.com<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
     </item>
     <item>
-        <title>Microsoft объяснила отказ от перетаскивания панели задач в Windows 11</title>
-        <link>https://techimo.ru/news/microsoft-obyasnila-otkaz-ot-peretaskivaniya-paneli-zadach-v-windows-11</link>
-        <guid isPermaLink="true">https://techimo.ru/news/microsoft-obyasnila-otkaz-ot-peretaskivaniya-paneli-zadach-v-windows-11</guid>
-        <pubDate>Mon, 02 Nov 2026 12:30:10 +0300</pubDate>
-        <description><![CDATA[Корпорация Microsoft официально прокомментировала отсутствие функции свободного перемещения панели задач в актуальной операционной системе Windows 11. Руководитель отдела дизайна Windows Диего Бака в социальной сети X пояснил, что решение убрать возможность перетаскивания элемента интерфейса было осознанным шагом, направленным на повышение стабильности пользовательского опыта. Разработчики стремятся минимизировать ошибки взаимодействия, с которым...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
         <title>Хакер voices38 взломал и улучшил Onimusha: Way of the Sword — всё под прицелом Denuvo</title>
         <link>https://3dnews.ru/1150738/haker-voices38-vzlomal-i-uluchshil-onimusha-way-of-the-sword-vsyo-pod-pritselom-denuvo</link>
         <guid isPermaLink="true">https://3dnews.ru/1150738/haker-voices38-vzlomal-i-uluchshil-onimusha-way-of-the-sword-vsyo-pod-pritselom-denuvo</guid>
@@ -907,14 +792,6 @@
         <description><![CDATA[Разработчики динамичного экшена Phantom Blade Zero поделились очередным достижением игры. Стало известно, что всего за 72 часа с момента релиза новинку приобрели 4 миллиона человек на всех платформах.<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
     </item>
     <item>
-        <title>Shadow Blade Zero: 4 млн копий и рекордный онлайн за 72 часа</title>
-        <link>https://techimo.ru/news/shadow-blade-zero-4-mln-kopiy-i-rekordnyy-onlayn-za-72-chasa</link>
-        <guid isPermaLink="true">https://techimo.ru/news/shadow-blade-zero-4-mln-kopiy-i-rekordnyy-onlayn-za-72-chasa</guid>
-        <pubDate>Mon, 02 Nov 2026 10:54:38 +0300</pubDate>
-        <description><![CDATA[Китайская игровая индустрия празднует очередной масштабный триумф: экшен-RPG Shadow Blade Zero от студии Lingyoufang продемонстрировала выдающиеся результаты на старте. Согласно официальному заявлению разработчиков, продажи проекта превысили 4 миллиона копий на всех доступных платформах всего за 72 часа с момента мирового релиза. Этот успех подтверждает растущую конкурентоспособность восточных студий на глобальном рынке высокобюджетных видеоигр.
-...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
         <title>Флагманский защищённый смартфон Blackview XPLORE 6 с чипом Dimensity 9400+ вскоре поступит в продажу</title>
         <link>https://3dnews.ru/1150646</link>
         <guid isPermaLink="true">https://3dnews.ru/1150646</guid>
@@ -927,14 +804,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1150646</guid>
         <pubDate>Mon, 02 Nov 2026 10:41:00 +0300</pubDate>
         <description><![CDATA[В Сеть утекла информация о новом смартфоне XPLORE 6 компании Blackview, который сочетает в себе флагманскую производительность, возможности фотосъёмки профессионального класса и высокую устойчивость к воздействию внешней среды и ударов. Как сообщается, Blackview XPLORE 6 станет первым защищённым смартфоном премиум-класса, базирующемся на процессоре MediaTek Dimensity 9400+, выполненном по 3-нм техпроцессу. Объём оперативной памяти LPDDR5X составляет до 18 Гбайт, встроенной памяти UFS 4.1 &mdash; до 1 Тбайт.<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Масштабный технический сбой Beget: тысячи сайтов оказались недоступны</title>
-        <link>https://techimo.ru/news/masshtabnyy-tehnicheskiy-sboy-beget-tysyachi-saytov-okazalis-nedostupny</link>
-        <guid isPermaLink="true">https://techimo.ru/news/masshtabnyy-tehnicheskiy-sboy-beget-tysyachi-saytov-okazalis-nedostupny</guid>
-        <pubDate>Mon, 02 Nov 2026 10:10:52 +0300</pubDate>
-        <description><![CDATA[Российский хостинг-провайдер Beget столкнулся с серьезным техническим инцидентом, приведшим к массовой недоступности сетевых ресурсов. По состоянию на 2 ноября 2026 года тысячи владельцев веб-сайтов и системных администраторов потеряли доступ к своим проектам и инструментам администрирования. Данный инцидент стал одним из самых крупных для компании за последнее время, затронув критически важную инфраструктуру сегмента RU-нета.
-Масштабы и последст...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
     </item>
     <item>
         <title>Бесплатное DLC для KIBORG добавило женского персонажа</title>
@@ -986,32 +855,11 @@
         <description><![CDATA[Японская компания Bushiroad определилась с датой выхода коллекционной карточной игры Weiß Schwarz Online (Weiss Schwarz Online).<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
     </item>
     <item>
-        <title>Apple предупредила немецких политиков о целевых атаках шпионского ПО</title>
-        <link>https://techimo.ru/news/apple-predupredila-nemeckih-politikov-o-celevyh-atakah-shpionskogo-po</link>
-        <guid isPermaLink="true">https://techimo.ru/news/apple-predupredila-nemeckih-politikov-o-celevyh-atakah-shpionskogo-po</guid>
-        <pubDate>Mon, 02 Nov 2026 08:46:41 +0300</pubDate>
-        <description><![CDATA[Компания Apple разослала официальные уведомления ряду немецких политиков, предупреждая их о том, что их iPhone могли стать целью атак с использованием специализированного шпионского программного обеспечения. Согласно данным издания Bild, потенциальная угроза затрагивает высокопоставленных лиц, включая депутатов Бундестага и членов федерального правительства Германии. Инцидент подчеркивает сохраняющуюся уязвимость государственных служащих перед ли...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
         <title>Nagoshi Studio прекратила существование, а судьба GANG OF DRAGON остается неизвестной</title>
         <link>https://mmo13.ru/news/post-36741</link>
         <guid isPermaLink="true">https://mmo13.ru/news/post-36741</guid>
         <pubDate>Mon, 02 Nov 2026 08:21:46 +0300</pubDate>
         <description><![CDATA[Японская Nagoshi Studio, основанная бывшим руководителем серии Yakuza Тосихиро Нагоши, официально прекратила существование.<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
-        <title>КНР внедрит большие данные и блокчейн-мониторинг для борьбы с коррупцией</title>
-        <link>https://techimo.ru/news/knr-vnedrit-bolshie-dannye-i-blokcheyn-monitoring-dlya-borby-s-korrupciey</link>
-        <guid isPermaLink="true">https://techimo.ru/news/knr-vnedrit-bolshie-dannye-i-blokcheyn-monitoring-dlya-borby-s-korrupciey</guid>
-        <pubDate>Mon, 02 Nov 2026 06:39:43 +0300</pubDate>
-        <description><![CDATA[Центральный комитет Коммунистической партии Китая (КПК) официально утвердил стратегический документ, направленный на цифровизацию антикоррупционного контроля через использование больших данных. Новое постановление, получившее название «Решение ЦК КПК по ряду важных вопросов, касающихся неуклонного продвижения всестороннего строгого управления Партией», закладывает основу для создания высокотехнологичной системы надзора, способной выявлять скрытые...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Скандал вокруг рекламы Logitech: пользователей возмутил выбор эмодзи</title>
-        <link>https://techimo.ru/news/skandal-vokrug-reklamy-logitech-polzovateley-vozmutil-vybor-emodzi</link>
-        <guid isPermaLink="true">https://techimo.ru/news/skandal-vokrug-reklamy-logitech-polzovateley-vozmutil-vybor-emodzi</guid>
-        <pubDate>Mon, 02 Nov 2026 05:55:38 +0300</pubDate>
-        <description><![CDATA[Компания Logitech вновь оказалась в центре этического скандала после публикации нового промо-ролика, приуроченного к распродаже периферийных устройств. Видео, размещенное 2 ноября 2026 года, вызвало резкую критику со стороны интернет-сообщества и вывело тег «Logitech против пользователей» в топ трендов социальной сети Weibo. Потребители усмотрели в маркетинговых материалах скрытые оскорбления, указывая на пренебрежительное отношение бренда к свое...<p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
     </item>
     <item>
         <title>Новая статья: Gamesblender № 800: битва за Mass Effect, «тяжелый» реализм GTA VI и триумф Phantom Blade Zero</title>
