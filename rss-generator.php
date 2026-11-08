@@ -154,7 +154,7 @@ echo '<?xml version="1.0" encoding="UTF-8"?>' . "\n";
 ?>
 <rss version="2.0">
 <channel>
-    <title>MEBRU RSS</title>
+    <title>MEBRU RSS - Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</title>
     <link>https://vk.ru/mebru</link>
     <description>Aggregated RSS feed</description>
     <language>ru</language>
@@ -166,7 +166,7 @@ echo '<?xml version="1.0" encoding="UTF-8"?>' . "\n";
         <link><?= htmlspecialchars($item['link'], ENT_XML1 | ENT_QUOTES, 'UTF-8') ?></link>
         <guid isPermaLink="true"><?= htmlspecialchars($item['link'], ENT_XML1 | ENT_QUOTES, 'UTF-8') ?></guid>
         <pubDate><?= htmlspecialchars($item['pubDate'], ENT_XML1 | ENT_QUOTES, 'UTF-8') ?></pubDate>
-        <description><![CDATA[<?= $item['description'] ?><p><strong>Подпишись vk.ru/mebru</strong></p>]]></description>
+        <description><![CDATA[<?= $item['description'] ?><p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
 <?php endforeach; ?>
 </channel>
