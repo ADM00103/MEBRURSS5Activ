@@ -5,8 +5,39 @@
     <link>https://vk.ru/mebru</link>
     <description>Aggregated RSS feed</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 14 Nov 2026 03:15:34 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 09:55:06 +0300</lastBuildDate>
 
+    <item>
+        <title>SpaceX отменила попытку захвата ускорителя Starship при шестом запуске</title>
+        <link>https://techimo.ru/news/spacex-otmenila-popytku-zahvata-uskoritelya-starship-pri-shestom-zapuske</link>
+        <guid isPermaLink="true">https://techimo.ru/news/spacex-otmenila-popytku-zahvata-uskoritelya-starship-pri-shestom-zapuske</guid>
+        <pubDate>Sat, 14 Nov 2026 09:46:09 +0300</pubDate>
+        <description><![CDATA[Аэрокосмическая компания SpaceX провела шестые испытания сверхтяжелой ракетно-космической системы Starship, в ходе которых план по возврату первой ступени на стартовую площадку был скорректирован. Несмотря на успешный старт с космодрома Starbase в Техасе, инженеры приняли решение не осуществлять захват ускорителя Super Heavy с помощью системы «Мехазилла», направив его на контролируемое приводнение в Мексиканском заливе.
+Технические особенности ше...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Сбой авиации в США: устаревшая инфраструктура не выдержала модернизации</title>
+        <link>https://techimo.ru/news/sboy-aviacii-v-ssha-ustarevshaya-infrastruktura-ne-vyderzhala-modernizacii</link>
+        <guid isPermaLink="true">https://techimo.ru/news/sboy-aviacii-v-ssha-ustarevshaya-infrastruktura-ne-vyderzhala-modernizacii</guid>
+        <pubDate>Sat, 14 Nov 2026 09:04:13 +0300</pubDate>
+        <description><![CDATA[Масштабный технический сбой в американской системе управления воздушным движением был спровоцирован критической перегрузкой при попытке обновления ПО. Министр транспорта США Шон Даффи подтвердил, что инфраструктура авиационного контроля оказалась не готова к интеграции современных технологических решений, что привело к временному параличу авиасообщения в масштабах всей страны.
+Причины и последствия системного резонанса
+Согласно официальным данным...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>United Airlines внедряет Starlink: спутниковый интернет как фактор роста выручки</title>
+        <link>https://techimo.ru/news/united-airlines-vnedryaet-starlink-sputnikovyy-internet-kak-faktor-rosta-vyruchki</link>
+        <guid isPermaLink="true">https://techimo.ru/news/united-airlines-vnedryaet-starlink-sputnikovyy-internet-kak-faktor-rosta-vyruchki</guid>
+        <pubDate>Sat, 14 Nov 2026 06:27:15 +0300</pubDate>
+        <description><![CDATA[Авиакомпания United Airlines объявила о масштабной интеграции спутниковой системы Starlink в свою инфраструктуру, рассматривая высокоскоростной доступ в интернет как ключевое конкурентное преимущество на рынке авиаперевозок. Генеральный директор компании Скотт Кирби подчеркнул, что наличие качественного Wi-Fi на борту стало определяющим фактором для современных пассажиров при выборе рейса, что уже привело к заметному росту выручки авиаперевозчика...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>OpenAI представила кошелек ChatGPT для безопасных платежей через ИИ</title>
+        <link>https://techimo.ru/news/openai-predstavila-koshelek-chatgpt-dlya-bezopasnyh-platezhey-cherez-ii</link>
+        <guid isPermaLink="true">https://techimo.ru/news/openai-predstavila-koshelek-chatgpt-dlya-bezopasnyh-platezhey-cherez-ii</guid>
+        <pubDate>Sat, 14 Nov 2026 05:57:21 +0300</pubDate>
+        <description><![CDATA[Компания OpenAI официально объявила о запуске нового финансового инструмента — кошелька ChatGPT, который призван расширить функциональные возможности искусственного интеллекта в сфере электронной коммерции. Данное технологическое решение позволяет AI-агентам самостоятельно совершать транзакции по поручению владельца, обеспечивая при этом высокий уровень конфиденциальности финансовых данных. Новинка ориентирована на автоматизацию покупок и оплаты ...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
     <item>
         <title>DeepSeek открывает API для полнофункциональной разработки нейросетевых приложений</title>
         <link>https://techimo.ru/news/deepseek-otkryvaet-api-dlya-polnofunkcionalnoy-razrabotki-neyrosetevyh-prilozheniy</link>
@@ -637,13 +668,6 @@
         <description><![CDATA[Роскомнадзор развернул механизм фильтрации трафика на основе алгоритмов машинного обучения &mdash; на его внедрение были направлены 2,27 млрд руб. Решение встраивается в автоматизированную систему обеспечения безопасности российского сегмента интернета (АСБИ) и дополняет работу технических средств противодействия угрозам (ТСПУ). Новая технология поможет эффективнее выявлять контент и способы обхода блокировок.  Эксперты не исключают ложных срабатываний, снижения стабильности работы VPN и корпоративных сервисов. Источник изображения: ELLA DON / unsplash.com<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
-        <title>Глобальный сбой Microsoft затронул 74 страны: пострадали Outlook и Teams</title>
-        <link>https://techimo.ru/news/globalnyy-sboy-microsoft-zatronul-74-strany-postradali-outlook-i-teams</link>
-        <guid isPermaLink="true">https://techimo.ru/news/globalnyy-sboy-microsoft-zatronul-74-strany-postradali-outlook-i-teams</guid>
-        <pubDate>Fri, 13 Nov 2026 09:41:14 +0300</pubDate>
-        <description><![CDATA[Облачные сервисы корпорации Microsoft столкнулись с масштабными техническими неполадками, которые затронули пользователей в 74 странах мира. Масштабный технический инцидент привел к временной нетрудоспособности ключевых инструментов для бизнеса и коммуникации, создав значительные препятствия для операционной деятельности компаний по всему миру. Согласно данным сервисов мониторинга сетевой активности, основные проблемы были сконцентрированы в сегм...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
         <title>Консольную версию Escape from Tarkov могут анонсировать в начале 2027 года</title>
         <link>https://mmo13.ru/news/post-36859</link>
         <guid isPermaLink="true">https://mmo13.ru/news/post-36859</guid>
@@ -656,14 +680,6 @@
         <guid isPermaLink="true">https://mmo13.ru/news/post-36858</guid>
         <pubDate>Fri, 13 Nov 2026 09:23:12 +0300</pubDate>
         <description><![CDATA[Компания Xbox официально подтвердила разработку новой части серии Wolfenstein. Над проектом работает студия MachineGames, известная по предыдущим играм франшизы.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Кризис в Nvidia: 1600 сотрудников требуют вернуть Дженсена Хуанга</title>
-        <link>https://techimo.ru/news/krizis-v-nvidia-1600-sotrudnikov-trebuyut-vernut-dzhensena-huanga</link>
-        <guid isPermaLink="true">https://techimo.ru/news/krizis-v-nvidia-1600-sotrudnikov-trebuyut-vernut-dzhensena-huanga</guid>
-        <pubDate>Fri, 13 Nov 2026 09:21:04 +0300</pubDate>
-        <description><![CDATA[Внезапная отставка бессменного лидера Nvidia Дженсена Хуанга спровоцировала масштабный внутренний кризис и вызвала резкую реакцию трудового коллектива. Более 1600 сотрудников корпорации официально подписали петицию с требованием восстановить основателя в должности генерального директора. Данный прецедент возник на фоне серьезной рыночной дестабилизации и неопределенности относительно дальнейшего стратегического курса технологического гиганта.
-При...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
         <title>Би Джей Бласковиц возвращается: гендиректор Xbox официально анонсировала Wolfenstein 3</title>
@@ -701,27 +717,11 @@
         <description><![CDATA[Разработчики из Playground Games подготовили геймплейный трейлер сюжетной RPG Fable в честь 25-летия Xbox. Видео длится чуть более четырёх минут и демонстрирует прохождение квеста Something in the Water.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
-        <title>Платформа X увеличила лимит медиафайлов в одной публикации до 20</title>
-        <link>https://techimo.ru/news/platforma-x-uvelichila-limit-mediafaylov-v-odnoy-publikacii-do-20</link>
-        <guid isPermaLink="true">https://techimo.ru/news/platforma-x-uvelichila-limit-mediafaylov-v-odnoy-publikacii-do-20</guid>
-        <pubDate>Fri, 13 Nov 2026 08:48:12 +0300</pubDate>
-        <description><![CDATA[Социальная сеть X (бывший Twitter) внедрила масштабное обновление мультимедийных возможностей, увеличив максимально допустимое количество медиафайлов в одном посте. Согласно заявлению руководителя отдела мобильной инженерии компании Джона Кэтца, теперь пользователи могут прикреплять до 20 изображений и видеороликов к одной публикации, что существенно расширяет инструменты для создания контента на платформе.
-Технические детали и реализация
-Ранее в...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
         <title>Хакеры отмыли 1052 украденных с Bitget BTC через миксер CoinJoin</title>
         <link>https://xakep.ru/2026/11/13/bitget-coinjoin/</link>
         <guid isPermaLink="true">https://xakep.ru/2026/11/13/bitget-coinjoin/</guid>
         <pubDate>Fri, 13 Nov 2026 08:30:52 +0300</pubDate>
         <description><![CDATA[С 6 по 11 ноября с кошельков, связанных со взломом Bitget, вывели 1052,34 BTC стоимостью около $78,61 млн. Примерно 80,5% этой суммы распределили между 66 транзакциями и отправили в миксер CoinJoin.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Иск против OpenAI, Google и Meta: ИИ-гигантов обвиняют в создании угроз</title>
-        <link>https://techimo.ru/news/isk-protiv-openai-google-i-meta-ii-gigantov-obvinyayut-v-sozdanii-ugroz</link>
-        <guid isPermaLink="true">https://techimo.ru/news/isk-protiv-openai-google-i-meta-ii-gigantov-obvinyayut-v-sozdanii-ugroz</guid>
-        <pubDate>Fri, 13 Nov 2026 07:29:15 +0300</pubDate>
-        <description><![CDATA[Четыре американские некоммерческие организации подали масштабный судебный иск в Высший суд Сан-Франциско против ведущих технологических корпораций, включая OpenAI, Anthropic, Google, Meta и SpaceX. Истцы требуют наложить судебный запрет на дальнейшую разработку и развертывание новых моделей искусственного интеллекта, мотивируя это неспособностью компаний гарантировать безопасность своих систем. В центре правового спора стоит вопрос о потенциально...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
         <title>«Они могут погубить всех нас»: в США через суд потребовали запретить OpenAI, Google и другим обучать передовые ИИ-модели</title>
