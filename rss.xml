@@ -5,44 +5,359 @@
     <link>https://vk.ru/mebru</link>
     <description>Aggregated RSS feed</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 18 Nov 2026 06:27:43 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:09:14 +0300</lastBuildDate>
 
     <item>
-        <title>Microsoft представила MAI Code 2: высокопроизводительный ИИ для кодинга</title>
-        <link>https://techimo.ru/news/microsoft-predstavila-mai-code-2-vysokoproizvoditelnyy-ii-dlya-kodinga</link>
-        <guid isPermaLink="true">https://techimo.ru/news/microsoft-predstavila-mai-code-2-vysokoproizvoditelnyy-ii-dlya-kodinga</guid>
-        <pubDate>Wed, 18 Nov 2026 04:46:09 +0300</pubDate>
-        <description><![CDATA[На ежегодной технологической конференции Microsoft Ignite в Сан-Франциско корпорация Microsoft представила обновленную линейку специализированных нейросетевых решений. Ключевым анонсом стала модель программирования MAI Code 2, нацеленная на автоматизацию написания кода и оптимизацию затрат на разработку. Релиз подчеркивает стремление компании закрепить лидерство в сегменте инструментов для разработчиков, предлагая решения с улучшенным соотношение...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+        <title>Tencent открыла код моделей Hunyuan Hy4-flash с окном до 1 млн токенов</title>
+        <link>https://techimo.ru/news/tencent-otkryla-kod-modeley-hunyuan-hy4-flash-s-oknom-do-1-mln-tokenov</link>
+        <guid isPermaLink="true">https://techimo.ru/news/tencent-otkryla-kod-modeley-hunyuan-hy4-flash-s-oknom-do-1-mln-tokenov</guid>
+        <pubDate>Wed, 18 Nov 2026 15:05:13 +0300</pubDate>
+        <description><![CDATA[Китайский технологический гигант Tencent официально объявил об открытии исходного кода и весовых коэффициентов своей новой серии нейросетевых моделей Hunyuan Hy4-flash. В рамках инициативы по поддержке сообщества разработчиков компания представила несколько вариаций архитектуры, предназначенных для решения широкого спектра задач в области обработки естественного языка и компьютерного зрения. Релиз open-source моделей такого масштаба подчеркивает ...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
-        <title>NVIDIA прекращает поставки чипов H200 в Китай из-за торговых ограничений</title>
-        <link>https://techimo.ru/news/nvidia-prekraschaet-postavki-chipov-h200-v-kitay-iz-za-torgovyh-ogranicheniy</link>
-        <guid isPermaLink="true">https://techimo.ru/news/nvidia-prekraschaet-postavki-chipov-h200-v-kitay-iz-za-torgovyh-ogranicheniy</guid>
-        <pubDate>Wed, 18 Nov 2026 04:21:15 +0300</pubDate>
-        <description><![CDATA[Технологический гигант NVIDIA объявил о радикальном пересмотре своей экспортной политики, полностью прекратив отгрузку высокопроизводительных чипов H200 на китайский рынок. Данный шаг знаменует собой завершение периода, когда компания использовала различные юридические механизмы для адаптации своих продуктов под жесткие требования американского экспортного контроля. Решение было озвучено исполняющей обязанности CEO NVIDIA Колетт Кресс на фоне мас...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+        <title>Релиз Grand Theft Auto VI: первые итоги запуска и рекорды на Twitch</title>
+        <link>https://techimo.ru/news/reliz-grand-theft-auto-vi-pervye-itogi-zapuska-i-rekordy-na-twitch</link>
+        <guid isPermaLink="true">https://techimo.ru/news/reliz-grand-theft-auto-vi-pervye-itogi-zapuska-i-rekordy-na-twitch</guid>
+        <pubDate>Wed, 18 Nov 2026 14:58:05 +0300</pubDate>
+        <description><![CDATA[Долгожданный релиз видеоигры Grand Theft Auto VI состоялся в строгом соответствии с ранее анонсированным графиком. Первыми доступ к новому проекту от студии Rockstar Games получили пользователи в Новой Зеландии, где в связи с особенностями часовых поясов уже наступило 19 ноября. С первых же часов запуска проект продемонстрировал аномально высокий интерес со стороны глобального игрового сообщества.
+Ажиотаж на стриминговых платформах
+Запуск игры со...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
-        <title>Влияние технической иммиграции на доходы специалистов в США</title>
-        <link>https://techimo.ru/news/vliyanie-tehnicheskoy-immigracii-na-dohody-specialistov-v-ssha</link>
-        <guid isPermaLink="true">https://techimo.ru/news/vliyanie-tehnicheskoy-immigracii-na-dohody-specialistov-v-ssha</guid>
-        <pubDate>Wed, 18 Nov 2026 03:34:15 +0300</pubDate>
-        <description><![CDATA[Новое экономическое исследование выявило корреляцию между притоком иностранных специалистов и уровнем доходов местных кадров в американском технологическом секторе. Согласно результатам анализа, проведенного в Гарвардском университете, техническая иммиграция оказывает сдерживающее влияние на рост заработных плат американских работников с высшим образованием, занятых в сферах науки и инженерии.
-Анализ влияния визовых программ на рынок труда
-Профес...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+        <title>Яндекс представил «Компас»: новое устройство для навигации без GPS</title>
+        <link>https://techimo.ru/news/yandeks-predstavil-kompas-novoe-ustroystvo-dlya-navigacii-bez-gps</link>
+        <guid isPermaLink="true">https://techimo.ru/news/yandeks-predstavil-kompas-novoe-ustroystvo-dlya-navigacii-bez-gps</guid>
+        <pubDate>Wed, 18 Nov 2026 14:41:20 +0300</pubDate>
+        <description><![CDATA[Российский технологический гигант «Яндекс» официально представил аппаратное решение «Яндекс Компас» — специализированное устройство, предназначенное для обеспечения стабильной навигации в условиях некорректной работы спутниковых систем. Разработка направлена на решение актуальной проблемы сбоев геолокации в городских условиях, с которыми регулярно сталкиваются водители такси и сервисы логистики.
+Технологические особенности и принцип работы
+Устрой...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
-        <title>Samsung запустит производство чипов для Starlink на заводе в Техасе</title>
-        <link>https://techimo.ru/news/samsung-zapustit-proizvodstvo-chipov-dlya-starlink-na-zavode-v-tehase</link>
-        <guid isPermaLink="true">https://techimo.ru/news/samsung-zapustit-proizvodstvo-chipov-dlya-starlink-na-zavode-v-tehase</guid>
-        <pubDate>Wed, 18 Nov 2026 02:32:15 +0300</pubDate>
-        <description><![CDATA[Южнокорейский технологический гигант Samsung Electronics объявил о масштабном расширении своих производственных мощностей на территории США. Компания инвестирует 1,9 миллиарда долларов в модернизацию полупроводникового завода в Остине, штат Техас, для выпуска специализированных микросхем, предназначенных для системы спутниковой связи Starlink. Проект реализуется в рамках стратегического партнерства и направлен на укрепление цепочек поставок в аэр...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+        <title>GTA 6 установила исторический рекорд на Metacritic накануне релиза</title>
+        <link>https://techimo.ru/news/gta-6-ustanovila-istoricheskiy-rekord-na-metacritic-nakanune-reliza</link>
+        <guid isPermaLink="true">https://techimo.ru/news/gta-6-ustanovila-istoricheskiy-rekord-na-metacritic-nakanune-reliza</guid>
+        <pubDate>Wed, 18 Nov 2026 14:34:55 +0300</pubDate>
+        <description><![CDATA[Долгожданный экшен Grand Theft Auto VI от студии Rockstar Games продемонстрировал беспрецедентный результат в истории игровой индустрии, получив 99 баллов из 100 возможных на агрегаторе рецензий Metacritic. Столь высокая оценка была сформирована на основе мнений более чем 100 профильных изданий, что подтверждает статус проекта как главного технологического и культурного события десятилетия в сегменте видеоигр.
+Анализ критических отзывов и техниче...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
-        <title>OpenAI представила GPT-6.2 Astra: новая модель для рабочих задач</title>
-        <link>https://techimo.ru/news/openai-predstavila-gpt-6-2-astra-novaya-model-dlya-rabochih-zadach</link>
-        <guid isPermaLink="true">https://techimo.ru/news/openai-predstavila-gpt-6-2-astra-novaya-model-dlya-rabochih-zadach</guid>
-        <pubDate>Wed, 18 Nov 2026 02:01:39 +0300</pubDate>
-        <description><![CDATA[Компания OpenAI официально анонсировала выпуск своей новейшей разработки — модели искусственного интеллекта GPT-6.2 Astra. Новинка ориентирована на повышение продуктивности при выполнении сложных профессиональных алгоритмов и глубокую интеграцию в рабочие процессы. По заявлениям разработчиков, архитектура Astra позволяет значительно эффективнее справляться с многоуровневыми задачами по сравнению с предыдущими итерациями, обеспечивая более высокую...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+        <title>Ростелеком оштрафован на 24 млн рублей за сбой в системе оповещения</title>
+        <link>https://techimo.ru/news/rostelekom-oshtrafovan-na-24-mln-rubley-za-sboy-v-sisteme-opovescheniya</link>
+        <guid isPermaLink="true">https://techimo.ru/news/rostelekom-oshtrafovan-na-24-mln-rubley-za-sboy-v-sisteme-opovescheniya</guid>
+        <pubDate>Wed, 18 Nov 2026 14:17:10 +0300</pubDate>
+        <description><![CDATA[Арбитражный суд Республики Адыгея вынес решение о взыскании с ПАО «Ростелеком» штрафа в размере 24 миллионов рублей. Судебное разбирательство было инициировано в связи с ненадлежащим исполнением обязательств по государственному контракту, направленному на модернизацию критически важной инфраструктуры в сфере гражданской обороны.
+Технические недостатки и проблемы интеграции
+Согласно материалам дела, телекоммуникационный гигант занимался реконструк...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Взлом Optimizely привел к заражению малварью сотен сайтов, включая Zoom, CNN, BBC, Salesforce и GitLab</title>
+        <link>https://xakep.ru/2026/11/18/optimizely-hack/</link>
+        <guid isPermaLink="true">https://xakep.ru/2026/11/18/optimizely-hack/</guid>
+        <pubDate>Wed, 18 Nov 2026 13:30:56 +0300</pubDate>
+        <description><![CDATA[Неизвестные хакеры скомпрометировали скрипты платформы Optimizely, которую компании используют для A/B-тестирования и персонализации сайтов. Поскольку такие сниппеты автоматически загружаются на страницах клиентов сервиса, вместе с ними посетители сайтов начали получать малварь. Вредоносный код был найден на сайтах как минимум 178 организаций, включая CNN, BBC, Zoom, Salesforce, GitLab, Fox News, Air France-KLM и HSBC.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>NVIDIA больше не будет продавать Китаю ускорители H200</title>
+        <link>https://servernews.ru/1151458/</link>
+        <guid isPermaLink="true">https://servernews.ru/1151458/</guid>
+        <pubDate>Wed, 18 Nov 2026 13:30:00 +0300</pubDate>
+        <description><![CDATA[NVIDIA более не намерена продавать свои ИИ-ускорители H200 в Китай, заявила исполняющая обязанности главы компании Колетт Кресс (Colette Kress) во вторник, сообщает TechCrunch. Компания прекращает пользоваться лазейкой в американском запрете на экспорт передовых полупроводников в КНР. <br />#hardware #nvidia #сша #китай #h200 #санкции<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Кризис складного iPhone: Apple давит на поставщика из-за дефектов шарниров</title>
+        <link>https://techimo.ru/news/krizis-skladnogo-iphone-apple-davit-na-postavschika-iz-za-defektov-sharnirov</link>
+        <guid isPermaLink="true">https://techimo.ru/news/krizis-skladnogo-iphone-apple-davit-na-postavschika-iz-za-defektov-sharnirov</guid>
+        <pubDate>Wed, 18 Nov 2026 13:03:38 +0300</pubDate>
+        <description><![CDATA[Компания Apple столкнулась с серьезными техническими проблемами после запуска своего первого гибкого смартфона iPhone Duo. Вскоре после старта продаж пользователи начали сообщать о массовом появлении трещин в области сгиба экрана, что привело к конфликту между технологическим гигантом и южнокорейским производителем компонентов Fine M-Tec. Основное внимание экспертов сейчас приковано к надежности шарнирных механизмов, которые являются ключевым узл...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Crimson Desert завоевала рекордные восемь наград на Korea Game Awards 2026</title>
+        <link>https://mmo13.ru/news/post-36889</link>
+        <guid isPermaLink="true">https://mmo13.ru/news/post-36889</guid>
+        <pubDate>Wed, 18 Nov 2026 12:56:27 +0300</pubDate>
+        <description><![CDATA[Crimson Desert от компании Pearl Abyss стала главным триумфатором церемонии Korea Game Awards 2026, получив восемь наград, включая главный приз «Президентская награда». Церемония награждения состоялась 18 ноября в выставочном центре BEXCO в Пусане.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>«Просто идеально и сделано с душой»: моддеры впечатлили фанатов трейлером неофициального ремастера классической Fallout</title>
+        <link>https://3dnews.ru/1151456</link>
+        <guid isPermaLink="true">https://3dnews.ru/1151456</guid>
+        <pubDate>Wed, 18 Nov 2026 12:56:00 +0300</pubDate>
+        <description><![CDATA[Издатель Bethesda Softworks и разработчики из Bethesda Game Studios не спешат выпускать обновлённую версию классической постапокалиптической ролевой игры Fallout, но за дело уже взялись фанаты.   Источник изображения: Bethesda Softworks<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>«Просто идеально и сделано с душой»: моддеры впечатлили фанатов трейлером неофициального ремастера классической Fallout</title>
+        <link>https://3dnews.ru/1151456/prosto-idealno-i-sdelano-s-dushoy-modderi-vpechatlili-fanatov-treylerom-neofitsialnogo-remastera-klassicheskoy-fallout</link>
+        <guid isPermaLink="true">https://3dnews.ru/1151456/prosto-idealno-i-sdelano-s-dushoy-modderi-vpechatlili-fanatov-treylerom-neofitsialnogo-remastera-klassicheskoy-fallout</guid>
+        <pubDate>Wed, 18 Nov 2026 12:56:00 +0300</pubDate>
+        <description><![CDATA[Издатель Bethesda Softworks и разработчики из Bethesda Game Studios не спешат выпускать обновлённую версию классической постапокалиптической ролевой игры Fallout, но за дело уже взялись фанаты.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>«Просто идеально и сделано с душой»: моддеры впечатлили фанатов трейлером неофициального ремастера классической Fallout</title>
+        <link>https://3dnews.ru/1151456/prosto-idealno-i-sdelano-s-dushoy-modderi-vpechatlili-fanatov-treylerom-neofitsialnogo-remastera-klassicheskoy-fallout</link>
+        <guid isPermaLink="true">https://3dnews.ru/1151456/prosto-idealno-i-sdelano-s-dushoy-modderi-vpechatlili-fanatov-treylerom-neofitsialnogo-remastera-klassicheskoy-fallout</guid>
+        <pubDate>Wed, 18 Nov 2026 12:56:00 +0300</pubDate>
+        <description><![CDATA[Издатель Bethesda Softworks и разработчики из Bethesda Game Studios не спешат выпускать обновлённую версию классической постапокалиптической ролевой игры Fallout, но за дело уже взялись фанаты.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>В России могут запретить продажу микронаушников на маркетплейсах</title>
+        <link>https://techimo.ru/news/v-rossii-mogut-zapretit-prodazhu-mikronaushnikov-na-marketpleysah</link>
+        <guid isPermaLink="true">https://techimo.ru/news/v-rossii-mogut-zapretit-prodazhu-mikronaushnikov-na-marketpleysah</guid>
+        <pubDate>Wed, 18 Nov 2026 12:51:09 +0300</pubDate>
+        <description><![CDATA[Рособрнадзор совместно с Министерством цифрового развития, связи и массовых коммуникаций РФ рассматривает возможность введения запрета на реализацию микронаушников на популярных торговых интернет-площадках. Инициатива направлена на усиление контроля за соблюдением правил проведения государственных экзаменов и предотвращение использования скрытых технических средств для получения незаконных подсказок.
+Системная борьба с нарушениями на экзаменах
+Гл...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Деловой саммит АТЭС: Техногиганты из США расширяют присутствие в Китае</title>
+        <link>https://techimo.ru/news/delovoy-sammit-ates-tehnogiganty-iz-ssha-rasshiryayut-prisutstvie-v-kitae</link>
+        <guid isPermaLink="true">https://techimo.ru/news/delovoy-sammit-ates-tehnogiganty-iz-ssha-rasshiryayut-prisutstvie-v-kitae</guid>
+        <pubDate>Wed, 18 Nov 2026 12:40:59 +0300</pubDate>
+        <description><![CDATA[На проходящем в Китае Деловом саммите Азиатско-Тихоокеанского экономического сотрудничества (АТЭС) зафиксировано значительное присутствие американского бизнеса. Согласно официальным данным, каждый пятый участник мероприятия прибыл из США, что подчеркивает сохраняющуюся важность трансграничного технологического диалога в регионе. Участие крупнейших корпораций в этом событии акцентирует внимание на глобальной цепочке поставок и развитии инновационн...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>До 2 Тбайт и PCIe 4.0 x4: SSSTC представила М.2 SSD серии PQ2 для индустриальных приложений</title>
+        <link>https://servernews.ru/1151454/</link>
+        <guid isPermaLink="true">https://servernews.ru/1151454/</guid>
+        <pubDate>Wed, 18 Nov 2026 12:40:00 +0300</pubDate>
+        <description><![CDATA[Компания Solid State Storage Technology Corporation (SSSTC), подразделение Kioxia, анонсировала накопители PQ2 &mdash; свои первые SSD индустриального класса на основе флеш-чипов памяти QLC NAND. Устройства предназначены для применения во встраиваемых системах, различных терминалах, сетевом оборудовании и компьютерах с ИИ-функциями. <br />#hardware #ssstc #ssd #pciexpress40 #m2 #qlcnand<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>2048 ядер в 2U: Giga Computing выпустила 2U4N-сервер H295-D80-CS1 с СЖО на базе AMD EPYC Venice</title>
+        <link>https://servernews.ru/1151444/</link>
+        <guid isPermaLink="true">https://servernews.ru/1151444/</guid>
+        <pubDate>Wed, 18 Nov 2026 12:38:00 +0300</pubDate>
+        <description><![CDATA[Компания Giga Computing, подразделение Gigabyte, анонсировала сервер H295-D80-CS1 высокой плотности для HPC-задач, облачных платформ и HCI. <br />#hardware #gigabyte #amd #epyc #venice #сервер #сжо<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Microsoft: Скандал в Nvidia ускорит переход на альтернативные ИИ-чипы</title>
+        <link>https://techimo.ru/news/microsoft-skandal-v-nvidia-uskorit-perehod-na-alternativnye-ii-chipy</link>
+        <guid isPermaLink="true">https://techimo.ru/news/microsoft-skandal-v-nvidia-uskorit-perehod-na-alternativnye-ii-chipy</guid>
+        <pubDate>Wed, 18 Nov 2026 12:35:13 +0300</pubDate>
+        <description><![CDATA[Генеральный директор Microsoft Business Джадсон Альтхофф заявил, что недавние потрясения в руководстве Nvidia могут стать катализатором для масштабной диверсификации рынка аппаратного обеспечения. На фоне ухода Дженсена Хуанга с поста главы компании, корпоративные клиенты начали проявлять повышенный интерес к альтернативным ИИ-чипам, стремясь снизить зависимость от одного поставщика и минимизировать операционные риски.
+Рост спроса на альтернативн...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Приглашаем на встречу с автором книги «Обход антивирусов на практике»</title>
+        <link>https://xakep.ru/2026/11/18/author-talk/</link>
+        <guid isPermaLink="true">https://xakep.ru/2026/11/18/author-talk/</guid>
+        <pubDate>Wed, 18 Nov 2026 12:30:48 +0300</pubDate>
+        <description><![CDATA[В воскресенье, 22 ноября 2026 года, в 12:00 мы проведем онлайн-встречу с Mr.Grogrig — автором книги «Обход антивирусов на практике», которая выйдет в январе 2027 года. Поговорим о работе над книгой, внутреннем устройстве антивирусов, механизмах обнаружения угроз и способах их обхода. А еще можно будет задать автору свои вопросы.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Nvidia перестанет раздувать ИИ-пузырь, без разбора закидывая неооблака деньгами</title>
+        <link>https://3dnews.ru/1151455</link>
+        <guid isPermaLink="true">https://3dnews.ru/1151455</guid>
+        <pubDate>Wed, 18 Nov 2026 12:10:00 +0300</pubDate>
+        <description><![CDATA[Nvidia будет придерживаться &laquo;дисциплинированного&raquo; подхода при принятии решений об объёмах инвестиций в неооблачные платформы и в других клиентов в сфере искусственного интеллекта, заявила ВРИО гендиректора компании Колетт Кресс (Colette Kress). Источник изображения: nvidia.com<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Nvidia перестанет раздувать ИИ-пузырь, без разбора закидывая неооблака деньгами</title>
+        <link>https://3dnews.ru/1151455</link>
+        <guid isPermaLink="true">https://3dnews.ru/1151455</guid>
+        <pubDate>Wed, 18 Nov 2026 12:10:00 +0300</pubDate>
+        <description><![CDATA[Nvidia будет придерживаться &laquo;дисциплинированного&raquo; подхода при принятии решений об объёмах инвестиций в неооблачные платформы и в других клиентов в сфере искусственного интеллекта, заявила ВРИО гендиректора компании Колетт Кресс (Colette Kress). Источник изображения: nvidia.com<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Disney объединит Disney+ и Hulu в единое приложение в декабре 2026 года</title>
+        <link>https://techimo.ru/news/disney-obedinit-disney-i-hulu-v-edinoe-prilozhenie-v-dekabre-2026-goda</link>
+        <guid isPermaLink="true">https://techimo.ru/news/disney-obedinit-disney-i-hulu-v-edinoe-prilozhenie-v-dekabre-2026-goda</guid>
+        <pubDate>Wed, 18 Nov 2026 12:01:55 +0300</pubDate>
+        <description><![CDATA[Медиагигант Disney официально подтвердил завершение интеграции стриминговых сервисов Disney+ и Hulu в рамках единого интерфейса к декабрю текущего года. О стратегическом слиянии активов было объявлено в финансовом отчете компании за четвертый квартал, что знаменует собой финальный этап консолидации медиаресурсов после длительного процесса выкупа долей у партнеров.
+Единая экосистема и новый пользовательский опыт
+Согласно опубликованным данным, под...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>В MMORPG Embers of the Uncrowned улучшат управление персонажем, интерфейс и качество графики</title>
+        <link>https://mmo13.ru/news/post-36888</link>
+        <guid isPermaLink="true">https://mmo13.ru/news/post-36888</guid>
+        <pubDate>Wed, 18 Nov 2026 11:57:59 +0300</pubDate>
+        <description><![CDATA[В предверии нового тестирования MMORPG Embers of the Uncrowned разработчики рассказали о ключевых изменениях, подготовленных по итогам предыдущего тестирования.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Мошенники похитили у российских геймеров почти 1 млн рублей через Play2Win</title>
+        <link>https://techimo.ru/news/moshenniki-pohitili-u-rossiyskih-geymerov-pochti-1-mln-rubley-cherez-play2win</link>
+        <guid isPermaLink="true">https://techimo.ru/news/moshenniki-pohitili-u-rossiyskih-geymerov-pochti-1-mln-rubley-cherez-play2win</guid>
+        <pubDate>Wed, 18 Nov 2026 11:42:12 +0300</pubDate>
+        <description><![CDATA[В российском сегменте интернета зафиксирована масштабная активность злоумышленников, направленная на владельцев игровых консолей. Под видом сервиса для оплаты цифровых услуг мошенники похитили у пользователей более 914 тысяч рублей. Злоумышленники использовали схему с поддельным ресурсом, предлагающим пополнение баланса и покупку подписок для популярных игровых платформ в условиях существующих ограничений на прямые транзакции.
+Механика мошенничес...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Южная Корея вводит награду в $75 000 за доносы об ИИ-мошенничестве на экзаменах</title>
+        <link>https://techimo.ru/news/yuzhnaya-koreya-vvodit-nagradu-v-75-000-za-donosy-ob-ii-moshennichestve-na-ekzamenah</link>
+        <guid isPermaLink="true">https://techimo.ru/news/yuzhnaya-koreya-vvodit-nagradu-v-75-000-za-donosy-ob-ii-moshennichestve-na-ekzamenah</guid>
+        <pubDate>Wed, 18 Nov 2026 11:32:23 +0300</pubDate>
+        <description><![CDATA[Власти Южной Кореи объявили о радикальных мерах по борьбе с использованием высоких технологий в образовательной сфере. Президент страны Ли Чжэ Мён инициировал программу выплат денежного вознаграждения за информацию о мошенничестве с применением искусственного интеллекта во время проведения вступительных испытаний в высшие учебные заведения. Данная инициатива призвана защитить академическую честность в условиях стремительного развития нейросетевых...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Kickstarter-кампания Flipper One собрала 1 млн долларов США за 10 минут</title>
+        <link>https://xakep.ru/2026/11/18/kickstarter-flipper-one/</link>
+        <guid isPermaLink="true">https://xakep.ru/2026/11/18/kickstarter-flipper-one/</guid>
+        <pubDate>Wed, 18 Nov 2026 11:30:18 +0300</pubDate>
+        <description><![CDATA[Разработчики Flipper One запустили краудфандинговую кампанию на Kickstarter. Цель в 300 000 долларов США удалось закрыть за считанные минуты, а 1 млн долларов США проект собрал всего за 10 минут. В настоящее время сумма сборов уже превысила 10,6 млн долларов США.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Arknights: Endfield признана лучшей игрой на премии Best of Play 2026 от Google Play</title>
+        <link>https://mmo13.ru/news/post-36887</link>
+        <guid isPermaLink="true">https://mmo13.ru/news/post-36887</guid>
+        <pubDate>Wed, 18 Nov 2026 11:10:10 +0300</pubDate>
+        <description><![CDATA[Магазин мобильных приложений Google Play подвел итоги ежегодной премии Best of Play 2026, в рамках которой выбрала лучшие приложения, игры и книги для своей платформы.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Valve добавила в Counter-Strike 2 зимний ремейк легендарной карты Cobblestone и механику растапливания снега</title>
+        <link>https://3dnews.ru/1151451</link>
+        <guid isPermaLink="true">https://3dnews.ru/1151451</guid>
+        <pubDate>Wed, 18 Nov 2026 11:07:00 +0300</pubDate>
+        <description><![CDATA[Для популярного условно-бесплатного соревновательного шутера Counter-Strike 2 от компании Valve вышло крупное обновление, которое ознаменовало возвращение в игру ещё одной легендарной карты.   Источник изображения: Valve<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Valve добавила в Counter-Strike 2 зимний ремейк легендарной карты Cobblestone и механику растапливания снега</title>
+        <link>https://3dnews.ru/1151451/valve-dobavila-v-counterstrike-2-zimniy-remeyk-legendarnoy-karti-cobblestone-i-mehaniku-rastaplivaniya-snega</link>
+        <guid isPermaLink="true">https://3dnews.ru/1151451/valve-dobavila-v-counterstrike-2-zimniy-remeyk-legendarnoy-karti-cobblestone-i-mehaniku-rastaplivaniya-snega</guid>
+        <pubDate>Wed, 18 Nov 2026 11:07:00 +0300</pubDate>
+        <description><![CDATA[Для популярного условно-бесплатного соревновательного шутера Counter-Strike 2 от компании Valve вышло крупное обновление, которое ознаменовало возвращение в игру ещё одной легендарной карты.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Valve добавила в Counter-Strike 2 зимний ремейк легендарной карты Cobblestone и механику растапливания снега</title>
+        <link>https://3dnews.ru/1151451/valve-dobavila-v-counterstrike-2-zimniy-remeyk-legendarnoy-karti-cobblestone-i-mehaniku-rastaplivaniya-snega</link>
+        <guid isPermaLink="true">https://3dnews.ru/1151451/valve-dobavila-v-counterstrike-2-zimniy-remeyk-legendarnoy-karti-cobblestone-i-mehaniku-rastaplivaniya-snega</guid>
+        <pubDate>Wed, 18 Nov 2026 11:07:00 +0300</pubDate>
+        <description><![CDATA[Для популярного условно-бесплатного соревновательного шутера Counter-Strike 2 от компании Valve вышло крупное обновление, которое ознаменовало возвращение в игру ещё одной легендарной карты.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Valve добавила в Counter-Strike 2 зимний ремейк легендарной карты Cobblestone и механику растапливания снега</title>
+        <link>https://3dnews.ru/1151451</link>
+        <guid isPermaLink="true">https://3dnews.ru/1151451</guid>
+        <pubDate>Wed, 18 Nov 2026 11:07:00 +0300</pubDate>
+        <description><![CDATA[Для популярного условно-бесплатного соревновательного шутера Counter-Strike 2 от компании Valve вышло крупное обновление, которое ознаменовало возвращение в игру ещё одной легендарной карты.   Источник изображения: Valve<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Вояджер-1 установил рекорд дальности, удалившись от Земли на один световой день</title>
+        <link>https://techimo.ru/news/voyadzher-1-ustanovil-rekord-dalnosti-udalivshis-ot-zemli-na-odin-svetovoy-den</link>
+        <guid isPermaLink="true">https://techimo.ru/news/voyadzher-1-ustanovil-rekord-dalnosti-udalivshis-ot-zemli-na-odin-svetovoy-den</guid>
+        <pubDate>Wed, 18 Nov 2026 11:05:23 +0300</pubDate>
+        <description><![CDATA[Легендарный космический аппарат НАСА «Вояджер-1» достиг исторической отметки в своем путешествии через глубокий космос. 18 ноября 2026 года в 18:16 по пекинскому времени дистанция между автоматической станцией и нашей планетой составила 25,92 миллиарда километров. Этот показатель эквивалентен расстоянию, которое свет преодолевает за ровно за одни сутки, что делает зонд первым искусственным объектом, достигшим рубежа в один световой день от Земли....<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Мишустин утвердил кураторов нацпроектов по транспорту и БАС</title>
+        <link>https://techimo.ru/news/mishustin-utverdil-kuratorov-nacproektov-po-transportu-i-bas</link>
+        <guid isPermaLink="true">https://techimo.ru/news/mishustin-utverdil-kuratorov-nacproektov-po-transportu-i-bas</guid>
+        <pubDate>Wed, 18 Nov 2026 10:31:44 +0300</pubDate>
+        <description><![CDATA[Председатель Правительства РФ Михаил Мишустин официально утвердил персональный состав кураторов и руководителей ключевых национальных и федеральных проектов, направленных на модернизацию инфраструктуры страны. В центре внимания обновленной структуры управления находится цифровая трансформация транспортной отрасли и развитие высокотехнологичных сфер, включая беспилотную авиацию и интеллектуальные транспортные системы.
+Масштабные изменения в управл...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>В модемах China Telecom обнаружен шпионский плагин для кражи данных</title>
+        <link>https://techimo.ru/news/v-modemah-china-telecom-obnaruzhen-shpionskiy-plagin-dlya-krazhi-dannyh</link>
+        <guid isPermaLink="true">https://techimo.ru/news/v-modemah-china-telecom-obnaruzhen-shpionskiy-plagin-dlya-krazhi-dannyh</guid>
+        <pubDate>Wed, 18 Nov 2026 10:31:08 +0300</pubDate>
+        <description><![CDATA[Специалисты по кибербезопасности выявили серьезную уязвимость в сетевом оборудовании одного из крупнейших операторов связи. В оптических модемах China Telecom был обнаружен предустановленный программный модуль, предназначенный для скрытого сбора конфиденциальной информации и мониторинга пользовательской активности. Данный инцидент ставит под вопрос безопасность миллионов абонентов, чьи персональные данные могут передаваться на сторонние серверы б...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>МТС впервые напрямую подключил смартфон к спутнику — но до полноценной спутниковой связи ещё далеко</title>
+        <link>https://3dnews.ru/1151450</link>
+        <guid isPermaLink="true">https://3dnews.ru/1151450</guid>
+        <pubDate>Wed, 18 Nov 2026 10:13:00 +0300</pubDate>
+        <description><![CDATA[МТС совместно с государственным оператором &laquo;Космическая связь&raquo; (ГП КС) провёл испытания прямой связи смартфона с находящимся на геостационарной орбите спутником. Технология окажется полезной для передачи экстренных сообщений и обмена небольшими объёмами данных в удалённых районах страны; решение может быть востребовано предприятиями ТЭК, транспортными, логистическими и строительными компаниями, рассказали в операторе. Источник изображения: NASA / unsplash.com<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Аниме-гача Star Sailors получила ПК-версию с поддержкой кроссплея</title>
+        <link>https://mmo13.ru/news/post-36886</link>
+        <guid isPermaLink="true">https://mmo13.ru/news/post-36886</guid>
+        <pubDate>Wed, 18 Nov 2026 10:12:33 +0300</pubDate>
+        <description><![CDATA[Компания Com2uS сообщила о запуске полноценного ПК-клиента для аниме-гачи Star Sailors.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>NVIDIA ускорила эмуляцию FP64-вычислений на своих ИИ-чипах</title>
+        <link>https://servernews.ru/1151355/</link>
+        <guid isPermaLink="true">https://servernews.ru/1151355/</guid>
+        <pubDate>Wed, 18 Nov 2026 09:55:04 +0300</pubDate>
+        <description><![CDATA[Во многих научных симуляциях &mdash; от молекулярной химии до материаловедения &mdash; львиная доля времени вычислений уходит на выполнение операций умножения плотных матриц (GEMM) с высокой точностью: DGEMM (для вещественных 64-бит чисел с плавающей запятой двойной точности) и ZGEMM (для комплексных 64-бит чисел с плавающей запятой двойной точности). В задачах HPC и ИИ для ускорения операций GEMM и других базовых подпрограмм линейной алгебры (BLAS) на ускорителях NVIDIA широко используется библиотека cuBLAS. <br />#nvidia #ии #эмулятор #hpc #cuda #rubin #software<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Кембриджский словарь выбрал «human» словом 2026 года на фоне развития ИИ</title>
+        <link>https://techimo.ru/news/kembridzhskiy-slovar-vybral-human-slovom-2026-goda-na-fone-razvitiya-ii</link>
+        <guid isPermaLink="true">https://techimo.ru/news/kembridzhskiy-slovar-vybral-human-slovom-2026-goda-na-fone-razvitiya-ii</guid>
+        <pubDate>Wed, 18 Nov 2026 09:51:10 +0300</pubDate>
+        <description><![CDATA[Кембриджский словарь (Cambridge Dictionary) официально объявил прилагательное «human» (человеческий) главным словом 2026 года. Данное решение отражает глобальные изменения в общественном дискурсе, вызванные стремительным прогрессом технологий машинного обучения. Эксперты отмечают, что на текущем этапе развития искусственного интеллекта вопрос самоидентификации человека и уникальности его творений стал центральной темой в науке, культуре и праве.
+...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>ИИ-генератор аудио Suno научился создавать музыкальные клипы</title>
+        <link>https://3dnews.ru/1151446/iigenerator-audio-suno-nauchilsya-sozdavat-muzikalnie-klipi</link>
+        <guid isPermaLink="true">https://3dnews.ru/1151446/iigenerator-audio-suno-nauchilsya-sozdavat-muzikalnie-klipi</guid>
+        <pubDate>Wed, 18 Nov 2026 09:44:00 +0300</pubDate>
+        <description><![CDATA[Стартап Suno расширил возможности своего ИИ-генератора, который позволяет создавать музыкальные композиции на основе текстовых запросов. Теперь сервис способен генерировать видео, дополняющие созданные пользователями аудиофайлы. Новая функция Visuals делает возможной генерацию 15-секундных клипов, которые можно склеивать вместе для получения полноценного видео.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Новая глава в истории Firaxis Games началась с массовых увольнений, а следующая XCOM в беде</title>
+        <link>https://3dnews.ru/1151443/novaya-glava-v-istorii-firaxis-games-nachalas-s-massovih-uvolneniy-a-sleduyushchaya-xcom-v-bede</link>
+        <guid isPermaLink="true">https://3dnews.ru/1151443/novaya-glava-v-istorii-firaxis-games-nachalas-s-massovih-uvolneniy-a-sleduyushchaya-xcom-v-bede</guid>
+        <pubDate>Wed, 18 Nov 2026 09:41:00 +0300</pubDate>
+        <description><![CDATA[Неудачи прошлогодней глобальной стратегии Sid Meier&rsquo;s Civilization VII продолжают сказываться на принадлежащей издательству 2K американской студии Firaxis Games (Marvel's Midnight Suns, серия XCOM).<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Новая глава в истории Firaxis Games началась с массовых увольнений, а следующая XCOM в беде</title>
+        <link>https://3dnews.ru/1151443/novaya-glava-v-istorii-firaxis-games-nachalas-s-massovih-uvolneniy-a-sleduyushchaya-xcom-v-bede</link>
+        <guid isPermaLink="true">https://3dnews.ru/1151443/novaya-glava-v-istorii-firaxis-games-nachalas-s-massovih-uvolneniy-a-sleduyushchaya-xcom-v-bede</guid>
+        <pubDate>Wed, 18 Nov 2026 09:41:00 +0300</pubDate>
+        <description><![CDATA[Неудачи прошлогодней глобальной стратегии Sid Meier&rsquo;s Civilization VII продолжают сказываться на принадлежащей издательству 2K американской студии Firaxis Games (Marvel's Midnight Suns, серия XCOM).<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Секретная сеть АНБ США дала сбой после обновления — это парализовало работу большинства сотрудников</title>
+        <link>https://3dnews.ru/1151441/sekretnaya-set-anb-ssha-dala-sboy-posle-obnovleniya-eto-paralizovalo-rabotu-bolshinstva-sotrudnikov</link>
+        <guid isPermaLink="true">https://3dnews.ru/1151441/sekretnaya-set-anb-ssha-dala-sboy-posle-obnovleniya-eto-paralizovalo-rabotu-bolshinstva-sotrudnikov</guid>
+        <pubDate>Wed, 18 Nov 2026 09:31:00 +0300</pubDate>
+        <description><![CDATA[Вчера вечером Агентство национальной безопасности (АНБ) США закрыло свой кампус для большинства сотрудников. Сообщается о сбоях во внутренней секретной сети NSANet после планового обновления систем безопасности. Ведутся работы по восстановлению инфраструктуры. Осведомлённые источники утверждают, что на данный момент нет доказательств кибератаки или внешнего вмешательства.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Grand Theft Auto VI  еще не вышла, а уже номинирована на премию «Игра года» от The Game Awards 2026</title>
+        <link>https://mmo13.ru/news/post-36885</link>
+        <guid isPermaLink="true">https://mmo13.ru/news/post-36885</guid>
+        <pubDate>Wed, 18 Nov 2026 09:26:26 +0300</pubDate>
+        <description><![CDATA[Игровой шоумен Джефф Кили раскрыл полный список участников премии The Game Awards 2026. Лидером по числу номинаций стал еще не вышедший экшен Grand Theft Auto VI от Rockstar Games.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Компьютер LEO, открывший эпоху коммерческого применения вычислительной техники, отмечает 75-летие</title>
+        <link>https://servernews.ru/1151398/</link>
+        <guid isPermaLink="true">https://servernews.ru/1151398/</guid>
+        <pubDate>Wed, 18 Nov 2026 09:22:50 +0300</pubDate>
+        <description><![CDATA[В ноябре исполняется 75 лет бизнес-вычислениям. Кембриджский Центр истории вычислительной техники (Centre for Computing History, Великобритания) устраивает праздник LEO@75 в честь машины, положившей начало коммерческому применению вычислительной техники, сообщает The Register. <br />#hardware #великобритания #суперкомпьютер #история<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Google обновила настройки приватности Gemini для защиты данных пользователей</title>
+        <link>https://techimo.ru/news/google-obnovila-nastroyki-privatnosti-gemini-dlya-zaschity-dannyh-polzovateley</link>
+        <guid isPermaLink="true">https://techimo.ru/news/google-obnovila-nastroyki-privatnosti-gemini-dlya-zaschity-dannyh-polzovateley</guid>
+        <pubDate>Wed, 18 Nov 2026 09:03:22 +0300</pubDate>
+        <description><![CDATA[Компания Google официально представила обновление системы безопасности для своего чат-бота Gemini, которое предоставляет пользователям расширенный контроль над персональной информацией. Теперь владельцы аккаунтов могут самостоятельно определять, будут ли их диалоги с нейросетью использоваться для обучения генеративных моделей ИИ. Данное нововведение направлено на повышение прозрачности взаимодействия человека с алгоритмами машинного обучения и ук...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Firaxis Games сократила треть сотрудников на фоне проблем с разработкой новой XCOM</title>
+        <link>https://mmo13.ru/news/post-36884</link>
+        <guid isPermaLink="true">https://mmo13.ru/news/post-36884</guid>
+        <pubDate>Wed, 18 Nov 2026 08:48:50 +0300</pubDate>
+        <description><![CDATA[Принадлежащая Take-Two Interactive студия Firaxis Games, известная по сериям Civilization и XCOM, сократила около 60 сотрудников, что составляет примерно треть всего штата. Об увольнениях сообщило издание Bloomberg со ссылкой на собственные источники.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Риски ИИ: модели Anthropic и OpenAI путают мирных жителей с целями</title>
+        <link>https://techimo.ru/news/riski-ii-modeli-anthropic-i-openai-putayut-mirnyh-zhiteley-s-celyami</link>
+        <guid isPermaLink="true">https://techimo.ru/news/riski-ii-modeli-anthropic-i-openai-putayut-mirnyh-zhiteley-s-celyami</guid>
+        <pubDate>Wed, 18 Nov 2026 08:30:58 +0300</pubDate>
+        <description><![CDATA[Независимое исследование компании Vals выявило критические недостатки в работе передовых систем искусственного интеллекта при моделировании боевых сценариев. Согласно опубликованному отчету, популярные нейросети демонстрируют тенденцию к ошибочной идентификации гражданских объектов как легитимных военных целей. В ходе тестирования алгоритмы не смогли корректно распознать мирных жителей и медицинский транспорт, что вызывает серьезные опасения у эк...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Nvidia прогнозирует рост выручки на 75% к 2028 финансовому году</title>
+        <link>https://techimo.ru/news/nvidia-prognoziruet-rost-vyruchki-na-75-k-2028-finansovomu-godu</link>
+        <guid isPermaLink="true">https://techimo.ru/news/nvidia-prognoziruet-rost-vyruchki-na-75-k-2028-finansovomu-godu</guid>
+        <pubDate>Wed, 18 Nov 2026 08:05:28 +0300</pubDate>
+        <description><![CDATA[Технологический гигант Nvidia представил обновленный финансовый прогноз, согласно которому выручка компании в 2028 финансовом году увеличится на 75%. Временный глава корпорации Колетт Крес подтвердила, что текущий рыночный спрос на решения в сфере искусственного интеллекта значительно превышает ранние ожидания аналитиков, что позволило скорректировать плановые показатели в сторону повышения с прежних 70%.
+Факторы роста и стабилизация цепочек пост...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Цифровой детокс в классах: запрет смартфонов повышает успеваемость</title>
+        <link>https://techimo.ru/news/cifrovoy-detoks-v-klassah-zapret-smartfonov-povyshaet-uspevaemost</link>
+        <guid isPermaLink="true">https://techimo.ru/news/cifrovoy-detoks-v-klassah-zapret-smartfonov-povyshaet-uspevaemost</guid>
+        <pubDate>Wed, 18 Nov 2026 07:35:25 +0300</pubDate>
+        <description><![CDATA[Новое совместное исследование ученых из Гарвардского университета и Дартмутского колледжа подтвердило прямую зависимость между ограничением использования мобильных устройств и качеством образования. Согласно полученным данным, запрет на смартфоны в школах приводит к существенному росту академических показателей учащихся. Специалисты подчеркивают, что устранение цифровых раздражителей в процессе обучения позволяет значительно повысить концентрацию...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
         <title>Microsoft научила Windows окирпичивать украденные ноутбуки — файлы при этом не пострадают</title>
@@ -136,13 +451,6 @@
         <description><![CDATA[Министерство энергетики США развернуло на базе испытательного стенда Darwin в Лос-Аламосской национальной лаборатории (LANL) второй кластер Maverick-2 израильского стартапа NextSilicon, сообщает The Register. Новая система значительно меньше развёрнутого ранее в в Сандийских национальных лабораториях первого суперкомпьютера на базе технологий NextSilicon с 64 вычислительными узлами и 128 ускорителями &mdash; она располагает всего четырьмя ускорителями. <br />#hardware #lanl #nextsilicon #ускоритель #hpc #сша<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
-        <title>Глобальный сбой сервисов Apple: пользователи потеряли доступ к Apple ID</title>
-        <link>https://techimo.ru/news/globalnyy-sboy-servisov-apple-polzovateli-poteryali-dostup-k-apple-id</link>
-        <guid isPermaLink="true">https://techimo.ru/news/globalnyy-sboy-servisov-apple-polzovateli-poteryali-dostup-k-apple-id</guid>
-        <pubDate>Tue, 17 Nov 2026 21:45:59 +0300</pubDate>
-        <description><![CDATA[Вечером 17 ноября 2025 года зафиксирован масштабный технический сбой в экосистеме Apple, затронувший миллионы пользователей по всему миру. Основная проблема связана с невозможностью авторизации в учетных записях Apple ID, что привело к частичной или полной неработоспособности ключевых облачных и мультимедийных платформ компании. Специалисты по кибербезопасности и системные администраторы отмечают, что неполадки носят трансграничный характер, затр...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
         <title>AWS продаст Blackstone два кампуса ЦОД и тут же арендует их</title>
         <link>https://servernews.ru/1151423/</link>
         <guid isPermaLink="true">https://servernews.ru/1151423/</guid>
@@ -213,20 +521,6 @@
         <description><![CDATA[Эксперты «Лаборатории Касперского» обнаружили группировку Citrus, которая атакует российские компании из финансового сектора, сельского хозяйства и ретейла. Хакеры проникают в корпоративные сети через скомпрометированные аккаунты подрядчиков, а для подготовки скриптов и команд активно используют ИИ.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
-        <title>Дженсен Хуанг заявил о готовности вернуться на пост CEO компании NVIDIA</title>
-        <link>https://techimo.ru/news/dzhensen-huang-zayavil-o-gotovnosti-vernutsya-na-post-ceo-kompanii-nvidia</link>
-        <guid isPermaLink="true">https://techimo.ru/news/dzhensen-huang-zayavil-o-gotovnosti-vernutsya-na-post-ceo-kompanii-nvidia</guid>
-        <pubDate>Tue, 17 Nov 2026 19:56:26 +0300</pubDate>
-        <description><![CDATA[Бывший руководитель технологического гиганта NVIDIA Дженсен Хуанг официально выразил готовность восстановиться в должности генерального директора, если совет директоров примет соответствующее решение. Возвращение основателя компании обсуждается на фоне его недавней отставки, вызванной нарушениями корпоративного кодекса поведения. В текущих условиях неопределенности ключевые стейкхолдеры рассматривают кандидатуру Хуанга как стратегически важную дл...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Сбой в секретной сети NSA Net: АНБ США расследует причины инцидента</title>
-        <link>https://techimo.ru/news/sboy-v-sekretnoy-seti-nsa-net-anb-ssha-rassleduet-prichiny-incidenta</link>
-        <guid isPermaLink="true">https://techimo.ru/news/sboy-v-sekretnoy-seti-nsa-net-anb-ssha-rassleduet-prichiny-incidenta</guid>
-        <pubDate>Tue, 17 Nov 2026 19:45:52 +0300</pubDate>
-        <description><![CDATA[Агентство национальной безопасности (АНБ) США столкнулось с масштабным техническим сбоем в работе своей ключевой внутренней инфраструктуры NSA Net, предназначенной для передачи и обработки классифицированных данных. Согласно официальным данным, инцидент привел к временной приостановке штатного режима обмена секретной информацией. В настоящий момент специалисты ведомства занимаются восстановлением функциональности систем и анализом возникших непол...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
         <title>Теперь и перепройти можно: ролевой боевик The Blood of Dawnwalker от ветеранов The Witcher 3 и Cyberpunk 2077 получил патч 1.2 с «Новой игрой +»</title>
         <link>https://3dnews.ru/1151422</link>
         <guid isPermaLink="true">https://3dnews.ru/1151422</guid>
@@ -274,22 +568,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1151420</guid>
         <pubDate>Tue, 17 Nov 2026 19:17:40 +0300</pubDate>
         <description><![CDATA[Google ежегодно выбирает лучшие игры и приложения, опубликованные на платформе Play Маркет, отдавая дань уважения их разработчикам. Сегодня стали известны лауреаты ежегодной премии Best of Google Play, которая присуждается за самые выдающиеся приложения, игры и книги. Эти работы заслужили награды за креативность и инновации. Результаты нынешнего рейтинга наглядно демонстрируют важные перемены в том, как люди взаимодействуют со своими устройствами. Источник изображения: blog.google<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>ЦБ РФ запустит единую систему учета банковских карт к сентябрю 2027 года</title>
-        <link>https://techimo.ru/news/cb-rf-zapustit-edinuyu-sistemu-ucheta-bankovskih-kart-k-sentyabryu-2027-goda</link>
-        <guid isPermaLink="true">https://techimo.ru/news/cb-rf-zapustit-edinuyu-sistemu-ucheta-bankovskih-kart-k-sentyabryu-2027-goda</guid>
-        <pubDate>Tue, 17 Nov 2026 19:10:38 +0300</pubDate>
-        <description><![CDATA[Банк России анонсировал создание единой системы учета банковских карт, запуск которой запланирован на 1 сентября 2027 года. Регулятор намерен консолидировать данные о номерах и типах платежных инструментов, привязав их к индивидуальному номеру налогоплательщика (ИНН) клиента. Данная инициатива направлена на повышение прозрачности финансового сектора и внедрение более жесткого контроля над эмиссией дебетовых и кредитных продуктов.
-Ограничение на к...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>В Госдуме предложили внести Steam в «белые списки» для защиты от блокировок</title>
-        <link>https://techimo.ru/news/v-gosdume-predlozhili-vnesti-steam-v-belye-spiski-dlya-zaschity-ot-blokirovok</link>
-        <guid isPermaLink="true">https://techimo.ru/news/v-gosdume-predlozhili-vnesti-steam-v-belye-spiski-dlya-zaschity-ot-blokirovok</guid>
-        <pubDate>Tue, 17 Nov 2026 18:51:11 +0300</pubDate>
-        <description><![CDATA[Вице-спикер Государственной Думы Владислав Даванков выступил с инициативой включить крупнейший игровой сервис Steam в специальный перечень доверенных ресурсов, чтобы предотвратить возможную блокировку платформы на территории России. Предложение направлено на поддержку многомиллионного сообщества пользователей и сохранение доступа к цифровым библиотекам игр в условиях ужесточения контроля над глобальными интернет-сервисами.
-Создание антиблокировоч...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
         <title>4800 взломанных аккаунтов GitHub использовались для атак на 60 000 репозиториев</title>
@@ -362,42 +640,11 @@
         <description><![CDATA[Немецкий моддер и инженер Аарон Кристофель (Aaron Christophel) продолжает переносить классический шутер Doom от id Software на не предназначенные для него устройства. На этот раз объектом эксперимента стала USB-флешка.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
-        <title>Нейроинтерфейсы станут массовыми: итоги саммита АТЭС-2026</title>
-        <link>https://techimo.ru/news/neyrointerfeysy-stanut-massovymi-itogi-sammita-ates-2026</link>
-        <guid isPermaLink="true">https://techimo.ru/news/neyrointerfeysy-stanut-massovymi-itogi-sammita-ates-2026</guid>
-        <pubDate>Tue, 17 Nov 2026 17:03:14 +0300</pubDate>
-        <description><![CDATA[Технологии нейроинтерфейсов (BCI) выходят за пределы научно-исследовательских лабораторий и начинают интеграцию в повседневную жизнь человека. На прошедшем саммите лидеров бизнеса АТЭС основатель компании Qiang Nao Technology Хань Бичэн представил прогноз развития отрасли, согласно которому управление цифровыми устройствами с помощью активности головного мозга станет стандартом взаимодействия в ближайшее десятилетие.
-Государственная поддержка и э...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Apple внедряет разблокировку по лицу в iPhone Duo с выходом iOS 27.3</title>
-        <link>https://techimo.ru/news/apple-vnedryaet-razblokirovku-po-licu-v-iphone-duo-s-vyhodom-ios-27-3</link>
-        <guid isPermaLink="true">https://techimo.ru/news/apple-vnedryaet-razblokirovku-po-licu-v-iphone-duo-s-vyhodom-ios-27-3</guid>
-        <pubDate>Tue, 17 Nov 2026 16:30:58 +0300</pubDate>
-        <description><![CDATA[Компания Apple официально представила новую функцию биометрической аутентификации для смартфонов серии iPhone Duo. В актуальной бета-версии операционной системы iOS 27.3, вышедшей в ноябре 2026 года, пользователям стала доступна разблокировка устройства при помощи фронтальной камеры. Это обновление расширяет возможности взаимодействия с девайсом, предлагая альтернативу привычным методам защиты.
-Технические особенности и ограничения метода
-Новый а...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
         <title>Соковыжималка. Изучаем PowerShell, атакуя OWASP Juice Shop</title>
         <link>https://xakep.ru/2026/11/17/powershell-juice-shop/</link>
         <guid isPermaLink="true">https://xakep.ru/2026/11/17/powershell-juice-shop/</guid>
         <pubDate>Tue, 17 Nov 2026 16:30:00 +0300</pubDate>
         <description><![CDATA[<a href="/tag/vybor-redaktora/">Для подписчиков</a><br/>Сегодня я покажу на примерах, как можно писать свои чекеры и брутеры на PowerShell. Это мощное средство автоматизации, которое может пригодиться не только в повседневной работе пользователя Windows, но и на пентесте.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Китайские ИИ-гиганты ограничивают функции своих моделей для кибератак</title>
-        <link>https://techimo.ru/news/kitayskie-ii-giganty-ogranichivayut-funkcii-svoih-modeley-dlya-kiberatak</link>
-        <guid isPermaLink="true">https://techimo.ru/news/kitayskie-ii-giganty-ogranichivayut-funkcii-svoih-modeley-dlya-kiberatak</guid>
-        <pubDate>Tue, 17 Nov 2026 16:05:14 +0300</pubDate>
-        <description><![CDATA[Ведущие технологические корпорации Китая начали превентивно ограничивать функциональные возможности своих новых нейросетевых моделей, способных применяться для проведения сетевых атак. Данная инициатива направлена на минимизацию рисков злоупотребления мощностями искусственного интеллекта и коррелирует с планами правительства КНР по ужесточению экспортного контроля над технологиями двойного назначения. Пересмотр архитектуры ИИ-систем в сторону уси...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Curator: в преддверии Черной пятницы активность вредоносных ботов выросла на 20 %</title>
-        <link>https://servernews.ru/1151410/</link>
-        <guid isPermaLink="true">https://servernews.ru/1151410/</guid>
-        <pubDate>Tue, 17 Nov 2026 16:05:00 +0300</pubDate>
-        <description><![CDATA[В начале сезона ноябрьских распродаж провайдер решений в области кибербезопасности и доставки контента Curator зафиксировал рост активности вредоносных ботов на 20 % по сравнению с предшествующим периодом. При этом, согласно статистике Curator.Antibot за III квартал 2026 года, именно электронная коммерция остаётся главной целью такой автоматизированной активности: на интернет-магазины пришлось 55,6 % всех заблокированных вредоносных бот-запросов против 43,67 % кварталом ранее. <br />#сети #curator #информационнаябезопасность #интернет #исследование<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
         <title>От Ikea до Zoom: хакеры скомпрометировали популярные сайты по всему миру</title>
@@ -407,39 +654,11 @@
         <description><![CDATA[Некоторые из наиболее посещаемых сайтов в мире, в том числе принадлежащие Zoom, HSBC, Equifax, CNN, Salesforce и Ikea, подверглись взлому. На этих ресурсах появился вредоносный скрипт, нацеленный на заражение устройств Apple iPhone и на кражу криптовалюты.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
-        <title>Meta угрожает ограничить работу своих сервисов в Канаде из-за закона о данных</title>
-        <link>https://techimo.ru/news/meta-ugrozhaet-ogranichit-rabotu-svoih-servisov-v-kanade-iz-za-zakona-o-dannyh</link>
-        <guid isPermaLink="true">https://techimo.ru/news/meta-ugrozhaet-ogranichit-rabotu-svoih-servisov-v-kanade-iz-za-zakona-o-dannyh</guid>
-        <pubDate>Tue, 17 Nov 2026 15:51:10 +0300</pubDate>
-        <description><![CDATA[Корпорация Meta (признана в России экстремистской организацией) рассматривает возможность частичного прекращения работы своих платформ на территории Канады. Причиной возможной блокировки сервисов стало принятие нового законодательства, регулирующего раскрытие пользовательских данных и доступ правоохранительных органов к информации. Технологический гигант выражает серьезную обеспокоенность тем, что новые нормы могут подорвать фундаментальные принц...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Nvidia создает комитет по экспортному контролю на фоне смены руководства</title>
-        <link>https://techimo.ru/news/nvidia-sozdaet-komitet-po-eksportnomu-kontrolyu-na-fone-smeny-rukovodstva</link>
-        <guid isPermaLink="true">https://techimo.ru/news/nvidia-sozdaet-komitet-po-eksportnomu-kontrolyu-na-fone-smeny-rukovodstva</guid>
-        <pubDate>Tue, 17 Nov 2026 15:32:23 +0300</pubDate>
-        <description><![CDATA[Технологический гигант Nvidia официально объявил об учреждении Комитета по надзору за национальной безопасностью и экспортным контролем. Данная мера направлена на усиление комплаенса и мониторинг трансграничных поставок высокотехнологичной продукции в условиях усложняющегося нормативного регулирования. Решение о создании нового подразделения стало одним из первых значимых управленческих шагов Колетт Крес, временно исполняющей обязанности генераль...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
         <title>Критический баг в Apache HTTP Server позволяет выполнять код без аутентификации</title>
         <link>https://xakep.ru/2026/11/17/cve-2026-119618/</link>
         <guid isPermaLink="true">https://xakep.ru/2026/11/17/cve-2026-119618/</guid>
         <pubDate>Tue, 17 Nov 2026 15:30:30 +0300</pubDate>
         <description><![CDATA[Разработчики Apache HTTP Server исправили критическую уязвимость CVE-2026-119618 в модуле mod_http2. Проблема позволяла удаленному атакующему без аутентификации выполнить произвольный код с правами процесса веб-сервера.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Дональд Трамп продал акции Nvidia на 1 млн долларов после визита в Китай</title>
-        <link>https://techimo.ru/news/donald-tramp-prodal-akcii-nvidia-na-1-mln-dollarov-posle-vizita-v-kitay</link>
-        <guid isPermaLink="true">https://techimo.ru/news/donald-tramp-prodal-akcii-nvidia-na-1-mln-dollarov-posle-vizita-v-kitay</guid>
-        <pubDate>Tue, 17 Nov 2026 15:11:16 +0300</pubDate>
-        <description><![CDATA[Бывший президент США Дональд Трамп полностью реализовал свою долю в технологическом гиганте Nvidia, продав ценные бумаги на общую сумму до 1 млн долларов. Согласно финансовым отчетам, опубликованным 17 ноября 2026 года, сделки были совершены в мае текущего года. Данное событие привлекло внимание аналитиков фондового рынка, так как оно совпало с рядом значимых внешнеполитических событий и изменениями в восприятии безопасности цепочек поставок полу...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Nvidia ограничивает доступ к ИИ-чипам через облако из-за санкций США</title>
-        <link>https://techimo.ru/news/nvidia-ogranichivaet-dostup-k-ii-chipam-cherez-oblako-iz-za-sankciy-ssha</link>
-        <guid isPermaLink="true">https://techimo.ru/news/nvidia-ogranichivaet-dostup-k-ii-chipam-cherez-oblako-iz-za-sankciy-ssha</guid>
-        <pubDate>Tue, 17 Nov 2026 15:03:43 +0300</pubDate>
-        <description><![CDATA[Компания Nvidia официально уведомила своих партнеров о новых юридических рисках, связанных с предоставлением удаленного доступа к графическим процессорам (GPU) для китайских организаций. В условиях ужесточения экспортного контроля со стороны Вашингтона, технологический гигант вынужден внедрять дополнительные меры проверки контрагентов, чтобы избежать санкционного давления. Основное внимание уделяется предотвращению обхода существующих ограничений...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
         <title>Стартовала предварительная регистрация в глобальную версию MMORPG Tree of Savior M</title>
@@ -454,79 +673,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1151402/vzlomshchik-rockstar-predstal-pered-sudom-i-priznal-vinu-za-massovuyu-utechku-gta-vi-studiya-poteryala-izza-nego-millioni-dollarov</guid>
         <pubDate>Tue, 17 Nov 2026 14:55:00 +0300</pubDate>
         <description><![CDATA[Британский хакер с албанскими корнями Арион Куртаж (Arion Kurtaj), &laquo;сливший&raquo; огромный объём материалов по боевику GTA VI от Rockstar Games более чем за год до его полноценного анонса, всё-таки предстал перед судом за свои действия.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Взломщик Rockstar предстал перед судом и признал вину за массовую утечку GTA VI — студия потеряла из-за него миллионы долларов</title>
-        <link>https://3dnews.ru/1151402/vzlomshchik-rockstar-predstal-pered-sudom-i-priznal-vinu-za-massovuyu-utechku-gta-vi-studiya-poteryala-izza-nego-millioni-dollarov</link>
-        <guid isPermaLink="true">https://3dnews.ru/1151402/vzlomshchik-rockstar-predstal-pered-sudom-i-priznal-vinu-za-massovuyu-utechku-gta-vi-studiya-poteryala-izza-nego-millioni-dollarov</guid>
-        <pubDate>Tue, 17 Nov 2026 14:55:00 +0300</pubDate>
-        <description><![CDATA[Британский хакер с албанскими корнями Арион Куртаж (Arion Kurtaj), &laquo;сливший&raquo; огромный объём материалов по боевику GTA VI от Rockstar Games более чем за год до его полноценного анонса, всё-таки предстал перед судом за свои действия.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>OpenAI арендует у TensorWave 457 МВт ИИ-мощностей на базе AMD Instinct</title>
-        <link>https://servernews.ru/1151405/</link>
-        <guid isPermaLink="true">https://servernews.ru/1151405/</guid>
-        <pubDate>Tue, 17 Nov 2026 14:35:00 +0300</pubDate>
-        <description><![CDATA[OpenAI заключила шестилетнее соглашение с облачной TensorWave о предоставлении ИИ-мощностей объёмом 457 МВт. Это произошло вскоре после того, как Fermi официально расторгла предварительный договор аренды с той же компанией, касающийся кампуса Project Matador в Техасе, сообщает Datacenter Dynamics. <br />#hardware #цод #сделка #openai #tensorwave #fermiamerica #ии #amd #instinct #mi400<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Риск утечки кадров в NVIDIA: сотрудники требуют оставить Дженсена Хуанга</title>
-        <link>https://techimo.ru/news/risk-utechki-kadrov-v-nvidia-sotrudniki-trebuyut-ostavit-dzhensena-huanga</link>
-        <guid isPermaLink="true">https://techimo.ru/news/risk-utechki-kadrov-v-nvidia-sotrudniki-trebuyut-ostavit-dzhensena-huanga</guid>
-        <pubDate>Tue, 17 Nov 2026 14:34:58 +0300</pubDate>
-        <description><![CDATA[Внутри американской корпорации NVIDIA наметился серьезный кризис управления, способный привести к потере ключевых специалистов. Директор по разработческим технологиям компании Надир Халиль направил официальное обращение к руководству и совету директоров, в котором предупредил о риске массового ухода сотрудников. Основным требованием инициативной группы является сохранение Дженсена Хуанга на посту генерального директора, что, по мнению подписантов...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Предзаказы GTA VI достигли $1,45 млрд накануне мирового релиза</title>
-        <link>https://techimo.ru/news/predzakazy-gta-vi-dostigli-1-45-mlrd-nakanune-mirovogo-reliza</link>
-        <guid isPermaLink="true">https://techimo.ru/news/predzakazy-gta-vi-dostigli-1-45-mlrd-nakanune-mirovogo-reliza</guid>
-        <pubDate>Tue, 17 Nov 2026 14:34:17 +0300</pubDate>
-        <description><![CDATA[Игровая индустрия замерла в ожидании одного из самых масштабных релизов десятилетия. По данным аналитической компании Sensor Tower, объем средств, потраченных пользователями на предзаказы GTA VI, достиг внушительной отметки в 1,45 миллиарда долларов. Несмотря на отсутствие официальных отчетов от разработчика, текущие показатели свидетельствуют о беспрецедентном коммерческом успехе проекта еще до его фактического выхода на рынок.
-Аналитика продаж ...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Платформа NVIDIA Vera Rubin обошла конкурентов во всех тестах MLPerf Training v6.1</title>
-        <link>https://servernews.ru/1151396/</link>
-        <guid isPermaLink="true">https://servernews.ru/1151396/</guid>
-        <pubDate>Tue, 17 Nov 2026 14:25:00 +0300</pubDate>
-        <description><![CDATA[Дебют платформы NVIDIA Vera Rubin в бенчмарках MLPerf был отмечен её лидерством по производительности в таких областях, как обучение моделей, постобучение и выполнение задач интеллектуальными агентами (agentic inference), сообщила NVIDIA. <br />#mlperf #ии #nvidia #бенчмарк #hardware #vr200 #ииагент<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Россияне массово жалуются на сбои Google, Deepseek, Twitch, Discord и «Ростелекома»</title>
-        <link>https://3dnews.ru/1151408/rossiyane-massovo-pogalovalis-na-sboi-google-deepseek-twitch-discord-i-rostelekoma</link>
-        <guid isPermaLink="true">https://3dnews.ru/1151408/rossiyane-massovo-pogalovalis-na-sboi-google-deepseek-twitch-discord-i-rostelekoma</guid>
-        <pubDate>Tue, 17 Nov 2026 14:22:00 +0300</pubDate>
-        <description><![CDATA[Из нескольких регионов России сегодня, 17 ноября 2026 года, стали поступать жалобы на проблемы с доступом к крупнейшим международным сервисам, в том числе Google, Deepseek, Twitch и Discord; сообщается также о сбоях в работе &laquo;Ростелекома&raquo;.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Иран, Казахстан и Туркменистан достигли предварительной договорённости о строительстве совместного цифрового коридора</title>
-        <link>https://servernews.ru/1151388/</link>
-        <guid isPermaLink="true">https://servernews.ru/1151388/</guid>
-        <pubDate>Tue, 17 Nov 2026 14:17:00 +0300</pubDate>
-        <description><![CDATA[Иран, Казахстан и Туркменистан заключили предварительное соглашение о создании совместного &laquo;цифрового коридора&raquo;, связывающего Центральную Азию с Персидским заливом и соседними странами. Новые шаги направлены на усиление региональной телеком-инфраструктуры и расширение цифровой связности. <br />#сети #иран #туркменистан #казахстан #сотрудничество #бразилия #гана #интернет<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Timeweb предупредил о сбоях в работе облачной инфраструктуры в трех странах</title>
-        <link>https://techimo.ru/news/timeweb-predupredil-o-sboyah-v-rabote-oblachnoy-infrastruktury-v-treh-stranah</link>
-        <guid isPermaLink="true">https://techimo.ru/news/timeweb-predupredil-o-sboyah-v-rabote-oblachnoy-infrastruktury-v-treh-stranah</guid>
-        <pubDate>Tue, 17 Nov 2026 14:11:09 +0300</pubDate>
-        <description><![CDATA[Хостинг-провайдер Timeweb официально уведомил клиентов о возможных технических сбоях и временной недоступности облачных сервисов. По предварительным данным, причиной нестабильной работы стали неполадки в функционировании сетевого оборудования. Технические специалисты компании уже приступили к диагностике и устранению возникших проблем, чтобы восстановить штатный доступ к ресурсам в кратчайшие сроки.
-География инцидента и затронутые локации
-Сбои н...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Кремниевая фотоника и Xeon нового поколения: Intel рассказала о разработках в области ИИ и НРС</title>
-        <link>https://servernews.ru/1151389/</link>
-        <guid isPermaLink="true">https://servernews.ru/1151389/</guid>
-        <pubDate>Tue, 17 Nov 2026 14:06:00 +0300</pubDate>
-        <description><![CDATA[Корпорация Intel, поделилась информацией о разработке передовых решений для платформ ИИ и НРС следующего поколения: Xeon 7, фотонике для каналов связи и квантовым компьютерам. <br />#hardware #intel #cpu #diamondrapids #xeon #hpc #ии #квантовыевычисления #интерконнект #фотоника<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>«123456» снова стал самым популярным паролем в мире — седьмой год подряд</title>
-        <link>https://3dnews.ru/1151406/123456-snova-stal-samim-populyarnim-parolem-v-mire-sedmoy-god-podryad</link>
-        <guid isPermaLink="true">https://3dnews.ru/1151406/123456-snova-stal-samim-populyarnim-parolem-v-mire-sedmoy-god-podryad</guid>
-        <pubDate>Tue, 17 Nov 2026 14:02:00 +0300</pubDate>
-        <description><![CDATA[Прошло восемь лет с тех пор, как сервис NordPass впервые опубликовал рейтинг самых популярных в мире паролей. Похоже, что с тех пор, вопрос безопасности паролей так и остаётся открытым. Опубликованный в восьмой раз рейтинг паролей по версии NordPass, составленный на основе данных об утечках, сильно похож на предыдущий в самом плохом смысле.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
         <title>Разработчики Embers of the Uncrowned набирают контент-мейкеров для освещения тестирования</title>
@@ -562,13 +708,6 @@
         <guid isPermaLink="true">https://mmo13.ru/news/post-36880</guid>
         <pubDate>Tue, 17 Nov 2026 12:50:16 +0300</pubDate>
         <description><![CDATA[Студия Funktronic Labs рассказала о состоянии онлайн экшен-RPG Scramble Knights Online после старта раннего доступа и обозначила приоритеты дальнейшей разработки.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Китай поставил дистилляцию американских ИИ-моделей на промышленный поток</title>
-        <link>https://3dnews.ru/1151400/kitay-postavil-distillyatsiyu-amerikanskih-iimodeley-na-promishlenniy-potok</link>
-        <guid isPermaLink="true">https://3dnews.ru/1151400/kitay-postavil-distillyatsiyu-amerikanskih-iimodeley-na-promishlenniy-potok</guid>
-        <pubDate>Tue, 17 Nov 2026 12:14:00 +0300</pubDate>
-        <description><![CDATA[Китайские организации находят всё более изощрённые способны использовать результаты работы передовых американских моделей искусственного интеллекта для обучения собственных аналогов. Этим способом Китай стремится расширить свой стратегию в области ИИ и компенсировать ужесточение американских ограничений на доступ к ИИ-ускорителям.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
         <title>Nvidia представила настольный суперкомпьютер DGX Spark HPC из четырёх мини-ПК</title>
@@ -611,13 +750,6 @@
         <guid isPermaLink="true">https://3dnews.ru/1151392</guid>
         <pubDate>Tue, 17 Nov 2026 09:50:00 +0300</pubDate>
         <description><![CDATA[Гендиректор OpenAI Сэм Альтман (Sam Altman) вернулся к своим неоднозначным высказываниям по поводу оперативной памяти для ПК. &laquo;Проясню: я хочу, чтобы у людей было много оперативной памяти; у каждого должна быть возможность приобрести большой объём памяти для своего компьютера. И считаю, что самостоятельные эксперименты с техникой &mdash; это здорово&raquo;, &mdash; заявил он. Источник изображения: x.com/sama<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Новые отражения, улучшенное освещение и «полностью оптимизированный» Зен: для Black Mesa вышло крупнейшее обновление за последние годы</title>
-        <link>https://3dnews.ru/1151390/novie-otrageniya-uluchshennoe-osveshchenie-i-polnostyu-optimizirovanniy-zen-dlya-black-mesa-vishlo-krupneyshee-obnovlenie-za-poslednie-godi</link>
-        <guid isPermaLink="true">https://3dnews.ru/1151390/novie-otrageniya-uluchshennoe-osveshchenie-i-polnostyu-optimizirovanniy-zen-dlya-black-mesa-vishlo-krupneyshee-obnovlenie-za-poslednie-godi</guid>
-        <pubDate>Tue, 17 Nov 2026 09:35:00 +0300</pubDate>
-        <description><![CDATA[Обещанное крупное обновление Anomalous Improvements (&laquo;Аномальные улучшения&raquo;) вышло из &laquo;беты&raquo; и стало доступно всем пользователям шутера Black Mesa от Crowbar Collective &mdash; ремейка оригинальной Half-Life, созданного с разрешения Valve.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
         <title>Новые отражения, улучшенное освещение и «полностью оптимизированный» Зен: для Black Mesa вышло крупнейшее обновление за последние годы</title>
@@ -760,13 +892,6 @@
         <description><![CDATA[Игровой аналитик и бизнес-профессор Йост ван Дрюнен поделился прогнозом коммерческих показателей Grand Theft Auto VI и оценил влияние игры на индустрию.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
-        <title>Специалисты нашли в сети данные обращений пользователей в поддержку Telegram</title>
-        <link>https://xakep.ru/2026/11/16/telegram-support-leak/</link>
-        <guid isPermaLink="true">https://xakep.ru/2026/11/16/telegram-support-leak/</guid>
-        <pubDate>Mon, 16 Nov 2026 18:30:51 +0300</pubDate>
-        <description><![CDATA[Аналитики BI.ZONE Threat Intelligence предупреждают, что обнаружили базу с персональными данными и текстами обращений пользователей в поддержку Telegram за 2025 год. По версии исследователей, наиболее вероятный источник утечки — злоупотребление доступом со стороны волонтеров службы поддержки.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
         <title>DeepSeek ввела лимиты для бесплатных пользователей после рекордного роста нагрузки</title>
         <link>https://3dnews.ru/1151359</link>
         <guid isPermaLink="true">https://3dnews.ru/1151359</guid>
@@ -795,20 +920,6 @@
         <description><![CDATA[Компания Alibaba представила свою новую флагманскую ИИ-модель Qwen4-Max. Алгоритм с 2,4 трлн параметров в процессе работы задействует лишь 71 млрд параметров на токен, а также поддерживает обработку изображений. В дополнение к этому Alibaba представила специальные наборы данных для дополнительного обучения и доработки, которые позволяют снизить риски в области химического, биологического, радиологического и ядерного оружия. Источник изображений: qwen.ai<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
-        <title>Alibaba представила Qwen4-Max — флагманскую ИИ-модель с  2,4 трлн параметров и запретом на кибератаки</title>
-        <link>https://3dnews.ru/1151354</link>
-        <guid isPermaLink="true">https://3dnews.ru/1151354</guid>
-        <pubDate>Mon, 16 Nov 2026 18:02:00 +0300</pubDate>
-        <description><![CDATA[Компания Alibaba представила свою новую флагманскую ИИ-модель Qwen4-Max. Алгоритм с 2,4 трлн параметров в процессе работы задействует лишь 71 млрд параметров на токен, а также поддерживает обработку изображений. В дополнение к этому Alibaba представила специальные наборы данных для дополнительного обучения и доработки, которые позволяют снизить риски в области химического, биологического, радиологического и ядерного оружия. Источник изображений: qwen.ai<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>HTB Nimbus. Выходим из привилегированного контейнера через обработчик дампов памяти</title>
-        <link>https://xakep.ru/2026/11/16/htb-nimbus/</link>
-        <guid isPermaLink="true">https://xakep.ru/2026/11/16/htb-nimbus/</guid>
-        <pubDate>Mon, 16 Nov 2026 17:50:07 +0300</pubDate>
-        <description><![CDATA[<a href="/tag/vybor-redaktora/">Для подписчиков</a><br/>Если контейнер запущен с избыточными правами, путь к хосту часто лежит через параметры ядра. В этой статье покажем побег с помощью core_pattern — заставим ядро при падении процесса выполнить наш скрипт от имени root на хосте.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
         <title>Предзагрузка GTA VI обернулась рекордным скачком интернет-трафика по всему миру</title>
         <link>https://3dnews.ru/1151356/predzagruzka-gta-vi-obernulas-rekordnim-skachkom-internettrafika-po-vsemu-miru</link>
         <guid isPermaLink="true">https://3dnews.ru/1151356/predzagruzka-gta-vi-obernulas-rekordnim-skachkom-internettrafika-po-vsemu-miru</guid>
@@ -821,13 +932,6 @@
         <guid isPermaLink="true">https://mmo13.ru/news/post-36875</guid>
         <pubDate>Mon, 16 Nov 2026 16:10:28 +0300</pubDate>
         <description><![CDATA[Разработчики кооперативного лутер-шутера The First Descendant провели трансляцию, посвященную ноябрьскому обновлению.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>В Chrome исправили восьмую 0-day-уязвимость в этом году</title>
-        <link>https://xakep.ru/2026/11/16/cve-2026-125350/</link>
-        <guid isPermaLink="true">https://xakep.ru/2026/11/16/cve-2026-125350/</guid>
-        <pubDate>Mon, 16 Nov 2026 15:30:27 +0300</pubDate>
-        <description><![CDATA[Разработчики Google выпустили экстренное обновление для браузера Chrome, которое суммарно устраняет девять уязвимостей. Среди них — уязвимость нулевого дня CVE-2026-125350, которой уже пользуются хакеры. Эта проблема стала восьмой по счету активно эксплуатируемой уязвимостью, исправленной в Chrome с начала 2026 года.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
         <title>Слух: На полное прохождение Grand Theft Auto VI может потребоваться около 200 часов</title>
@@ -851,46 +955,11 @@
         <description><![CDATA[Появились утечки о тайных переговорах Дженсена Хуанга (Jensen Huang) с союзниками о его возвращении на пост генерального директора Nvidia. Ранее Дженсен сам подал в отставку, когда вскрылись его любовные похождения с подчинённой и контакт с предполагаемой китайской шпионкой. Дженсен Хуанг и Элис Хуан на Computeх 2024. Источник изображения: Ann Wang/Reuters<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
-        <title>Дженсен Хуанг тайно обсуждает с союзниками возвращение на пост гендира Nvidia</title>
-        <link>https://3dnews.ru/1151349</link>
-        <guid isPermaLink="true">https://3dnews.ru/1151349</guid>
-        <pubDate>Mon, 16 Nov 2026 13:26:00 +0300</pubDate>
-        <description><![CDATA[Появились утечки о тайных переговорах Дженсена Хуанга (Jensen Huang) с союзниками о его возвращении на пост генерального директора Nvidia. Ранее Дженсен сам подал в отставку, когда вскрылись его любовные похождения с подчинённой и контакт с предполагаемой китайской шпионкой. Дженсен Хуанг и Элис Хуан на Computeх 2024. Источник изображения: Ann Wang/Reuters<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
         <title>«Выглядит потрясающе»: моддер прокачал Dark Souls: Prepare To Die Edition с помощью трассировки пути</title>
         <link>https://3dnews.ru/1151348/viglyadit-potryasayushche-modder-prokachal-dark-souls-prepare-to-die-edition-s-pomoshchyu-trassirovki-puti</link>
         <guid isPermaLink="true">https://3dnews.ru/1151348/viglyadit-potryasayushche-modder-prokachal-dark-souls-prepare-to-die-edition-s-pomoshchyu-trassirovki-puti</guid>
         <pubDate>Mon, 16 Nov 2026 13:24:00 +0300</pubDate>
         <description><![CDATA[Заинтриговавший фанатов прошедшей весной мод энтузиаста gabdeg с поддержкой трассировки пути для культового ролевого боевика Dark Souls от разработчиков из японской студии FromSoftware добрался до публичного релиза.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Завтра — глобальный анонс флагманов Xiaomi 18 Pro и Pro Max, в том числе в России</title>
-        <link>https://3dnews.ru/1151347</link>
-        <guid isPermaLink="true">https://3dnews.ru/1151347</guid>
-        <pubDate>Mon, 16 Nov 2026 13:22:00 +0300</pubDate>
-        <description><![CDATA[Завтра, 17 ноября, компания Xiaomi проведёт презентацию глобальных версий флагманских смартфонов Xiaomi 18 Pro и Xiaomi 18 Pro Max. Мероприятие состоится в Париже. Одновременно с остальным миром новинки дебютируют и на отечественном рынке. Источник изображения: Xiaomi<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Завтра — глобальный анонс флагманов Xiaomi 18 Pro и Pro Max, в том числе в России</title>
-        <link>https://3dnews.ru/1151347</link>
-        <guid isPermaLink="true">https://3dnews.ru/1151347</guid>
-        <pubDate>Mon, 16 Nov 2026 13:22:00 +0300</pubDate>
-        <description><![CDATA[Завтра, 17 ноября, компания Xiaomi проведёт презентацию глобальных версий флагманских смартфонов Xiaomi 18 Pro и Xiaomi 18 Pro Max. Мероприятие состоится в Париже. Одновременно с остальным миром новинки дебютируют и на отечественном рынке. Источник изображения: Xiaomi<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>POCO X8 Pro Max, POCO X8 и POCO X8s — надёжные смартфоны с премиальным дизайном и высокой производительностью</title>
-        <link>https://3dnews.ru/1151319</link>
-        <guid isPermaLink="true">https://3dnews.ru/1151319</guid>
-        <pubDate>Mon, 16 Nov 2026 12:53:00 +0300</pubDate>
-        <description><![CDATA[Бренд POCO предлагает вниманию пользователей смартфоны POCO X8 Pro Max, POCO X8 и POCO X8s, отличающиеся премиальным дизайном, надёжностью и высокой производительностью, что позволяет их использовать для мобильной связи в любых условиях, а также для игр. Флагманский смартфон POCO X8 Pro Max базируется на 3-нм процессоре Dimensity 9500s, набравшем в тесте AnTuTu 3 085 998 баллов. Объём оперативной памяти LPDDR5X-9600 составляет 12 Гбайт, флеш-накопителя в формате UFS 4.1 &mdash; 256/512 Гбайт.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>POCO X8 Pro Max, POCO X8 и POCO X8s — надёжные смартфоны с премиальным дизайном и высокой производительностью</title>
-        <link>https://3dnews.ru/1151319</link>
-        <guid isPermaLink="true">https://3dnews.ru/1151319</guid>
-        <pubDate>Mon, 16 Nov 2026 12:53:00 +0300</pubDate>
-        <description><![CDATA[Бренд POCO предлагает вниманию пользователей смартфоны POCO X8 Pro Max, POCO X8 и POCO X8s, отличающиеся премиальным дизайном, надёжностью и высокой производительностью, что позволяет их использовать для мобильной связи в любых условиях, а также для игр. Флагманский смартфон POCO X8 Pro Max базируется на 3-нм процессоре Dimensity 9500s, набравшем в тесте AnTuTu 3 085 998 баллов. Объём оперативной памяти LPDDR5X-9600 составляет 12 Гбайт, флеш-накопителя в формате UFS 4.1 &mdash; 256/512 Гбайт.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
         <title>«Формула-1» заключила партнёрство с игрой Umamusume: Pretty Derby про девушек-лошадей</title>
@@ -914,32 +983,11 @@
         <description><![CDATA[Американский инди-разработчик Дэвид Надаски (David Nadaski), скрывающийся под псевдонимом GlassBeaver, представил геймплейный трейлер своей научно-фэнтезийной стратегии в реальном времени Horu.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
-        <title>Никаких убийств, драк с полицией и угонов машин: китайские СМИ раскрыли правила стриминга GTA VI</title>
-        <link>https://3dnews.ru/1151338/nikakih-ubiystv-drak-s-politsiey-i-ugonov-mashin-kitayskie-smi-raskrili-pravila-striminga-gta-vi</link>
-        <guid isPermaLink="true">https://3dnews.ru/1151338/nikakih-ubiystv-drak-s-politsiey-i-ugonov-mashin-kitayskie-smi-raskrili-pravila-striminga-gta-vi</guid>
-        <pubDate>Mon, 16 Nov 2026 10:26:00 +0300</pubDate>
-        <description><![CDATA[Стриминг в Китае горячо ожидаемого криминального боевика с открытым миром GTA VI от разработчиков из студии Rockstar Games (принадлежит Take-Two Interactive) будет сопряжён с рядом странных ограничений.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>GTA V запустили на Nintendo Switch 2: игра не только загружается, но и запускает миссии</title>
-        <link>https://3dnews.ru/1151331/gta-v-zapustili-na-nintendo-switch-2-igra-ne-tolko-zagrugaetsya-no-i-zapuskaet-igrovie-missii</link>
-        <guid isPermaLink="true">https://3dnews.ru/1151331/gta-v-zapustili-na-nintendo-switch-2-igra-ne-tolko-zagrugaetsya-no-i-zapuskaet-igrovie-missii</guid>
-        <pubDate>Sun, 15 Nov 2026 20:57:00 +0300</pubDate>
-        <description><![CDATA[Известный разработчик и моддер @PLK показал рекомпиляцию игры GTA V от Rockstar, работающую на новейшей портативной консоли Nintendo. В эксперименте была использована среда kaiHEN, позволяющая запускать сторонние приложения на консолях Switch 2.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
         <title>Разработчики BitCraft Online представили дорожную карту развития игры до марта 2027 года</title>
         <link>https://mmo13.ru/news/post-36872</link>
         <guid isPermaLink="true">https://mmo13.ru/news/post-36872</guid>
         <pubDate>Sun, 15 Nov 2026 17:07:12 +0300</pubDate>
         <description><![CDATA[После релиза MMO-песочницы BitCraft Online студия Clockwork Labs поделилась планами на развитие игры до марта 2027 года.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Крупнейшее обновление LoL в истории: Riot Games показала тизер League of Legends: New Dawn, запланированной на 2027 год</title>
-        <link>https://3dnews.ru/1151326/krupneyshee-obnovlenie-lol-v-istorii-riot-games-pokazala-tizer-league-of-legends-new-dawn-zaplanirovannoy-na-2027-god</link>
-        <guid isPermaLink="true">https://3dnews.ru/1151326/krupneyshee-obnovlenie-lol-v-istorii-riot-games-pokazala-tizer-league-of-legends-new-dawn-zaplanirovannoy-na-2027-god</guid>
-        <pubDate>Sun, 15 Nov 2026 13:01:00 +0300</pubDate>
-        <description><![CDATA[Студия Riot Games представила дебютный тизер-трейлер масштабного обновления League of Legends: New Dawn (в русской локализации &mdash; &laquo;League of Legends: Новая заря&raquo;). Ролик показали во время трансляции гранд-финала World Championship 2026.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
         <title>Инсайдер уверен, что MMO по League of Legends будет PvPvE-игрой с тремя фракциями</title>
@@ -954,48 +1002,6 @@
         <guid isPermaLink="true">https://mmo13.ru/news/post-36870</guid>
         <pubDate>Sun, 15 Nov 2026 10:09:54 +0300</pubDate>
         <description><![CDATA[Компания Riot Games опубликовала видео, в котором рассказала о подготовке масштабного обновления New Dawn («Новая заря») для MOBA League of Legends.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Стартовало открытое бета-тестирование кооперативного шутера Exterminauts</title>
-        <link>https://mmo13.ru/news/post-36869</link>
-        <guid isPermaLink="true">https://mmo13.ru/news/post-36869</guid>
-        <pubDate>Sun, 15 Nov 2026 09:36:48 +0300</pubDate>
-        <description><![CDATA[Разработчик Behaviour Interactive и издатель Level Infinite запустили бета-тестирования кооперативного шутера Exterminauts. Доступ можно получить отправив заявку в Steam или за 15-минутный просмотр трансляций игры на Twtich.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Издатель Coffee Stain Group спасает разработчиков Chronicles: Medieval от финансового кризиса</title>
-        <link>https://mmo13.ru/news/post-36868</link>
-        <guid isPermaLink="true">https://mmo13.ru/news/post-36868</guid>
-        <pubDate>Sat, 14 Nov 2026 22:19:50 +0300</pubDate>
-        <description><![CDATA[Студия Raw Power Games, разрабатывающая кооперативную средневековую песочницу Chronicles: Medieval, сообщила о заключении сделки с издателем Coffee Stain Group.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Мобильная игра по Escape from Tarkov будет изометрическим extraction-шутером</title>
-        <link>https://mmo13.ru/news/post-36867</link>
-        <guid isPermaLink="true">https://mmo13.ru/news/post-36867</guid>
-        <pubDate>Sat, 14 Nov 2026 20:39:57 +0300</pubDate>
-        <description><![CDATA[Мобильная игра во вселенной Escape from Tarkov станет самостоятельным extraction-шутером с видом сверху, а не переносом оригинальной игры на смартфоны. Об этом рассказал глава Battlestate Games Никита Буянов в интервью порталу Insider Gaming.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>MMORPG Ragnarok Online 3 выйдет в ряде стран Азии в первом полугодии 2027 года</title>
-        <link>https://mmo13.ru/news/post-36866</link>
-        <guid isPermaLink="true">https://mmo13.ru/news/post-36866</guid>
-        <pubDate>Sat, 14 Nov 2026 19:40:48 +0300</pubDate>
-        <description><![CDATA[Компания Gravity планирует запустить MMORPG Ragnarok Online 3 в первом полугодии 2027 года в ряде стран Азии. Об этом стало известно из презентации для инвесторов, опубликованной в рамках финансового отчета за третий квартал 2026 года.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>В MMORPG Star Wars: The Old Republic стартовало тестирование клиента на DirectX 12</title>
-        <link>https://mmo13.ru/news/post-36865</link>
-        <guid isPermaLink="true">https://mmo13.ru/news/post-36865</guid>
-        <pubDate>Sat, 14 Nov 2026 12:46:02 +0300</pubDate>
-        <description><![CDATA[Разработчики MMORPG Star Wars: The Old Republic запустили техническое тестирование экспериментального клиента на базе DirectX 12. Оно открыто для всех желающих и проходит на основных игровых серверах.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>MMO-шутер PIONER закрывается из-за отсутствия финансирования</title>
-        <link>https://mmo13.ru/news/post-36864</link>
-        <guid isPermaLink="true">https://mmo13.ru/news/post-36864</guid>
-        <pubDate>Fri, 13 Nov 2026 21:37:52 +0300</pubDate>
-        <description><![CDATA[Студия GFAGAMES объявила о закрытии MMO-шутера PIONER на фоне отсутствия финансирования, необходимого для дальнейшей работы над проектом и поддержания серверной инфраструктуры.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
         <title>Раздача Knightica для EpicGames</title>
