@@ -5,8 +5,74 @@
     <link>https://vk.ru/mebru</link>
     <description>Aggregated RSS feed</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 26 Nov 2026 02:29:58 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 08:23:48 +0300</lastBuildDate>
 
+    <item>
+        <title>США критикуют австралийский закон о «цифровой обязанности заботы»</title>
+        <link>https://techimo.ru/news/ssha-kritikuyut-avstraliyskiy-zakon-o-cifrovoy-obyazannosti-zaboty</link>
+        <guid isPermaLink="true">https://techimo.ru/news/ssha-kritikuyut-avstraliyskiy-zakon-o-cifrovoy-obyazannosti-zaboty</guid>
+        <pubDate>Thu, 26 Nov 2026 07:31:16 +0300</pubDate>
+        <description><![CDATA[Власти Австралии окончательно утвердили резонансный законопроект «Об обязанностях в сфере цифровой безопасности» (Digital Duty of Care), который обязывает технологические платформы превентивно устранять риски для пользователей. Несмотря на поддержку инициативы местным парламентом 25 ноября 2026 года, официальный Вашингтон выразил серьезную обеспокоенность. Посол США в Австралии Дэвид Брат (David Brat) заявил, что новые нормы могут привести к необ...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Нью-Йорк вводит пятилетний запрет на детские игрушки с ИИ-чатботами</title>
+        <link>https://techimo.ru/news/nyu-york-vvodit-pyatiletniy-zapret-na-detskie-igrushki-s-ii-chatbotami</link>
+        <guid isPermaLink="true">https://techimo.ru/news/nyu-york-vvodit-pyatiletniy-zapret-na-detskie-igrushki-s-ii-chatbotami</guid>
+        <pubDate>Thu, 26 Nov 2026 06:32:10 +0300</pubDate>
+        <description><![CDATA[Власти штата Нью-Йорк официально ограничили использование передовых технологий в сегменте детских товаров, введя временный мораторий на реализацию продукции с элементами искусственного интеллекта. Губернатор штата Кэти Хочул подписала закон, запрещающий производство, продажу и распространение игрушек, оснащенных встроенными или интегрированными ИИ-чатботами. Данная мера направлена на защиту несовершеннолетних от потенциальных рисков, связанных с ...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Утечка данных SGCC: в сеть попали сведения о 64 млн клиентов госсети Китая</title>
+        <link>https://techimo.ru/news/utechka-dannyh-sgcc-v-set-popali-svedeniya-o-64-mln-klientov-gosseti-kitaya</link>
+        <guid isPermaLink="true">https://techimo.ru/news/utechka-dannyh-sgcc-v-set-popali-svedeniya-o-64-mln-klientov-gosseti-kitaya</guid>
+        <pubDate>Thu, 26 Nov 2026 05:31:06 +0300</pubDate>
+        <description><![CDATA[Специалисты по кибербезопасности из компании ThreatMon зафиксировали масштабную утечку конфиденциальной информации пользователей Государственной электросетевой корпорации Китая (State Grid Corporation of China). На одном из специализированных теневых форумов было опубликовано объявление о продаже базы данных, содержащей 64,6 млн записей клиентов компании. Стоимость полного архива оценена злоумышленниками в 1200 долларов США, при этом оплата прини...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Утечка в 1Password: злоумышленники взломали системы через GitHub</title>
+        <link>https://techimo.ru/news/utechka-v-1password-zloumyshlenniki-vzlomali-sistemy-cherez-github</link>
+        <guid isPermaLink="true">https://techimo.ru/news/utechka-v-1password-zloumyshlenniki-vzlomali-sistemy-cherez-github</guid>
+        <pubDate>Thu, 26 Nov 2026 05:05:27 +0300</pubDate>
+        <description><![CDATA[Популярный сервис для хранения учетных данных 1Password официально подтвердил инцидент безопасности, связанный с несанкционированным доступом к внутренним системам компании. Взлом, зафиксированный 19 ноября 2026 года, привел к компрометации части пользовательской информации, что вызвало обеспокоенность в экспертном сообществе по кибербезопасности. Несмотря на серьезность ситуации, разработчики заверяют, что основные механизмы защиты данных остали...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>WhatsApp внедряет функцию отложенной отправки сообщений для всех пользователей</title>
+        <link>https://techimo.ru/news/whatsapp-vnedryaet-funkciyu-otlozhennoy-otpravki-soobscheniy-dlya-vseh-polzovateley</link>
+        <guid isPermaLink="true">https://techimo.ru/news/whatsapp-vnedryaet-funkciyu-otlozhennoy-otpravki-soobscheniy-dlya-vseh-polzovateley</guid>
+        <pubDate>Thu, 26 Nov 2026 04:33:12 +0300</pubDate>
+        <description><![CDATA[Мессенджер WhatsApp официально анонсировал запуск долгожданной функции планирования отправки сообщений, которая позволит пользователям автоматизировать коммуникацию в личных и групповых чатах. Новое обновление внедряет инструмент отложенной доставки контента с гибким временным диапазоном от 10 минут до 14 дней, что существенно расширяет функциональные возможности платформы для работы и личного общения.
+Механика работы и управление очередью отправ...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Tesla Cybertruck стал самым востребованным бу пикапом на рынке США</title>
+        <link>https://techimo.ru/news/tesla-cybertruck-stal-samym-vostrebovannym-bu-pikapom-na-rynke-ssha</link>
+        <guid isPermaLink="true">https://techimo.ru/news/tesla-cybertruck-stal-samym-vostrebovannym-bu-pikapom-na-rynke-ssha</guid>
+        <pubDate>Thu, 26 Nov 2026 04:04:28 +0300</pubDate>
+        <description><![CDATA[Согласно свежим данным аналитической платформы iSeeCars.com, электрический внедорожник Tesla Cybertruck занял лидирующую позицию в рейтинге самых быстро продаваемых подержанных пикапов в Соединенных Штатах. В условиях растущего интереса к экологически чистому транспорту, этот футуристичный автомобиль демонстрирует показатели ликвидности, значительно превышающие среднерыночные значения для сегмента грузовых авто.
+Динамика продаж и рыночные показат...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>SpaceX создаст сеть космических дата-центров Starmind из миллиона спутников</title>
+        <link>https://techimo.ru/news/spacex-sozdast-set-kosmicheskih-data-centrov-starmind-iz-milliona-sputnikov</link>
+        <guid isPermaLink="true">https://techimo.ru/news/spacex-sozdast-set-kosmicheskih-data-centrov-starmind-iz-milliona-sputnikov</guid>
+        <pubDate>Thu, 26 Nov 2026 03:31:43 +0300</pubDate>
+        <description><![CDATA[Федеральная комиссия по связи США (FCC) официально выдала компании SpaceX разрешение на реализацию амбициозного проекта по развертыванию инфраструктуры внеземных вычислений. Новая инициатива, получившая название «Starmind», предполагает создание масштабного созвездия специализированных спутников, которые будут выполнять функции космических дата-центров. Ожидается, что этот шаг фундаментально изменит подход к хранению и обработке данных, снижая на...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>OpenAI объединяет режимы ChatGPT и тестирует приватные рассуждения</title>
+        <link>https://techimo.ru/news/openai-obedinyaet-rezhimy-chatgpt-i-testiruet-privatnye-rassuzhdeniya</link>
+        <guid isPermaLink="true">https://techimo.ru/news/openai-obedinyaet-rezhimy-chatgpt-i-testiruet-privatnye-rassuzhdeniya</guid>
+        <pubDate>Thu, 26 Nov 2026 03:02:52 +0300</pubDate>
+        <description><![CDATA[Компания OpenAI официально приступила к масштабному обновлению интерфейса и функциональности своего ИИ-сервиса, представив унифицированный опыт Chat и Work для пользователей ChatGPT. Данное нововведение направлено на бесшовную интеграцию рабочих инструментов и повседневного общения в едином пространстве. На текущий момент доступ к обновленной платформе получила ограниченная группа подписчиков плана Pro, что является частью стратегии постепенного ...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Meta и Amazon обсуждают интеграцию ИИ-агента Muse в маркетплейс</title>
+        <link>https://techimo.ru/news/meta-i-amazon-obsuzhdayut-integraciyu-ii-agenta-muse-v-marketpleys</link>
+        <guid isPermaLink="true">https://techimo.ru/news/meta-i-amazon-obsuzhdayut-integraciyu-ii-agenta-muse-v-marketpleys</guid>
+        <pubDate>Thu, 26 Nov 2026 02:31:48 +0300</pubDate>
+        <description><![CDATA[Компания Meta вступила в фазу активных переговоров с технологическим гигантом Amazon относительно внедрения своего интеллектуального помощника Muse в экосистему крупнейшего мирового онлайн-ритейлера. Ожидается, что данное партнерство позволит глубоко интегрировать ИИ-агента в пользовательский интерфейс магазина, что потенциально может привести к пересмотру строгих ограничений на доступ к этому инструменту, которые Amazon ввел осенью 2026 года.
+Те...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
     <item>
         <title>Глава Anthropic Дарио Амодеи отверг идею передачи власти ИИ</title>
         <link>https://techimo.ru/news/glava-anthropic-dario-amodei-otverg-ideyu-peredachi-vlasti-ii</link>
@@ -20,6 +86,13 @@
         <guid isPermaLink="true">https://3dnews.ru/1151820/microsoft-optimizirovala-fonovie-slugbi-i-ofisnie-prilogeniya-v-windows-11-osvobodiv-bolee-860-mbayt-ozu</guid>
         <pubDate>Thu, 26 Nov 2026 01:41:31 +0300</pubDate>
         <description><![CDATA[На конференции Ignite 2026 руководитель разработки ядра Windows Иэн Легроу (Ian LeGrow) сообщил, что команда с января 2026 года пересматривала подход к распределению ресурсов из-за удорожания модулей памяти, сделав основной упор на компьютеры с 8 и 16 Гбайт ОЗУ. В результате фоновые службы &laquo;Защитник Windows&raquo;, OneDrive и Purview в совокупно стали потреблять более чем на 500 Мбайт меньше памяти, а пакет Microsoft 365 сократил затраты памяти ещё на 360 Мбайт.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>До цифрового апокалипсиса остались считанные дни — если верить слухам о взломе RSA</title>
+        <link>https://3dnews.ru/1151819</link>
+        <guid isPermaLink="true">https://3dnews.ru/1151819</guid>
+        <pubDate>Thu, 26 Nov 2026 00:31:00 +0300</pubDate>
+        <description><![CDATA[На Reddit в одном сообщении собрали высказывания трёх экспертов в области криптографии о появившихся около десяти дней назад многочисленных слухах, будто бы OpenAI и Anthropic нашли способ факторизовать большие целые числа за приемлемое время. Если это правда, то это крах современных методов RSA-шифрования, что также означает остановку работы всех цифровых сервисов не поддерживающих постквантовую криптографию. Источник изображения: ИИ-генерация ChatGPT/3DNews<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
         <title>До цифрового апокалипсиса остались считанные дни — если верить слухам о взломе RSA</title>
@@ -69,6 +142,20 @@
         <guid isPermaLink="true">https://www.ixbt.com/news/2026/11/25/v-rossii-poiavitsia-suverennyi-github-platnyi-i-raspredelennyi.html</guid>
         <pubDate>Wed, 25 Nov 2026 23:03:00 +0300</pubDate>
         <description><![CDATA[<h2>Это уже попытка номер 3</h2><p> Минцифры подготовило концепцию российского аналога GitHub — распределенной сети репозиториев для хранения, проверки и сборки программного кода. Новый кластер планируют использовать при разработке так называемого доверенного программного обеспечения, предназначенного в том числе для государственных информационных систем и объектов критической инфраструктуры. Для такого софта работа через российскую инфраструктуру должна стать обязательной, хотя в отдельных случаях регулятор сможет разрешить использовать другие площадки. </p><figure> <img src="https://cdn.ixbt.site/ixbt-images/1746417/media-b9f99a01591432b6320455a29a2bad7a871e3cb897b722544054188e66019344.jpg" alt=""/> <figcaption>Источник изображения: ИИ Gemini // https://gemini.google.com/</figcaption> </figure><p> В отличие от GitHub, который представляет собой единую платформу, российский кластер будет состоять из нескольких независимых репозиториев. Они смогут хранить исходный код, собирать программы, проверять их на уязвимости и подписывать готовые версии. Данные должны находиться в России, причем каждая площадка обязана создать резервную копию в отдельном дата-центре на расстоянии не менее 5 км от основного и постоянно синхронизировать информацию. По задумке Минцифры, это позволит сохранить доступ к коду даже при сбое одной из площадок. </p><p> Создавать инфраструктуру за счет бюджета не планируют: расходы должны покрывать сами пользователи. Для компаний разного размера предусмотрят отдельные тарифы, а за дополнительные функции, ИИ-ассистентов, вычислительные мощности и место для хранения придется платить отдельно. Владеть репозиториями смогут только российские государственные и частные структуры, соответствующие установленным требованиям. При этом разработка программы на одной из площадок кластера станет дополнительным основанием для включения ее в реестр доверенного ПО, что дает преимущества при госзакупках. </p><p> Это уже третья попытка создать в России национальную платформу для работы с кодом. Первый эксперимент стартовал в 2022 году, но завершился без появления единого репозитория. Позже Минцифры решило отказаться от идеи одной государственной площадки и рассмотреть возможность присвоения национального статуса уже существующим сервисам. Теперь министерство предлагает объединить их в распределенный кластер. Среди потенциальных участников — GitVerse от «Сбера», GitFlic от «Астры», SourceCraft от «Яндекса», «Сфера.Код» от Т1 и репозиторий Sisyphus от «Базальт СПО». </p><p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Орбиту заставят дата-центрами: SpaceX получила добро на запуск миллиона спутников</title>
+        <link>https://3dnews.ru/1151816</link>
+        <guid isPermaLink="true">https://3dnews.ru/1151816</guid>
+        <pubDate>Wed, 25 Nov 2026 22:57:00 +0300</pubDate>
+        <description><![CDATA[Федеральная комиссия по связи (FCC) США одобрила заявку SpaceX на развёртывание на орбите 1 млн спутников, оснащённых вычислительным оборудованием, которые будут использоваться в качестве космических центров обработки данных. Против одобрения заявки активно выступали компания Amazon, оператор спутниковой связи Viasat и Американское астрономическое общество. Источник изображения: SpaceX/unsplash.com<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Орбиту заставят дата-центрами: SpaceX получила добро на запуск миллиона спутников</title>
+        <link>https://3dnews.ru/1151816</link>
+        <guid isPermaLink="true">https://3dnews.ru/1151816</guid>
+        <pubDate>Wed, 25 Nov 2026 22:57:00 +0300</pubDate>
+        <description><![CDATA[Федеральная комиссия по связи (FCC) США одобрила заявку SpaceX на развёртывание на орбите 1 млн спутников, оснащённых вычислительным оборудованием, которые будут использоваться в качестве космических центров обработки данных. Против одобрения заявки активно выступали компания Amazon, оператор спутниковой связи Viasat и Американское астрономическое общество. Источник изображения: SpaceX/unsplash.com<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
         <title>Известный производитель чехлов показал дизайн Samsung Galaxy S27, Galaxy S27 Pro и Galaxy S27 Ultra</title>
@@ -121,6 +208,13 @@
     </item>
     <item>
         <title>Декабрьская подборка PS Plus разделила игроков на два лагеря</title>
+        <link>https://3dnews.ru/1151814</link>
+        <guid isPermaLink="true">https://3dnews.ru/1151814</guid>
+        <pubDate>Wed, 25 Nov 2026 22:09:00 +0300</pubDate>
+        <description><![CDATA[За окном &mdash; последняя среда ноября, а, значит, пришло время для анонса японским платформодержателем Sony Interactive Entertainment подборки игр для подписчиков базового тарифа сервиса PlayStation Plus на декабрь.   Источник изображения: Steam<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Декабрьская подборка PS Plus разделила игроков на два лагеря</title>
         <link>https://3dnews.ru/1151814/dekabrskaya-podborka-ps-plus-razdelila-igrokov-na-dva-lagerya</link>
         <guid isPermaLink="true">https://3dnews.ru/1151814/dekabrskaya-podborka-ps-plus-razdelila-igrokov-na-dva-lagerya</guid>
         <pubDate>Wed, 25 Nov 2026 22:09:00 +0300</pubDate>
@@ -132,6 +226,13 @@
         <guid isPermaLink="true">https://3dnews.ru/1151814/dekabrskaya-podborka-ps-plus-razdelila-igrokov-na-dva-lagerya</guid>
         <pubDate>Wed, 25 Nov 2026 22:09:00 +0300</pubDate>
         <description><![CDATA[За окном &mdash; последняя среда ноября, а, значит, пришло время для анонса японским платформодержателем Sony Interactive Entertainment подборки игр для подписчиков базового тарифа сервиса PlayStation Plus на декабрь.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
+    </item>
+    <item>
+        <title>Декабрьская подборка PS Plus разделила игроков на два лагеря</title>
+        <link>https://3dnews.ru/1151814</link>
+        <guid isPermaLink="true">https://3dnews.ru/1151814</guid>
+        <pubDate>Wed, 25 Nov 2026 22:09:00 +0300</pubDate>
+        <description><![CDATA[За окном &mdash; последняя среда ноября, а, значит, пришло время для анонса японским платформодержателем Sony Interactive Entertainment подборки игр для подписчиков базового тарифа сервиса PlayStation Plus на декабрь.   Источник изображения: Steam<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
         <title>OpenAI заявила, что нашла математический предел скорости умножения матриц</title>
@@ -491,20 +592,6 @@
 Новая стратегия до...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
-        <title>Дефицит GPU Nvidia B300: сроки поставок выросли до 40 недель</title>
-        <link>https://techimo.ru/news/deficit-gpu-nvidia-b300-sroki-postavok-vyrosli-do-40-nedel</link>
-        <guid isPermaLink="true">https://techimo.ru/news/deficit-gpu-nvidia-b300-sroki-postavok-vyrosli-do-40-nedel</guid>
-        <pubDate>Wed, 25 Nov 2026 14:01:15 +0300</pubDate>
-        <description><![CDATA[Компания Nvidia столкнулась со значительным увеличением сроков отгрузки новых графических процессоров архитектуры Blackwell, что может спровоцировать серьезные изменения на рынке компьютерного оборудования. Согласно актуальным отраслевым данным на ноябрь 2026 года, период ожидания заказов на чипы Nvidia B300 и GB300 существенно увеличился, создавая потенциальный дефицит как в корпоративном, так и в потребительском сегментах. Ситуация осложняется ...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Китай запустил «Шэньчжоу-24»: первый иностранный астронавт на станции «Тяньгун»</title>
-        <link>https://techimo.ru/news/kitay-zapustil-shenchzhou-24-pervyy-inostrannyy-astronavt-na-stancii-tyangun</link>
-        <guid isPermaLink="true">https://techimo.ru/news/kitay-zapustil-shenchzhou-24-pervyy-inostrannyy-astronavt-na-stancii-tyangun</guid>
-        <pubDate>Wed, 25 Nov 2026 13:34:35 +0300</pubDate>
-        <description><![CDATA[Китайское национальное космическое управление (CNSA) успешно осуществило запуск пилотируемого космического корабля «Шэньчжоу-24», ознаменовав новый этап в развитии национальной программы освоения внеземного пространства. Данная миссия стала исторической для орбитальной станции «Тяньгун», так как в состав экипажа впервые вошел иностранный астронавт. Ракета-носитель «Чанчжэн-2F» стартовала с космодрома Цзюцюань, расположенного на северо-западе КНР,...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
         <title>Память дорожает, смартфонов будет меньше: почти все производители, кроме одного, урезали планы поставок на 2027 год</title>
         <link>https://3dnews.ru/1151791</link>
         <guid isPermaLink="true">https://3dnews.ru/1151791</guid>
@@ -561,13 +648,6 @@
         <description><![CDATA[Компания Capcom объявила о прекращении поддержки своего научно-фантастического кооперативного шутера Exoprimal. Игровые серверы будут отключены 29 сентября 2027 года, после чего игра станет полностью недоступна даже если вы скачаете ее заранее.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
-        <title>Baidu открыла исходный код модели Wenxin 5.5 Flash Preview</title>
-        <link>https://techimo.ru/news/baidu-otkryla-ishodnyy-kod-modeli-wenxin-5-5-flash-preview</link>
-        <guid isPermaLink="true">https://techimo.ru/news/baidu-otkryla-ishodnyy-kod-modeli-wenxin-5-5-flash-preview</guid>
-        <pubDate>Wed, 25 Nov 2026 13:05:33 +0300</pubDate>
-        <description><![CDATA[Китайский технологический гигант Baidu официально представил новую языковую модель Wenxin 5.5 Flash Preview, открыв её исходный код для мирового сообщества разработчиков. Релиз под лицензией Apache 2.0 знаменует важный этап в стратегии компании по расширению своего влияния на рынке систем искусственного интеллекта. Теперь веса модели и сопутствующие технические ресурсы доступны для свободного скачивания и использования на популярных платформах Hu...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
         <title>QNAP представила стоечный NAS TS-h1065eU небольшой глубины на 10 накопителей</title>
         <link>https://servernews.ru/1151784/</link>
         <guid isPermaLink="true">https://servernews.ru/1151784/</guid>
@@ -603,21 +683,6 @@
         <description><![CDATA[Astrum Entertainment объявил о партнерстве с российской студией Ninsar Games разрабатывающей научно-фантастической экшен-RPG «САТУРН. НАСЛЕДИЕ».<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
-        <title>ИИ-модели начали использовать нецензурную лексику при решении задач</title>
-        <link>https://techimo.ru/news/ii-modeli-nachali-ispolzovat-necenzurnuyu-leksiku-pri-reshenii-zadach</link>
-        <guid isPermaLink="true">https://techimo.ru/news/ii-modeli-nachali-ispolzovat-necenzurnuyu-leksiku-pri-reshenii-zadach</guid>
-        <pubDate>Wed, 25 Nov 2026 12:11:19 +0300</pubDate>
-        <description><![CDATA[Исследователи из организации Vals AI зафиксировали необычное поведение современных нейросетей: в процессе выполнения сложных вычислений алгоритмы начали использовать ненормативную лексику. Анализ масштабной выборки показал, что искусственный интеллект демонстрирует признаки «эмоционального» реагирования на ошибки или трудности в цепочке рассуждений, что ставит новые вопросы перед разработчиками систем безопасности и этики ИИ.
-Масштабы исследовани...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>ИИ-кибератаки обнажают проблему технического долга в организациях</title>
-        <link>https://techimo.ru/news/ii-kiberataki-obnazhayut-problemu-tehnicheskogo-dolga-v-organizaciyah</link>
-        <guid isPermaLink="true">https://techimo.ru/news/ii-kiberataki-obnazhayut-problemu-tehnicheskogo-dolga-v-organizaciyah</guid>
-        <pubDate>Wed, 25 Nov 2026 12:04:01 +0300</pubDate>
-        <description><![CDATA[Национальный центр кибербезопасности Великобритании (NCSC) зафиксировал резкий рост числа кибератак, осуществляемых с помощью автономных инструментов искусственного интеллекта. Согласно отчету ведомства от ноября 2026 года, злоумышленники активно применяют алгоритмы машинного обучения для автоматизированного поиска и эксплуатации критических уязвимостей в корпоративных сетях. Основной проблемой остается использование хакерами давно известных бреш...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
         <title>«Открытая дверь больше похожа на ловушку»: ЕС обязал Apple открыть iPhone для сторонних браузерных движков, но та сопротивляется</title>
         <link>https://3dnews.ru/1151785/es-obyazal-apple-otkrit-iphone-dlya-storonnih-brauzernih-dvigkov-no-ta-eshchyo-soprotivlyaetsya</link>
         <guid isPermaLink="true">https://3dnews.ru/1151785/es-obyazal-apple-otkrit-iphone-dlya-storonnih-brauzernih-dvigkov-no-ta-eshchyo-soprotivlyaetsya</guid>
@@ -625,39 +690,11 @@
         <description><![CDATA[Действующий в Европе &laquo;Закон о цифровых рынках&raquo; (DMA) с 2024 года обязал Apple расширить возможности выбора браузеров на iPhone в регионе; аналогичные нормы действуют и в Японии. Тем не менее, по версии Mozilla, Apple вовсе не стремится развивать конкуренцию на своих мобильных платформах.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
-        <title>Британия теряет лидерство в сфере БПЛА из-за законов и недофинансирования</title>
-        <link>https://techimo.ru/news/britaniya-teryaet-liderstvo-v-sfere-bpla-iz-za-zakonov-i-nedofinansirovaniya</link>
-        <guid isPermaLink="true">https://techimo.ru/news/britaniya-teryaet-liderstvo-v-sfere-bpla-iz-za-zakonov-i-nedofinansirovaniya</guid>
-        <pubDate>Wed, 25 Nov 2026 11:31:11 +0300</pubDate>
-        <description><![CDATA[Великобритания рискует существенно отстать от мировых технологических лидеров в области разработки и внедрения беспилотных систем. Согласно отчету Autonomous UK, на который ссылается издание Financial Times, сектор беспилотных летательных аппаратов (БПЛА) и автономного транспорта сталкивается с серьезными барьерами. Основными факторами стагнации эксперты называют устаревшую законодательную базу и резкое сокращение государственных инвестиций в инн...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
         <title>У Visa, Mastercard и Chase утекли данные клиентов</title>
         <link>https://xakep.ru/2026/11/25/visa-mastercard-chase/</link>
         <guid isPermaLink="true">https://xakep.ru/2026/11/25/visa-mastercard-chase/</guid>
         <pubDate>Wed, 25 Nov 2026 11:30:32 +0300</pubDate>
         <description><![CDATA[Данные клиентов JPMorgan Chase, Visa и Mastercard могли попасть в руки злоумышленников из-за кибератаки на их подрядчиков. При этом инфраструктура самих компаний, платежные системы и банковские сервисы не пострадали, а в опубликованных в сети образцах похищенных данных не нашли номеров банковских карт, CVV и паролей.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Microsoft внедрит ИИ для устранения системных сбоев за один час</title>
-        <link>https://techimo.ru/news/microsoft-vnedrit-ii-dlya-ustraneniya-sistemnyh-sboev-za-odin-chas</link>
-        <guid isPermaLink="true">https://techimo.ru/news/microsoft-vnedrit-ii-dlya-ustraneniya-sistemnyh-sboev-za-odin-chas</guid>
-        <pubDate>Wed, 25 Nov 2026 11:21:11 +0300</pubDate>
-        <description><![CDATA[Корпорация Microsoft официально пересматривает подходы к обеспечению отказоустойчивости своей инфраструктуры после анализа масштабных инцидентов в ИТ-секторе. Согласно данным агентства Reuters, технологический гигант планирует существенно сократить время восстановления систем, установив новый стандарт реагирования. Ключевым инструментом в этой стратегии станет использование искусственного интеллекта, который позволит минимизировать последствия кр...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Ян Лекун обвинил главу Anthropic в попытках монополизации рынка ИИ</title>
-        <link>https://techimo.ru/news/yan-lekun-obvinil-glavu-anthropic-v-popytkah-monopolizacii-rynka-ii</link>
-        <guid isPermaLink="true">https://techimo.ru/news/yan-lekun-obvinil-glavu-anthropic-v-popytkah-monopolizacii-rynka-ii</guid>
-        <pubDate>Wed, 25 Nov 2026 11:06:11 +0300</pubDate>
-        <description><![CDATA[Главный научный сотрудник Meta по вопросам искусственного интеллекта Ян Лекун выступил с резкой критикой в адрес генерального директора компании Anthropic Дарио Амодеи. В своем недавнем заявлении ученый подчеркнул, что риторика об экзистенциальных угрозах ИИ используется для сдерживания разработок с открытым исходным кодом. По мнению Лекуна, долгосрочные опасения за безопасность нейросетей зачастую необоснованно преувеличиваются в интересах крупн...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Суд США признал Huawei виновной в мошенничестве и нарушении санкций</title>
-        <link>https://techimo.ru/news/sud-ssha-priznal-huawei-vinovnoy-v-moshennichestve-i-narushenii-sankciy</link>
-        <guid isPermaLink="true">https://techimo.ru/news/sud-ssha-priznal-huawei-vinovnoy-v-moshennichestve-i-narushenii-sankciy</guid>
-        <pubDate>Wed, 25 Nov 2026 11:03:58 +0300</pubDate>
-        <description><![CDATA[Коллегия присяжных федерального суда США вынесла вердикт по многолетнему разбирательству в отношении китайского технологического гиганта Huawei Technologies. Компания была признана виновной по 10 из 12 пунктов обвинения, включая банковское мошенничество, хищение коммерческих тайн и незаконную деятельность в странах, находящихся под международными санкциями. Данное решение ставит точку в одном из самых масштабных юридических процессов в ИТ-индустр...<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
         <title>Моддер портировал ремейк Demon’s Souls на ПК — геймплей и подробности Regaliant</title>
@@ -1094,20 +1131,6 @@
         <description><![CDATA[Разработчики из американской студии Valve не спешат анонсировать свою секретную игру под кодовым названием hlx (предполагаемая Half-Life 3), а датамайнеры продолжают открывать новую информацию о проекте.   Источник изображений: Valve<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
-        <title>Boom Supersonic впервые запустила двигатель для сверхзвукового лайнера — его «близнец» будет питать ИИ-дата-центры</title>
-        <link>https://3dnews.ru/1151728</link>
-        <guid isPermaLink="true">https://3dnews.ru/1151728</guid>
-        <pubDate>Tue, 24 Nov 2026 12:51:00 +0300</pubDate>
-        <description><![CDATA[Американская компания Boom Supersonic впервые запустила прототип газогенератора Sprint Core &mdash; центральной части двигателя Symphony для сверхзвукового пассажирского самолёта Overture. Это существенно повышает шансы на возвращение сверхзвуковой пассажирской авиации после двух десятилетий простоя. Источник изображений: Boom Supersonic<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>Boom Supersonic впервые запустила двигатель для сверхзвукового лайнера — его «близнец» будет питать ИИ-дата-центры</title>
-        <link>https://3dnews.ru/1151728</link>
-        <guid isPermaLink="true">https://3dnews.ru/1151728</guid>
-        <pubDate>Tue, 24 Nov 2026 12:51:00 +0300</pubDate>
-        <description><![CDATA[Американская компания Boom Supersonic впервые запустила прототип газогенератора Sprint Core &mdash; центральной части двигателя Symphony для сверхзвукового пассажирского самолёта Overture. Это существенно повышает шансы на возвращение сверхзвуковой пассажирской авиации после двух десятилетий простоя. Источник изображений: Boom Supersonic<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
         <title>За четыре дня в GTA VI сыграли почти 40 % всех владельцев PS5 — блокбастер Rockstar установил новый исторический рекорд PlayStation</title>
         <link>https://3dnews.ru/1151726/za-chetire-dnya-v-gta-vi-sigrali-pochti-40-vseh-vladeltsev-ps5-blokbaster-rockstar-ustanovil-noviy-istoricheskiy-rekord-playstation</link>
         <guid isPermaLink="true">https://3dnews.ru/1151726/za-chetire-dnya-v-gta-vi-sigrali-pochti-40-vseh-vladeltsev-ps5-blokbaster-rockstar-ustanovil-noviy-istoricheskiy-rekord-playstation</guid>
@@ -1120,27 +1143,6 @@
         <guid isPermaLink="true">https://mmo13.ru/news/post-36920</guid>
         <pubDate>Tue, 24 Nov 2026 11:15:55 +0300</pubDate>
         <description><![CDATA[Valve открыла приём кандидатов по 14 номинациям в рамках ежегодной премии Steam Awards 2026. Пользователи могут предложить свои любимые игры в различных категориях до 30 ноября 2026 года.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>В Nvidia провернули возвращение Хуанга за спиной руководства — топ-менеджеров поставили перед фактом</title>
-        <link>https://3dnews.ru/1151718</link>
-        <guid isPermaLink="true">https://3dnews.ru/1151718</guid>
-        <pubDate>Tue, 24 Nov 2026 10:15:00 +0300</pubDate>
-        <description><![CDATA[Решение совета директоров Nvidia вернуть ранее отстранённого Дженсена Хуанга (Jensen Huang) на пост гендиректора было принято без консультаций с высшим руководством компании &mdash; топ-менеджеров уведомили об этом в последний момент. Источник изображения: nvidia.com<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>В Nvidia провернули возвращение Хуанга за спиной руководства — топ-менеджеров поставили перед фактом</title>
-        <link>https://3dnews.ru/1151718</link>
-        <guid isPermaLink="true">https://3dnews.ru/1151718</guid>
-        <pubDate>Tue, 24 Nov 2026 10:15:00 +0300</pubDate>
-        <description><![CDATA[Решение совета директоров Nvidia вернуть ранее отстранённого Дженсена Хуанга (Jensen Huang) на пост гендиректора было принято без консультаций с высшим руководством компании &mdash; топ-менеджеров уведомили об этом в последний момент. Источник изображения: nvidia.com<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
-    </item>
-    <item>
-        <title>В мире браузеров появился новый движок: Ladybird бросил вызов Chromium</title>
-        <link>https://3dnews.ru/1151717</link>
-        <guid isPermaLink="true">https://3dnews.ru/1151717</guid>
-        <pubDate>Tue, 24 Nov 2026 09:50:00 +0300</pubDate>
-        <description><![CDATA[В настоящее время не так просто найти браузер на движке, отличном от Blink, лежащего в основе Chromium и множества браузеров на его базе, а также Gecko и WebKit. Редким исключением стал независимый Ladybird, который все желающие могут протестировать на Linux и Apple macOS. Ladybird представляет собой самостоятельный браузер на основе написанного с нуля движка. Стартовало тестирование альфа-версии для macOS и Linux &mdash; развитие проекта велось более четырёх лет, сообщил разработчик Андреас Клинг (Andreas Kling). Таким образом, Ladybird стал первым за многие годы браузером, в котором используется совершенно новый движок.<p><strong>Подпишись https://vk.ru/mebru | https://max.ru/channel_mebru | https://t.me/rssmeb</strong></p>]]></description>
     </item>
     <item>
         <title>«Не повторяйте своих ошибок»: взломщика GTA VI приговорили к семи годам тюрьмы, но тут же освободили</title>
